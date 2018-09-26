@@ -1,0 +1,24 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/ruby:2.5
+    working_directory: ~/_forestry_site
+    environment:
+      JEKYLL_ENV: production
+    steps:
+      - run: apk update && apk add git
+      - checkout
+      - run: git submodule sync && git submodule update --init
+      - run: curl -L https://github.com/bep/s3deploy/releases/download/v2.1.0/s3deploy_2.1.0_Linux-64bit.tar.gz | tar xvz
+      - run: jekyll build --destination _forestry_site
+      - run: htmlproofer _forestry_site --allow-hash-href --check-html --empty-alt-ignore --disable-external
+      - deploy:
+          name: deploy
+          command: |
+            if [ "${CIRCLE_BRANCH}" = "master" ]; then
+              ./s3deploy -source=_forestry_site -region=us-east-1 -bucket=dock18-s3bucket-lal00k0htn0g -path=/
+            else
+              echo "Not master branch, dry run only"
+            fi
+
