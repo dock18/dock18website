@@ -1,24 +1,50 @@
+defaults: &defaults
+  working_directory: ~/_forestry_site
 version: 2
 jobs:
   build:
+    <<: *defaults
     docker:
       - image: circleci/ruby:2.5
-    working_directory: ~/_forestry_site
     environment:
-      JEKYLL_ENV: production
+      BUNDLE_PATH: ~/repo/vendor/bundle
     steps:
-      - run: apk update && apk add git
       - checkout
-      - run: git submodule sync && git submodule update --init
-      - run: curl -L https://github.com/bep/s3deploy/releases/download/v2.1.0/s3deploy_2.1.0_Linux-64bit.tar.gz | tar xvz
-      - run: jekyll build --destination _forestry_site
-      - run: htmlproofer _forestry_site --allow-hash-href --check-html --empty-alt-ignore --disable-external
-      - deploy:
-          name: deploy
+      - restore_cache:
+          keys:
+            - rubygems-v1-{% raw %}{{ checksum "Gemfile.lock" }}{% endraw %}
+            - rubygems-v1-fallback
+      - run:
+          name: Bundle Install
+          command: bundle check || bundle install
+      - run:
+          name: HTMLProofer tests
           command: |
-            if [ "${CIRCLE_BRANCH}" = "master" ]; then
-              ./s3deploy -source=_forestry_site -region=us-east-1 -bucket=dock18-s3bucket-lal00k0htn0g -path=/
-            else
-              echo "Not master branch, dry run only"
-            fi
+            bundle exec htmlproofer ./_site \
+              --allow-hash-href \
+              --check-favicon  \
+              --check-html \
+              --disable-external
+      - save_cache:
+          key: rubygems-v1-{% raw %}{{ checksum "Gemfile.lock" }}{% endraw %}
+          paths:
+            - vendor/bundle
+      - run:
+          name: Jekyll build
+          command: bundle exec jekyll build
+      - persist_to_workspace:
+          root: ./
+          paths:
+            - _dock18
 
+workflows:
+  version: 2
+  test-deploy:
+    jobs:
+      - build
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
