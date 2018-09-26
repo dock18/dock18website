@@ -36,7 +36,17 @@ jobs:
           root: ./
           paths:
             - _dock18
-
+    deploy:
+        <<: *defaults
+        docker:
+            - image: circleci/python:3.6.3
+        environment:
+            S3_BUCKET_NAME: dock18-s3bucket-lal00k0htn0g
+        steps:
+            - attach_workspace:
+                at: ./
+            - run:
+                curl -L https://github.com/bep/s3deploy/releases/download/v2.1.0/s3deploy_2.1.0_Linux-64bit.tar.gz | tar xvz
 workflows:
   version: 2
   test-deploy:
