@@ -1,5 +1,5 @@
 defaults: &defaults
-  working_directory: ~/_forestry_site
+  working_directory: ~/dock18
 version: 2
 jobs:
   build:
@@ -35,7 +35,7 @@ jobs:
       - persist_to_workspace:
           root: ./
           paths:
-            - _dock18
+            - _site
     deploy:
         <<: *defaults
         docker:
