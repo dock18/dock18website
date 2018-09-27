@@ -2,11 +2,10 @@
 title: Dock 18
 banner_image: "/img/Landingpage_Dock18.png"
 layout: landing-page
-heading: Dock 18
-sub_heading: Dock 18
+heading: "Something Big is Coming in December..."
 hero_button:
-  text: ''
-  href: ''
+  text: 'Contact'
+  href: 'mailto:info@rapidefood.com'
 textline: Dock 18
 services: []
 show_news: false

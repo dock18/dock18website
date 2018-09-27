@@ -5,8 +5,8 @@
     <section id="banner">
         <div class="inner">
             <img src="{{ page.banner_image | absolute_url }}" alt="Logo" style="height: 34vh;" />
-            <p>Something big is coming in December...</p>
-            <h2><a href="mailto:info@rapidefood.com" style="border-bottom: 0;">Contact</a></h2>
+            <p>{{ page.heading }}</p>
+            <h2><a href="{{page.hero_button.href}}" style="border-bottom: 0;">{{page.hero_button.text}}</a></h2>
         </div>
     </section>
 
