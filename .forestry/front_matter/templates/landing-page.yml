@@ -24,6 +24,7 @@ fields:
   description: 'Dimensions: 1200px by 580px'
   config:
     maxSize: '2'
+  default: "/img/Landingpage_Dock18_Logo.png"
 - type: field_group
   name: hero_button
   label: Hero Button
