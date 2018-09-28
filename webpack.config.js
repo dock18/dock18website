@@ -2,19 +2,16 @@ var path = require('path');
 const CleanWebpackPlugin = require('clean-webpack-plugin');
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const webpack = require('webpack');
-const UglifyJsPlugin = require("uglifyjs-webpack-plugin");
 const OptimizeCSSAssetsPlugin = require("optimize-css-assets-webpack-plugin");
+const workboxPlugin = require('workbox-webpack-plugin');
+const CompressionPlugin = require('compression-webpack-plugin');
+const MinifyPlugin = require("babel-minify-webpack-plugin");
 
-const devMode = process.env.NODE_ENV !== 'production'
+const devMode = process.env.NODE_ENV !== 'production';
 
 module.exports = {
     optimization: {
         minimizer: [
-            new UglifyJsPlugin({
-                cache: true,
-                parallel: true,
-                sourceMap: true // set to true if you want JS source maps
-            }),
             new OptimizeCSSAssetsPlugin({})
         ]
     },
@@ -59,7 +56,41 @@ module.exports = {
         new CleanWebpackPlugin(['dist']),
         new webpack.ProvidePlugin({
             $: 'jquery',
-            jQuery: 'jquery'
-        })
+            jQuery: 'jquery',
+            workbox: 'workbox-sw'
+        }),
+        new workboxPlugin.GenerateSW({
+            swDest: 'sw.js',
+            clientsClaim: true,
+            skipWaiting: true,
+            exclude: [/\.(?:png|jpg|jpeg|svg)$/],
+
+            // Define runtime caching rules.
+            runtimeCaching: [{
+                // Match any request ends with .png, .jpg, .jpeg or .svg.
+                urlPattern: /\.(?:png|jpg|jpeg|svg)$/,
+
+                // Apply a cache-first strategy.
+                handler: 'cacheFirst',
+
+                options: {
+                    // Use a custom cache name.
+                    cacheName: 'images',
+
+                    // Only cache 10 images.
+                    expiration: {
+                        maxEntries: 10
+                    }
+                }
+            }]
+        }),
+        new CompressionPlugin({
+            test: /\.js(\?.*)?$/i
+        }),
+        new webpack.LoaderOptionsPlugin({
+            minimize: true,
+            debug: false
+        }),
+        new MinifyPlugin()
     ]
 };

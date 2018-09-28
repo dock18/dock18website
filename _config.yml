@@ -27,7 +27,9 @@ collections:
 jekyll-archives:
   enabled: all
   layout: "archive"
-gems:
+url: "https://dock-18.de"
+plugins:
   - jekyll-menus
   - jekyll-feed
   - jekyll-archives
+  - jekyll-sitemap
