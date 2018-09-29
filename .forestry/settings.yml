@@ -9,7 +9,7 @@ sections:
   create: all
   templates:
   - landing-page
-  - default
+  - html-content
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
