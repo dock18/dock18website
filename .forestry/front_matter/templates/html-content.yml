@@ -12,3 +12,9 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- type: text
+  name: layout
+  label: Layout
+  description: Layout
+  hidden: true
+  default: page
