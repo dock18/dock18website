@@ -1,28 +1,27 @@
 ---
 layout: htmlcontent
 title: Dock18
+
 ---
-Datenschutzerklärung
---------------------
+## Datenschutzerklärung
 
 Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) im Rahmen der Erbringung unserer Leistungen sowie innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
-
 
 ### Verantwortlicher
 
 Rapide Food GmbH
 Eiffestrasse 632
-+49 40 / 319 754 97
+\+49 40 / 319 754 97
 20537 Hamburg
 info@rapidefood.com
 
 ### Arten der verarbeiteten Daten
 
-- Bestandsdaten (z.B., Personen-Stammdaten, Namen oder Adressen).
-- Kontaktdaten (z.B., E-Mail, Telefonnummern).
-- Inhaltsdaten (z.B., Texteingaben, Fotografien, Videos).
-- Nutzungsdaten (z.B., besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten).
-- Meta-/Kommunikationsdaten (z.B., Geräte-Informationen, IP-Adressen).
+* Bestandsdaten (z.B., Personen-Stammdaten, Namen oder Adressen).
+* Kontaktdaten (z.B., E-Mail, Telefonnummern).
+* Inhaltsdaten (z.B., Texteingaben, Fotografien, Videos).
+* Nutzungsdaten (z.B., besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten).
+* Meta-/Kommunikationsdaten (z.B., Geräte-Informationen, IP-Adressen).
 
 ### Kategorien betroffener Personen
 
@@ -30,10 +29,10 @@ Besucher und Nutzer des Onlineangebotes (Nachfolgend bezeichnen wir die betroffe
 
 ### Zweck der Verarbeitung
 
-- Zurverfügungstellung des Onlineangebotes, seiner Funktionen und Inhalte.
-- Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern.
-- Sicherheitsmaßnahmen.
-- Reichweitenmessung/Marketing
+* Zurverfügungstellung des Onlineangebotes, seiner Funktionen und Inhalte.
+* Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern.
+* Sicherheitsmaßnahmen.
+* Reichweitenmessung/Marketing
 
 ### Verwendete Begrifflichkeiten
 
@@ -185,4 +184,4 @@ Wir binden die Funktion zur Erkennung von Bots, z.B. bei Eingaben in Onlineformu
 
 ### Google Maps
 
-Wir binden die Landkarten des Dienstes “Google Maps” des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, ein. Zu den verarbeiteten Daten können insbesondere IP-Adressen und Standortdaten der Nutzer gehören, die jedoch nicht ohne deren Einwilligung (im Regelfall im Rahmen der Einstellungen ihrer Mobilgeräte vollzogen), erhoben werden. Die Daten können in den USA verarbeitet werden. Datenschutzerklärung: [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/), Opt-Out: [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated).
+Wir binden die Landkarten des Dienstes “Google Maps” des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, ein. Zu den verarbeiteten Daten können insbesondere IP-Adressen und Standortdaten der Nutzer gehören, die jedoch nicht ohne deren Einwilligung (im Regelfall im Rahmen der Einstellungen ihrer Mobilgeräte vollzogen), erhoben werden. Die Daten können in den USA verarbeitet werden. Datenschutzerklärung: [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/), Opt-Out: [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated "Opt-Out").
