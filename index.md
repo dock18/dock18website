@@ -1,5 +1,5 @@
 ---
-title: Dock 18
+title: Home
 banner_image: "/img/Landingpage_Dock18.png"
 layout: landing-page
 heading: "Something Big is Coming in December..."
@@ -15,5 +15,6 @@ menu:
   navigation:
     identifier: _index
     weight: 1
-
+lang: de-DE
+google_site_verification: "49ATv1MoFQJ-6fKTIyVyHcXhIx2ottnWEwlLnKGAQfU"
 ---

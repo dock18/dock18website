@@ -2,7 +2,7 @@
  "name": "Dock 18",
  "short_name": "Dock18",
  "lang": "de-DE",
- "start_url": "/?utm_source=a2hs"
+ "start_url": "/?utm_source=a2hs",
  "display": "standalone",
  "theme_color": "#FFFAEF",
  "background_color": "#FFFAEF",

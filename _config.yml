@@ -27,9 +27,26 @@ collections:
 jekyll-archives:
   enabled: all
   layout: "archive"
+exclude:
+  - "package.json"
+  - "webpack.config.js"
+  - "js/"
+  - "sass/"
+  - "font-awesome.config.js"
+  - "node_modules/**/*"
+  - ".idea/**/*"
+  - "Gemfile"
+  - "Gemfile.lock"
 url: "https://dock-18.de"
 plugins:
   - jekyll-menus
   - jekyll-feed
   - jekyll-archives
   - jekyll-sitemap
+  - jekyll-analytics
+  - jekyll-seo-tag
+
+jekyll_analytics:
+  GoogleAnalytics:         # Add, if you want to track with Google Analytics
+    id: UA-126695047-1     # Required - replace with your tracking id
+    anonymizeIp: true      # Optional - Default: false - set to true for anonymized tracking
