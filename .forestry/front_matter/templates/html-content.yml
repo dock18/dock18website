@@ -18,3 +18,5 @@ fields:
   description: Layout
   hidden: true
   default: page
+pages:
+- impressum.md
