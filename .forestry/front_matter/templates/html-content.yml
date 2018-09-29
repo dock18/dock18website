@@ -4,9 +4,9 @@ hide_body: true
 is_partial: false
 fields:
 - type: textarea
-  name: datenschutzerklarung
-  label: Datenschutzerklärung
-  description: Datenschutzerklärung
+  name: content
+  label: Inhalt
+  description: Inhalt
   config:
     required: true
     wysiwyg: true
