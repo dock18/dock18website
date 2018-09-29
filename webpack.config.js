@@ -1,4 +1,4 @@
-var path = require('path');
+const path = require('path');
 const CleanWebpackPlugin = require('clean-webpack-plugin');
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const webpack = require('webpack');
@@ -48,6 +48,11 @@ module.exports = {
                 }]
             }]
     },
+    resolve: {
+        alias: {
+            'jquery': require.resolve('jquery')
+        }
+    },
     plugins: [
         new MiniCssExtractPlugin({
             filename: devMode ? '[name].css' : '[name].[hash].css',
@@ -91,6 +96,7 @@ module.exports = {
             minimize: true,
             debug: false
         }),
-        new MinifyPlugin()
+        new MinifyPlugin(),
+        new webpack.SourceMapDevToolPlugin({})
     ]
 };

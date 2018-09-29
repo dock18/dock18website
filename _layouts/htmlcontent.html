@@ -7,11 +7,13 @@ This layout is used to generate custom landing page layouts,
 e.g index.md and about.md
 {% endcomment %}
 
+{% include header.html %}
+
 <section class="about">
     <div class="container">
         <div class="wrapper style5">
             <div class="content content-narrow inner">
-                {{ page.content }}
+                {{ content }}
             </div>
         </div>
     </div>

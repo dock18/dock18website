@@ -4,9 +4,13 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+import jQuery from 'jquery';
 import breakpoints from './breakpoints.min.js';
 import browser from './browser.min.js';
 import 'workbox-sw/build/workbox-sw.js';
+import './jquery.scrollex.min';
+import './jquery.scrolly.min.js';
+import './util.js';
 
 (function ($) {
 
@@ -57,9 +61,10 @@ import 'workbox-sw/build/workbox-sw.js';
             offset: $header.outerHeight()
         });
 
+
     // Menu.
-    /*$('#menu')
-        .append('<a href="#menu" class="close"></a>')
+    $('#menu')
+        .append("<a href=\"#menu\" class=\"close\"></a>")
         .appendTo($body)
         .panel({
             delay: 500,
@@ -71,7 +76,7 @@ import 'workbox-sw/build/workbox-sw.js';
             target: $body,
             visibleClass: 'is-menu-visible'
         });
-*/
+
     // Header.
     if ($banner.length > 0
         && $header.hasClass('alt')) {

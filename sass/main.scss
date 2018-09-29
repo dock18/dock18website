@@ -27,6 +27,15 @@
 // Reset.
 // Based on meyerweb.com/eric/tools/css/reset (v2.0 | 20110126 | License: public domain)
 
+	.logo {
+		width: 25vw;
+		height: auto;
+
+		@include breakpoint('<=small') {
+			width: 50vw;
+		}
+	}
+
 	html, body, div, span, applet, object,
 	iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 	pre, a, abbr, acronym, address, big, cite,
@@ -126,7 +135,7 @@
 
 	body, input, select, textarea {
 		color: _palette(fg);
-		font-family: _font(family);
+		font-family: _font(family), serif;
 		font-size: 15pt;
 		font-weight: _font(weight);
 		letter-spacing: _size(letter-spacing);
@@ -251,7 +260,7 @@
 	code {
 		background: _palette(border-bg);
 		border-radius: 3px;
-		font-family: _font(family-fixed);
+		font-family: _font(family-fixed), serif;
 		font-size: 0.9em;
 		letter-spacing: 0;
 		margin: 0 0.25em;
@@ -260,7 +269,7 @@
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: _font(family-fixed);
+		font-family: _font(family-fixed), serif;
 		font-size: 0.9em;
 		margin: 0 0 _size(element-margin) 0;
 
@@ -406,14 +415,13 @@
 		}
 
 		&:focus {
-			box-shadow: 0 0 0 2px _palette(accent1, bg);
+			box-shadow: 0 0 0 2px _palette(accent7, bg);
 		}
 	}
 
 	select {
 		background-size: 1.25em;
-		background-repeat: no-repeat;
-		background-position: calc(100% - 1em) center;
+		background: no-repeat calc(100% - 1em) center;
 		height: _size(element-height);
 		padding-right: _size(element-height);
 		text-overflow: ellipsis;
@@ -486,7 +494,7 @@
 
 		&:focus + label {
 			&:before {
-				box-shadow: 0 0 0 2px _palette(accent1, bg);
+				box-shadow: 0 0 0 2px _palette(accent7, bg);
 			}
 		}
 	}
@@ -1323,7 +1331,7 @@
 		}
 
 		&.style1 {
-			@include wrapper(accent1);
+			@include wrapper(accent7);
 		}
 
 		&.style2 {
@@ -1376,8 +1384,8 @@
 		@include vendor('transform', 'translateX(20em)');
 		@include vendor('transition', 'transform #{_duration(menu)} ease');
 		-webkit-overflow-scrolling: touch;
-		background: _palette(accent1, bg);
-		color: _palette(accent1, fg-bold);
+		background: _palette(accent7, fg-bold);
+		color: _palette(accent7, bg);
 		height: 100%;
 		max-width: 80%;
 		overflow-y: auto;
@@ -1393,7 +1401,7 @@
 			padding: 0;
 
 			> li {
-				border-top: solid 1px _palette(accent1, border);
+				border-top: solid 1px _palette(accent7, border);
 				margin: 0.5em 0 0 0;
 				padding: 0.5em 0 0 0;
 
@@ -1458,7 +1466,7 @@
 
 	#header {
 		@include vendor('transition', 'background-color #{_duration(transitions)} ease');
-		background: _palette(bg);
+		background: transparentize(_palette(fg), 0.9);
 		height: 3em;
 		left: 0;
 		line-height: 3em;
@@ -1480,6 +1488,7 @@
 				display: block;
 				height: inherit;
 				line-height: inherit;
+				color: white;
 
 				@include breakpoint('<=small') {
 					font-size: 0.8em;
@@ -1506,7 +1515,7 @@
 
 					> a {
 						border: 0;
-						color: _palette(fg-bold);
+						color: white;
 						display: block;
 						font-size: 0.8em;
 						letter-spacing: _size(letter-spacing-alt);
@@ -1813,18 +1822,15 @@
 
 	#footer {
 		@include padding(6em, 0);
-		background-color: darken(_palette(fg), 8);
+		background-color: _palette(fg);
+		color: _palette(fg-light);
 		text-align: center;
 
-		.icons {
-			font-size: 1.25em;
+		ul {
+			list-style-type: none;
 
-			a {
-				color: _palette(fg-light);
-
-				&:hover {
-					color: _palette(fg);
-				}
+			li {
+				display: inline;
 			}
 		}
 
@@ -1880,15 +1886,14 @@
 
 	body.landing {
 		#page-wrapper {
-			background-attachment: fixed;
-			background-position: center center;
-			background-repeat: no-repeat;
+			background: no-repeat fixed center center;
 			background-size: cover;
 			padding-top: 0;
 		}
 
 		#footer {
-			background-color: darken(transparentize(_palette(bg), 0.1), 8);
+			background-color: _palette(fg);
+			color: _palette(fg-light);
 		}
 	}
 
@@ -1906,7 +1911,8 @@
 			}
 
 			#footer {
-				background-color: darken(_palette(bg), 8);
+				background-color: _palette(fg);
+				color: _palette(fg-light);
 			}
 		}
 	}
