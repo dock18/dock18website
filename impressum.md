@@ -7,6 +7,7 @@ banner_image: ''
 hero_button:
   text: ''
   href: ''
+menu-title: Impressum
 
 ---
 # Impressum
