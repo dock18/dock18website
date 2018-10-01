@@ -1,6 +1,7 @@
 ---
 layout: htmlcontent
 title: Dock18
+menu-title: Datenschutz
 
 ---
 ## Datenschutzerklärung
@@ -162,7 +163,7 @@ Google wird diese Informationen in unserem Auftrag benutzen, um die Nutzung unse
 
 Wir setzen Google Analytics nur mit aktivierter IP-Anonymisierung ein. Das bedeutet, die IP-Adresse der Nutzer wird von Google innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt.
 
-Die von dem Browser des Nutzers übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Die Nutzer können die Speicherung der Cookies durch eine entsprechende Einstellung ihrer Browser-Software verhindern; die Nutzer können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf ihre Nutzung des Onlineangebotes bezogenen Daten an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter folgendem Link verfügbare Browser-Plugin herunterladen und installieren: [http://tools.google.com/dlpage/gaoptout?hl=de](http://tools.google.com/dlpage/gaoptout?hl=de).
+Die von dem Browser des Nutzers übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Die Nutzer können die Speicherung der Cookies durch eine entsprechende Einstellung ihrer Browser-Software verhindern; die Nutzer können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf ihre Nutzung des Onlineangebotes bezogenen Daten an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter folgendem Link verfügbare Browser-Plugin herunterladen und installieren: [http://tools.google.com/dlpage/gaoptout?hl=de](http://tools.google.com/dlpage/gaoptout?hl=de "hier").
 
 Weitere Informationen zur Datennutzung durch Google, Einstellungs- und Widerspruchsmöglichkeiten, erfahren Sie in der Datenschutzerklärung von Google ([https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)) sowie in den Einstellungen für die Darstellung von Werbeeinblendungen durch Google [(https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated)).
 
@@ -176,11 +177,11 @@ Dies setzt immer voraus, dass die Drittanbieter dieser Inhalte, die IP-Adresse d
 
 ### Youtube
 
-Wir binden die Videos der Plattform “YouTube” des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, ein. Datenschutzerklärung: [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/), Opt-Out: [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated).
+Wir binden die Videos der Plattform “YouTube” des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, ein. Datenschutzerklärung: [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/ "hier"), Opt-Out: [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated).
 
 ### Google ReCaptcha
 
-Wir binden die Funktion zur Erkennung von Bots, z.B. bei Eingaben in Onlineformularen ("ReCaptcha") des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, ein. Datenschutzerklärung: [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/), Opt-Out: [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated).
+Wir binden die Funktion zur Erkennung von Bots, z.B. bei Eingaben in Onlineformularen ("ReCaptcha") des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, ein. Datenschutzerklärung: [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/ "hier"), Opt-Out: [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated "hier").
 
 ### Google Maps
 
