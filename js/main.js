@@ -34,9 +34,7 @@ import './util.js';
         if ('serviceWorker' in navigator) {
             navigator.serviceWorker.register('/dist/sw.js');
         }
-        window.setTimeout(function () {
-            $body.removeClass('is-preload');
-        }, 100);
+        $body.removeClass('is-preload');
     });
 
     // Mobile?

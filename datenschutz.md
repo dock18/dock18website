@@ -1,7 +1,6 @@
 ---
 layout: htmlcontent
-title: Dock18
-menu-title: Datenschutz
+title: Datenschutz
 
 ---
 ## Datenschutzerklärung

@@ -1,13 +1,12 @@
 ---
 layout: htmlcontent
-title: Dock18
+title: Impressum
 content: " "
 heading: ''
 banner_image: ''
 hero_button:
   text: ''
   href: ''
-menu-title: Impressum
 
 ---
 # Impressum
