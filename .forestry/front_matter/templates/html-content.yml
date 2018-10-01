@@ -9,6 +9,13 @@ fields:
   description: Layout
   hidden: true
   default: page
+- type: text
+  default: menu-title
+  label: Text des Menu Titels
+  name: menu-title
+  description: Text des Menu Titels
+  config:
+    required: true
 pages:
 - datenschutz.md
 - impressum.md
