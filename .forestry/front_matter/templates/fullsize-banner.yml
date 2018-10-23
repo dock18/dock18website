@@ -3,4 +3,9 @@ label: Fullsize Banner
 hide_body: true
 is_partial: false
 fields:
-- type: include
+- type: blocks
+  label: Slide
+  name: fullsize_banner_slide
+  description: fullsize_banner_slide
+  config:
+    min: '1'
