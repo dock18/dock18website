@@ -14,7 +14,7 @@ sections:
   templates:
   - landing-page
   - html-content
-  - home-page
+  - startpage
 - type: directory
   path: _banners
   label: Banners
