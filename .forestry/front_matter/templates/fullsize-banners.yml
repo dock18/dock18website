@@ -12,5 +12,3 @@ fields:
     use_select: false
     source:
       type: pages
-pages:
-- _banners/list1.yml
