@@ -3,9 +3,21 @@ label: Fullsize Banner
 hide_body: true
 is_partial: false
 fields:
-- type: blocks
-  label: Slide
-  name: fullsize_banner_slide
-  description: fullsize_banner_slide
-  config:
-    min: '1'
+- type: text
+  name: image
+  label: Image
+  description: Image
+  hidden: true
+  default: page
+- type: text
+  name: description
+  label: Description
+  description: Description
+  hidden: true
+  default: page
+- type: text
+  name: alt
+  label: Alt
+  description: Alt
+  hidden: true
+  default: page

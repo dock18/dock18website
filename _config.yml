@@ -19,6 +19,8 @@ collections:
     permalink: "/about/:path/"
   posts:
     output: true
+  banners:
+    output: true
   projects:
     output: true
     permalink: "/projects/:path/"

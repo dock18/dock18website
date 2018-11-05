@@ -1,0 +1,17 @@
+<section id="fullscreen-image-slider">
+    <div class="fullscreen-image-slider">
+        <div class="orbit" role="region" aria-label="FullScreen Pictures" data-orbit>
+            <ul class="orbit-container">
+                {% for banner in site.banners %}
+                <li class="is-active orbit-slide">
+                    <img class="orbit-image" src="{{ banner.image }}" alt="{{ banner.alt }}">
+                    <figcaption class="orbit-caption">
+                        <h1>{{ banner.description }}</h1>
+                    </figcaption>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+
+</section>
