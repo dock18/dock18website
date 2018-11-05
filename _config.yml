@@ -15,6 +15,7 @@ defaults:
       layout: post
 collections:
   - banners
+  - products
 jekyll-archives:
   enabled: all
   layout: "archive"
