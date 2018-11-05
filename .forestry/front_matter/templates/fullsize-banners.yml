@@ -1,0 +1,14 @@
+---
+label: Fullsize Banners
+hide_body: true
+is_partial: false
+fields:
+- type: list
+  name: fullsize_banners
+  label: Fullsize Banners
+  config:
+    min: '1'
+    max: '5'
+    use_select: false
+    source:
+      type: pages

@@ -1,23 +1,12 @@
 ---
 label: Fullsize Banner
 hide_body: true
-is_partial: false
+is_partial: true
+display_field: fullsize_banner_slide
 fields:
 - type: text
   name: image
   label: Image
   description: Image
-  hidden: true
-  default: page
-- type: text
-  name: description
-  label: Description
-  description: Description
-  hidden: true
-  default: page
-- type: text
-  name: alt
-  label: Alt
-  description: Alt
-  hidden: true
-  default: page
+  config:
+    required: true
