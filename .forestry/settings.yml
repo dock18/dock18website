@@ -11,6 +11,34 @@ sections:
   - landing-page
   - html-content
   - home-page
+- type: jekyll-pages
+  label: Banners
+  create: all
+  templates:
+  - landing-page
+  - html-content
+  - home-page
+- type: jekyll-pages
+  label: Events
+  create: all
+  templates:
+  - landing-page
+  - html-content
+  - home-page
+- type: jekyll-pages
+  label: Products
+  create: all
+  templates:
+  - landing-page
+  - html-content
+  - home-page
+- type: jekyll-pages
+  label: Stories
+  create: all
+  templates:
+  - landing-page
+  - html-content
+  - home-page
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
