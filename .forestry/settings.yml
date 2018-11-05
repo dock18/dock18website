@@ -11,7 +11,7 @@ sections:
   - landing-page
   - html-content
   - home-page
-- type: jekyll-pages
+- type: document
   label: Banners
   templates:
   - landing-page
