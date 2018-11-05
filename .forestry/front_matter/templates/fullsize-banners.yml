@@ -12,3 +12,5 @@ fields:
     use_select: false
     source:
       type: pages
+pages:
+- _banners/test.yml
