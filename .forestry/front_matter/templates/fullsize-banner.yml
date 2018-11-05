@@ -12,3 +12,5 @@ fields:
 - type: text
   name: alt
   label: Alt
+pages:
+- _banners/test.yml
