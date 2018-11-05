@@ -12,3 +12,5 @@ fields:
     source:
       type: pages
       section: banners-f16eb7c4-3f0d-473d-8273-9adf0e1c0676
+pages:
+- _products/test.md
