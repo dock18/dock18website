@@ -22,7 +22,7 @@ sections:
   match: "*.yml"
   new_doc_ext: yml
   templates:
-  - fullsize-banners
+  - fullsize-banner
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
