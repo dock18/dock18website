@@ -1,8 +1,7 @@
 ---
 label: Fullsize Banner
 hide_body: true
-is_partial: true
-display_field: image
+is_partial: false
 fields:
 - type: file
   name: image
