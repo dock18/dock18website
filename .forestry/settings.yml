@@ -4,37 +4,29 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: jekyll-pages
+- type: directory
   label: Pages
   create: all
+  path: ''
+  match: "*.md"
+  exclude: "*README.md"
+  new_doc_ext: md
   templates:
   - landing-page
   - html-content
   - home-page
 - type: document
   label: Banners
-  templates:
-  - landing-page
-  - html-content
-  - home-page
+  directory: '_banners/'
 - type: document
   label: Events
-  templates:
-  - landing-page
-  - html-content
-  - home-page
+    directory: '_events/'
 - type: document
   label: Products
-  templates:
-  - landing-page
-  - html-content
-  - home-page
+    directory: '_products/'
 - type: document
   label: Stories
-  templates:
-  - landing-page
-  - html-content
-  - home-page
+  directory: '_stories/'
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
