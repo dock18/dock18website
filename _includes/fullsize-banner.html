@@ -4,10 +4,14 @@
             <ul class="orbit-container">
                 {% for banner in site.banners %}
                 <li class="is-active orbit-slide">
-                    <img class="orbit-image" src="{{ banner.image }}" alt="{{ banner.alt }}">
-                    <figcaption class="orbit-caption">
-                        <h1>{{ banner.description }}</h1>
-                    </figcaption>
+                    <figure>
+                        <img class="orbit-image" src="{{ banner.image | relative_url }}" alt="{{ banner.alt }}">
+                        {% if banner.description %}
+                        <figcaption class="orbit-caption">
+                            <h1>{{ banner.description }}</h1>
+                        </figcaption>
+                        {% endif %}
+                    </figure>
                 </li>
                 {% endfor %}
             </ul>
