@@ -13,28 +13,24 @@ sections:
   - home-page
 - type: jekyll-pages
   label: Banners
-  create: all
   templates:
   - landing-page
   - html-content
   - home-page
-- type: jekyll-pages
+- type: document
   label: Events
-  create: all
   templates:
   - landing-page
   - html-content
   - home-page
-- type: jekyll-pages
+- type: document
   label: Products
-  create: all
   templates:
   - landing-page
   - html-content
   - home-page
-- type: jekyll-pages
+- type: document
   label: Stories
-  create: all
   templates:
   - landing-page
   - html-content
