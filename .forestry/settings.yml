@@ -15,6 +15,12 @@ sections:
   - landing-page
   - html-content
   - home-page
+- type: directory
+  label: Banners
+  path: _banners
+  match: "*.yml"
+  new_doc_ext: ".yml"
+  create: all
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
