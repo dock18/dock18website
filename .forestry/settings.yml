@@ -15,14 +15,6 @@ sections:
   - landing-page
   - html-content
   - home-page
-- type: jekyll-pages
-  label: Pages
-  create: all
-  templates:
-  - landing-page
-  - html-content
-  - home-page
-upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
