@@ -5,8 +5,8 @@ is_partial: false
 fields:
 - type: include
   name: fullsize_banner
-  label: fullsize_banner
-  description: fullsize_banner
+  label: Fullsize Banner
   template: fullsize-banner
+  description: ''
 pages:
 - home.md
