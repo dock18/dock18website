@@ -14,3 +14,5 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+pages:
+- _products/test1.md
