@@ -5,5 +5,9 @@ is_partial: false
 fields:
 - type: include
   template: fullsize-banners
+- type: include
+  name: produktliste
+  label: Produktliste
+  template: produktliste
 pages:
 - home.md
