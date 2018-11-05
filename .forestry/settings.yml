@@ -20,10 +20,10 @@ sections:
   directory: '_banners/'
 - type: document
   label: Events
-    directory: '_events/'
+  directory: '_events/'
 - type: document
   label: Products
-    directory: '_products/'
+  directory: '_products/'
 - type: document
   label: Stories
   directory: '_stories/'
