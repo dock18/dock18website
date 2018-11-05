@@ -5,9 +5,9 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: ''
   label: Pages
   create: all
-  path: ''
   match: "*.md"
   exclude: "*README.md"
   new_doc_ext: md
@@ -15,18 +15,13 @@ sections:
   - landing-page
   - html-content
   - home-page
-- type: document
-  label: Banners
-  directory: '_banners/'
-- type: document
-  label: Events
-  directory: '_events/'
-- type: document
-  label: Products
-  directory: '_products/'
-- type: document
-  label: Stories
-  directory: '_stories/'
+- type: jekyll-pages
+  label: Pages
+  create: all
+  templates:
+  - landing-page
+  - html-content
+  - home-page
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
