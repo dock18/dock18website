@@ -13,4 +13,4 @@ fields:
   name: alt
   label: Alt
 pages:
-- _banners/test.yml
+- _banners/test.md

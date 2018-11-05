@@ -19,8 +19,8 @@ sections:
   path: _banners
   label: Banners
   create: all
-  match: "*.yml"
-  new_doc_ext: yml
+  match: "*.md"
+  new_doc_ext: md
   templates:
   - fullsize-banner
 upload_dir: uploads
