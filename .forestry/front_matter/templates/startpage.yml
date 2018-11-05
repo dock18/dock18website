@@ -4,9 +4,6 @@ hide_body: true
 is_partial: false
 fields:
 - type: include
-  name: fullsize_banner
-  label: Fullsize Banner
-  template: fullsize-banner
-  description: ''
+  template: fullsize-banners
 pages:
 - home.md
