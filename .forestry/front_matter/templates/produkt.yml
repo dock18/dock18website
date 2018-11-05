@@ -1,0 +1,17 @@
+---
+label: Produkt
+hide_body: true
+is_partial: true
+display_field: producttext
+fields:
+- type: file
+  name: productimage
+  label: Produktbild
+- type: textarea
+  name: producttext
+  label: Produkttext
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
