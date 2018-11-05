@@ -4,12 +4,12 @@ hide_body: true
 is_partial: true
 display_field: image
 fields:
-- type: text
-  name: image
-  label: Image
-  description: Image
-  config:
-    required: true
 - type: file
   name: image
   label: Image
+- type: text
+  name: description
+  label: Description
+- type: text
+  name: alt
+  label: Alt
