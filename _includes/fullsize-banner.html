@@ -1,9 +1,9 @@
 <section id="fullscreen-image-slider">
     <div class="fullscreen-image-slider">
         <div class="orbit" role="region" aria-label="FullScreen Pictures" data-orbit>
-            <ul class="orbit-container">
+            <div class="my-slider">
                 {% for banner in site.banners %}
-                <li class="is-active orbit-slide">
+                <div>
                     <figure>
                         <img class="orbit-image" src="{{ banner.image | relative_url }}" alt="{{ banner.alt }}">
                         {% if banner.description %}
@@ -12,10 +12,9 @@
                         </figcaption>
                         {% endif %}
                     </figure>
-                </li>
+                </div>
                 {% endfor %}
-            </ul>
+            </div>
         </div>
     </div>
-
 </section>

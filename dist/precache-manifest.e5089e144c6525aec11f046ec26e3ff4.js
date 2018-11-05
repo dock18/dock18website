@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "96eb8f428cfa6a46c695",
+    "revision": "54d279ff80f2318081d4",
     "url": "landingPage.css"
   },
   {
-    "revision": "96eb8f428cfa6a46c695",
+    "revision": "54d279ff80f2318081d4",
     "url": "landingPage.bundle.js"
   },
   {

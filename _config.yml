@@ -14,8 +14,10 @@ defaults:
     values:
       layout: post
 collections:
-  - banners
-  - products
+  banners:
+    output: true
+  products:
+    output: true
 jekyll-archives:
   enabled: all
   layout: "archive"

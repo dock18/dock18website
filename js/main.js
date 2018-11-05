@@ -11,6 +11,7 @@ import 'workbox-sw/build/workbox-sw.js';
 import './jquery.scrollex.min';
 import './jquery.scrolly.min.js';
 import './util.js';
+import { tns } from '../node_modules/tiny-slider/src/tiny-slider'
 
 (function ($) {
 
@@ -98,4 +99,12 @@ import './util.js';
 
     }
 
-})(jQuery);
+    let slider = tns({
+        container: '.my-slider',
+        items: 1,
+        slideBy: 'page',
+        autoplay: true,
+        controlsPosition: 'bottom'
+    });
+
+})(jQuery, tns);

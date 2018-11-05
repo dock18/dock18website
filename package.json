@@ -44,6 +44,7 @@
     "jquery.scrollex": "^0.2.1",
     "jquery.scrolly": "0.0.1",
     "lodash": "^4.17.11",
-    "mini-css-extract-plugin": "^0.4.3"
+    "mini-css-extract-plugin": "^0.4.3",
+    "tiny-slider": "^2.8.7"
   }
 }
