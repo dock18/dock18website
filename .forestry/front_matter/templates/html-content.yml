@@ -10,5 +10,5 @@ fields:
   hidden: true
   default: page
 pages:
-- datenschutz.md
 - impressum.md
+- datenschutz.md

@@ -2,7 +2,7 @@
 label: Fullsize Banner
 hide_body: true
 is_partial: true
-display_field: fullsize_banner_slide
+display_field: image
 fields:
 - type: text
   name: image
@@ -10,3 +10,6 @@ fields:
   description: Image
   config:
     required: true
+- type: file
+  name: image
+  label: Image
