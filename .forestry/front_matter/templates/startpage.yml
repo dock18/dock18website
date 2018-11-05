@@ -8,3 +8,5 @@ fields:
   label: fullsize_banner
   description: fullsize_banner
   template: fullsize-banner
+pages:
+- home.md

@@ -1,6 +1,6 @@
 ---
-title: Home
-layout: home-page
+title: NewHome
+layout: startpage
 menu:
   navigation:
     identifier: _index
