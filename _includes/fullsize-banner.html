@@ -2,18 +2,35 @@
     <div class="fullscreen-image-slider">
         <div class="orbit" role="region" aria-label="FullScreen Pictures" data-orbit>
             <div class="my-slider">
-                {% for banner in site.banners %}
-                <div>
-                    <figure>
-                        <img class="orbit-image" src="{{ banner.image | relative_url }}" alt="{{ banner.alt }}">
-                        {% if banner.description %}
-                        <figcaption class="orbit-caption">
-                            <h1>{{ banner.description }}</h1>
-                        </figcaption>
-                        {% endif %}
-                    </figure>
+                <div class="w3-content w3-display-container" data-slide-index="1">
+                    <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle">
+                        <div class="w3-controls">
+                            <div class="w3-left w3-hover-text-khaki" id="sliderBannerLeft">&#10094;</div>
+                            <div class="w3-right w3-hover-text-khaki" id="sliderBannerRight">&#10095;</div>
+                        </div>
+                        <div class="w3-dots">
+                            <div class="w3-dots-center">
+                                {% for banner in site.banners %}
+                                <span class="w3-badge demo w3-border w3-transparent w3-hover-white"
+                                      data-slide-index="{{ forloop.index }}" id="sliderDot">&nbsp;</span>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        {% for banner in site.banners %}
+                        <figure class="mySlides">
+                            <img class="orbit-image tns-lazy-img" src="{{ banner.image | relative_url }}"
+                                 alt="{{ banner.alt }}">
+                            {% if banner.description %}
+                            <figcaption class="orbit-caption">
+                                <h1>{{ banner.description }}</h1>
+                            </figcaption>
+                            {% endif %}
+                        </figure>
+                        {% endfor %}
+                    </div>
                 </div>
-                {% endfor %}
             </div>
         </div>
     </div>

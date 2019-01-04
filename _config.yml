@@ -18,6 +18,14 @@ collections:
     output: true
   products:
     output: true
+  textbanner:
+    output: true
+  fullsizetextbanner:
+    output: true
+  events:
+    output: true
+  stores:
+    output: true
 jekyll-archives:
   enabled: all
   layout: "archive"

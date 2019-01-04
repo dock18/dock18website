@@ -1,0 +1,25 @@
+---
+label: Text Banner
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  name: headline
+  label: Headline
+- type: text
+  name: text
+  label: Text
+- type: file
+  name: image
+  label: Bild
+- type: text
+  name: imagealt
+  label: Alternativ Text
+- type: text
+  name: link
+  label: Link
+- type: text
+  name: linktext
+  label: Link Text
+pages:
+- _textbanner/test.md

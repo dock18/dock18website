@@ -1,0 +1,19 @@
+<section id="product-list">
+    <h2 class="product-list-headline">Produkte</h2>
+    <div class="product-list-wrapper">
+        {% for product in site.products %}
+        <figure class="product">
+            <img class="orbit-image tns-lazy-img" src="{{ product.productimage | relative_url }}"
+                 alt="{{ banner.alt }}">
+            {% if product.producttext %}
+            <figcaption class="orbit-caption">
+                <h3>{{ product.producttext }}</h3>
+                <div>
+                    <a href="{{ product.productlink | relative_url}}">{{ product.productlinktext}}</a>
+                </div>
+            </figcaption>
+            {% endif %}
+        </figure>
+        {% endfor %}
+    </div>
+</section>

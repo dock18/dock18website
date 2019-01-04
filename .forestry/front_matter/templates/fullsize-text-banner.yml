@@ -1,0 +1,23 @@
+---
+label: Fullsize Banner
+hide_body: true
+is_partial: false
+fields:
+- type: file
+  name: image
+  label: Image
+- type: text
+  name: description
+  label: Description
+- type: text
+  name: alt
+  label: Alt
+- type: text
+  name: link
+  label: Link
+- type: text
+  name: linktext
+  label: Link Text
+pages:
+- _fullsizebanners/test2.md
+- _fullsizebanners/test.md

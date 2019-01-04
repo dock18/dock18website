@@ -11,7 +11,6 @@ import 'workbox-sw/build/workbox-sw.js';
 import './jquery.scrollex.min';
 import './jquery.scrolly.min.js';
 import './util.js';
-import { tns } from '../node_modules/tiny-slider/src/tiny-slider'
 
 (function ($) {
 
@@ -99,12 +98,43 @@ import { tns } from '../node_modules/tiny-slider/src/tiny-slider'
 
     }
 
-    let slider = tns({
-        container: '.my-slider',
-        items: 1,
-        slideBy: 'page',
-        autoplay: true,
-        controlsPosition: 'bottom'
-    });
+    let slider = $('.w3-display-container');
+    if(slider) {
+        showDivs(slider, $.data(slider, "slideIndex"));
+        $('#sliderBannerLeft').click(function () {
+            plusDivs($('.w3-display-container'), -1)
+        });
+        $('#sliderBannerRight').click(function () {
+            plusDivs($('.w3-display-container'), 1)
+        });
+        $('.sliderDot').click(function(){
+            currentDiv(this.data("slideIndex"));
+        })
+    }
 
-})(jQuery, tns);
+    function plusDivs(slider, n) {
+        slider.data("slideIndex", slider.data("slideIndex") + n);
+        showDivs(slider, slider.data("slideIndex"));
+    }
+
+    function currentDiv(slider, n) {
+        slider.data("slideIndex", n);
+        showDivs(slider, $.data(slider, "slideIndex"));
+    }
+
+    function showDivs(slider, n) {
+        let i;
+        const x = document.getElementsByClassName("mySlides");
+        const dots = document.getElementsByClassName("demo");
+        if (n > x.length) {slider.data("slideIndex", 1)}
+        if (n < 1) {slider.data("slideIndex",  x.length)}
+        for (i = 0; i < x.length; i++) {
+            x[i].style.display = "none";
+        }
+        for (i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" w3-white", "");
+        }
+        x[slider.data("slideIndex")-1].style.display = "block";
+        dots[slider.data("slideIndex")-1].className += " w3-white";
+    }
+})(jQuery);

@@ -8,6 +8,8 @@ fullsize_banner:
 - _banners/test.md
 produktliste:
 - _products/test1.md
+- _products/test2.md
+- _products/test3.md
 menu:
   navigation:
     identifier: _index

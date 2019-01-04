@@ -1,0 +1,22 @@
+<section class="fullsize-text-banner-list">
+    <div class="fullsize-text-banner-list-wrapper">
+        {% for textbanner in site.fullsizetextbanner %}
+        <div class="fullsize-wrapper">
+            <div class="fullsize-textbanner{% if textbanner.image %}-block{% endif %}">
+                <span>{{ textbanner.description }}</span>
+                {% if textbanner.link %}
+                <div class="fullsize-texbanner-button">
+                    <a href="{{ textbanner.link | relative_url }}">{{ textbanner.linktext}}</a>
+                </div>
+                {% endif %}
+            </div>
+            {% if textbanner.image %}
+            <figure class="fullsize-text-banner">
+                <img class="orbit-image tns-lazy-img" src="{{ textbanner.image | relative_url }}"
+                     alt="{{ textbanner.alt }}">
+            </figure>
+            {% endif %}
+        </div>
+        {% endfor %}
+    </div>
+</section>

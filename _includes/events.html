@@ -1,0 +1,30 @@
+<section class="text-banner-list">
+    <div class="text-banner-list-wrapper">
+        {% for textbanner in site.events %}
+        {% assign remainder = forloop.index | modulo: 2 %}
+        <div class="wrapper">
+            {% if remainder == 1 %}
+            <figure class="text-banner">
+                <img class="orbit-image tns-lazy-img" src="{{ textbanner.image | relative_url }}"
+                     alt="{{ textbanner.alt }}">
+            </figure>
+            {% endif %}
+            <div class="textbanner-block">
+                <h2>{{ textbanner.headline }}</h2>
+                <span>{{ textbanner.text }}</span>
+                {% if textbanner.link %}
+                <div class="texbanner-button">
+                    <a href="{{ textbanner.link | relative_url }}">{{ textbanner.linktext}}</a>
+                </div>
+                {% endif %}
+            </div>
+            {% if remainder == 0 %}
+            <figure class="text-banner">
+                <img class="orbit-image tns-lazy-img" src="{{ textbanner.image | relative_url }}"
+                     alt="{{ textbanner.alt }}">
+            </figure>
+            {% endif %}
+        </div>
+        {% endfor %}
+    </div>
+</section>
