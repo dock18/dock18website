@@ -13,5 +13,5 @@ fields:
   name: alt
   label: Alt
 pages:
-- _banners/test2.md
 - _banners/test.md
+- _banners/test2.md

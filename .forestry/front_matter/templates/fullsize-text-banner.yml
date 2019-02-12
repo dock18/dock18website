@@ -18,6 +18,3 @@ fields:
 - type: text
   name: linktext
   label: Link Text
-pages:
-- _fullsizebanners/test2.md
-- _fullsizebanners/test.md
