@@ -1,9 +1,17 @@
 <section id="product-list">
-    <h2 class="product-list-headline">Produkte</h2>
-    <div class="product-list-wrapper">
+    <h2 class="product-list-headline" id="product-list-headline">Produkte</h2>
+    <div class="product-list-wrapper" style="height: 100vh;">
         {% for product in site.products %}
-        <figure class="product">
-            <img class="orbit-image tns-lazy-img" src="{{ product.productimage | relative_url }}"
+        <figure class="product" data-aos="fade-up"
+                data-aos-offset="200"
+                data-aos-delay="10"
+                data-aos-duration="500"
+                data-aos-easing="ease-in-out"
+                data-aos-mirror="false"
+                data-aos-once="false"
+                data-aos-anchor-placement="top-center"
+                style="height: 100vh; background-color: {{ product.productcolor }}">
+            <img style="height: 90vh;background-position: center;background-repeat: no-repeat;object-fit: contain;object-position: center;" class="orbit-image tns-lazy-img" src="{{ product.productimage | relative_url }}"
                  alt="{{ banner.alt }}">
             {% if product.producttext %}
             <figcaption class="orbit-caption">

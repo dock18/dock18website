@@ -4,22 +4,49 @@
         {% assign remainder = forloop.index | modulo: 2 %}
         <div class="wrapper">
             {% if remainder == 1 %}
-            <figure class="text-banner">
+            <figure class="text-banner" data-aos="fade-right"
+                    data-aos-offset="200"
+                    data-aos-delay="10"
+                    data-aos-duration="500"
+                    data-aos-easing="ease-in-out"
+                    data-aos-mirror="false"
+                    data-aos-once="false"
+                    data-aos-anchor-placement="top-right">
                 <img class="orbit-image tns-lazy-img" src="{{ textbanner.image | relative_url }}"
                      alt="{{ textbanner.alt }}">
             </figure>
             {% endif %}
-            <div class="textbanner-block">
-                <h2>{{ textbanner.headline }}</h2>
-                <span>{{ textbanner.text }}</span>
-                {% if textbanner.link %}
-                <div class="texbanner-button">
-                    <a href="{{ textbanner.link | relative_url }}">{{ textbanner.linktext}}</a>
+            <div class="textbanner-block" data-aos="fade-up"
+                 data-aos-offset="200"
+                 data-aos-delay="10"
+                 data-aos-duration="500"
+                 data-aos-easing="ease-in-out"
+                 data-aos-mirror="false"
+                 data-aos-once="false"
+                 data-aos-anchor-placement="centers-center"
+                 style="margin-top: 20vh;">
+                <div>
+                    <h2>{{ textbanner.headline }}</h2>
+                    <span>{{ textbanner.text }}</span>
+                    {% if textbanner.link %}
+                    <div class="texbanner-button">
+                        <div>
+                            <a href="{{ textbanner.link | relative_url }}"
+                               style="    padding: .3em 1.6em .3em 1.6em;border: 0;background-color: rgb(23, 37, 58);color: white;"><span>{{ textbanner.linktext}}</span></a>
+                        </div>
+                    </div>
+                    {% endif %}
                 </div>
-                {% endif %}
             </div>
             {% if remainder == 0 %}
-            <figure class="text-banner">
+            <figure class="text-banner" data-aos="fade-left"
+                    data-aos-offset="200"
+                    data-aos-delay="10"
+                    data-aos-duration="500"
+                    data-aos-easing="ease-in-out"
+                    data-aos-mirror="false"
+                    data-aos-once="false"
+                    data-aos-anchor-placement="top-left">
                 <img class="orbit-image tns-lazy-img" src="{{ textbanner.image | relative_url }}"
                      alt="{{ textbanner.alt }}">
             </figure>

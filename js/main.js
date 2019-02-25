@@ -11,6 +11,8 @@ import 'workbox-sw/build/workbox-sw.js';
 import './jquery.scrollex.min';
 import './jquery.scrolly.min.js';
 import './util.js';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 
 (function ($) {
 
@@ -35,6 +37,13 @@ import './util.js';
             navigator.serviceWorker.register('/dist/sw.js');
         }
         $body.removeClass('is-preload');
+        AOS.init();
+    });
+
+    $("#more_button").click(function() {
+        $([document.documentElement, document.body]).animate({
+            scrollTop: $("#product-list-headline").offset().top
+        }, 800);
     });
 
     // Mobile?
