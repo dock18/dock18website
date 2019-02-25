@@ -9,5 +9,3 @@ fields:
 - type: text
   name: text
   label: Text
-pages:
-- _textbanner/test.md
