@@ -122,13 +122,17 @@ import 'aos/dist/aos.css';
     }
 
     function plusDivs(slider, n) {
-        slider.data("slideIndex", slider.data("slideIndex") + n);
-        showDivs(slider, slider.data("slideIndex"));
+        if(slider) {
+            slider.data("slideIndex", slider.data("slideIndex") + n);
+            showDivs(slider, slider.data("slideIndex"));
+        }
     }
 
     function currentDiv(slider, n) {
-        slider.data("slideIndex", n);
-        showDivs(slider, $.data(slider, "slideIndex"));
+        if(slider) {
+            slider.data("slideIndex", n);
+            showDivs(slider, $.data(slider, "slideIndex"));
+        }
     }
 
     function showDivs(slider, n) {
