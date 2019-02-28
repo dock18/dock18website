@@ -12,7 +12,7 @@
                     data-aos-mirror="false"
                     data-aos-once="false"
                     data-aos-anchor-placement="top-right">
-                <img class="orbit-image tns-lazy-img" src="{{ textbanner.image | relative_url }}"
+                <img class="event-image orbit-image tns-lazy-img" src="{{ textbanner.image | relative_url }}"
                      alt="{{ textbanner.alt }}">
             </figure>
             {% endif %}
@@ -23,16 +23,16 @@
                  data-aos-easing="ease-in-out"
                  data-aos-mirror="false"
                  data-aos-once="false"
-                 data-aos-anchor-placement="centers-center"
-                 style="margin-top: 20vh;">
-                <div>
+                 data-aos-anchor-placement="centers-center">
+                <div class="events-text">
                     <h2>{{ textbanner.headline }}</h2>
                     <span>{{ textbanner.text }}</span>
                     {% if textbanner.link %}
-                    <div class="texbanner-button">
+                    <div class="texbanner-button" style="{% if remainder == 1 %}float: right;margin-right: 1em;{% endif %}
+            {% if remainder == 0 %}float: left;margin-left: 1em;
+            {% endif %}margin-top: 4em;">
                         <div>
-                            <a href="{{ textbanner.link | relative_url }}"
-                               style="    padding: .3em 1.6em .3em 1.6em;border: 0;background-color: rgb(23, 37, 58);color: white;"><span>{{ textbanner.linktext}}</span></a>
+                            <a class="more-events" href="{{ textbanner.link | relative_url }}"><span>{{ textbanner.linktext}}</span></a>
                         </div>
                     </div>
                     {% endif %}
@@ -47,7 +47,7 @@
                     data-aos-mirror="false"
                     data-aos-once="false"
                     data-aos-anchor-placement="top-left">
-                <img class="orbit-image tns-lazy-img" src="{{ textbanner.image | relative_url }}"
+                <img class="event-image orbit-image tns-lazy-img" src="{{ textbanner.image | relative_url }}"
                      alt="{{ textbanner.alt }}">
             </figure>
             {% endif %}

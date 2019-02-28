@@ -1,6 +1,6 @@
 <section id="product-list">
-    <h2 class="product-list-headline" id="product-list-headline">Produkte</h2>
-    <div class="product-list-wrapper" style="height: 100vh;">
+    <h2 class="product-list-headline" id="product-list-headline"></h2>
+    <div class="product-list-wrapper">
         {% for product in site.products %}
         <figure class="product" data-aos="fade-up"
                 data-aos-offset="200"
@@ -9,18 +9,25 @@
                 data-aos-easing="ease-in-out"
                 data-aos-mirror="false"
                 data-aos-once="false"
-                data-aos-anchor-placement="top-center"
-                style="height: 100vh; background-color: {{ product.productcolor }}">
-            <img style="height: 90vh;background-position: center;background-repeat: no-repeat;object-fit: contain;object-position: center;" class="orbit-image tns-lazy-img" src="{{ product.productimage | relative_url }}"
-                 alt="{{ banner.alt }}">
-            {% if product.producttext %}
-            <figcaption class="orbit-caption">
-                <h3>{{ product.producttext }}</h3>
+                data-aos-anchor-placement="top-center">
+            <div class="product-list-item-wrapper">
+                <img class="product-list-item orbit-image tns-lazy-img" src="{{ product.productimage | relative_url }}"
+                     alt="{{ banner.alt }}">
+                {% if product.producttext %}
+                <figcaption class="not-mobile orbit-caption">
+                    <h3>{{ product.producttext }}</h3>
+                    <div>
+                        <a href="{{ product.productlink | relative_url}}">{{ product.productlinktext}}</a>
+                    </div>
+                </figcaption>
+                {% endif %}
+            </div>
+            <div class="mobile-product-item">
+                {{ product.producttext }}
                 <div>
                     <a href="{{ product.productlink | relative_url}}">{{ product.productlinktext}}</a>
                 </div>
-            </figcaption>
-            {% endif %}
+            </div>
         </figure>
         {% endfor %}
     </div>
