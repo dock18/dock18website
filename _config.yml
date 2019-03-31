@@ -26,6 +26,10 @@ collections:
     output: true
   stores:
     output: true
+  creation:
+    output: true
+  instagram:
+    output: true
 jekyll-archives:
   enabled: all
   layout: "archive"
@@ -39,6 +43,7 @@ exclude:
   - ".idea/**/*"
   - "Gemfile"
   - "Gemfile.lock"
+  - "*.otf"
 url: "https://dock-18.de"
 plugins:
   - jekyll-menus

@@ -107,8 +107,8 @@ import 'aos/dist/aos.css';
 
     }
 
-    let slider = $('.w3-display-container');
-    if(slider) {
+    //let slider = $('.w3-display-container');
+    /*if(slider) {
         showDivs(slider, $.data(slider, "slideIndex"));
         $('#sliderBannerLeft').click(function () {
             plusDivs($('.w3-display-container'), -1)
@@ -119,7 +119,7 @@ import 'aos/dist/aos.css';
         $('.sliderDot').click(function(){
             currentDiv(this.data("slideIndex"));
         })
-    }
+    }*/
 
     function plusDivs(slider, n) {
         if(slider) {

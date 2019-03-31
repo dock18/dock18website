@@ -2,6 +2,10 @@
     <h2 class="product-list-headline" id="product-list-headline"></h2>
     <div class="product-list-wrapper">
         {% for product in site.products %}
+
+        {% if product.productlink %}
+        <a href="{{ product.productlink }}">
+        {% endif %}
         <figure class="product" data-aos="fade-up"
                 data-aos-offset="200"
                 data-aos-delay="10"
@@ -10,25 +14,24 @@
                 data-aos-mirror="false"
                 data-aos-once="false"
                 data-aos-anchor-placement="top-center">
-            <div class="product-list-item-wrapper">
+            <div class="product-list-item-wrapper" style="background-color:{{ product.productcolor }}">
                 <img class="product-list-item orbit-image tns-lazy-img" src="{{ product.productimage | relative_url }}"
                      alt="{{ banner.alt }}">
-                {% if product.producttext %}
-                <figcaption class="not-mobile orbit-caption">
-                    <h3>{{ product.producttext }}</h3>
-                    <div>
-                        <a href="{{ product.productlink | relative_url}}">{{ product.productlinktext}}</a>
-                    </div>
-                </figcaption>
-                {% endif %}
+
             </div>
+            {% if product.producttext %}
+            <div class="not-mobile orbit-caption">
+                <h3>{{ product.producttext }}</h3>
+            </div>
+            {% endif %}
             <div class="mobile-product-item">
                 {{ product.producttext }}
-                <div>
-                    <a href="{{ product.productlink | relative_url}}">{{ product.productlinktext}}</a>
-                </div>
             </div>
         </figure>
+
+        {% if product.productlink %}
+        </a>
+        {% endif %}
         {% endfor %}
     </div>
 </section>
