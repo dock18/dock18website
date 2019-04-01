@@ -9,5 +9,4 @@ fields:
   label: Produktliste
   template: produktliste
 pages:
-- Produkte.md
 - home.md
