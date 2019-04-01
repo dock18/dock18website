@@ -7,6 +7,5 @@ productlink: "/home"
 productlinktext: Mehr
 productcolor: "#6D7278"
 produktlinktext: ''
-published: false
 
 ---
