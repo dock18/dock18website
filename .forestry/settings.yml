@@ -55,6 +55,14 @@ sections:
   new_doc_ext: md
   templates:
   - instagram
+- type: directory
+  path: _events
+  label: Events
+  create: all
+  match: "*.md"
+  new_doc_ext: md
+  templates:
+    - instagram
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
