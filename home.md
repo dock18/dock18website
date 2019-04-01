@@ -10,7 +10,7 @@ produktliste:
 - _products/test1.md
 - _products/test2.md
 - _products/test3.md
-undefined: "#DA4747"
+undefined: ''
 menu:
   navigation:
     identifier: _index
