@@ -21,4 +21,5 @@ fields:
   name: linktext
   label: Link Text
 pages:
+- _textbanner/Produkt_Black_Coffee.md
 - _textbanner/test.md
