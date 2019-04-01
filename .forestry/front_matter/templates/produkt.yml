@@ -5,6 +5,7 @@ fields:
 - type: file
   name: productimage
   label: Produktbild
+  default: "/uploads/2019/03/16/Black_Coffee_oBG.png"
 - type: textarea
   name: producttext
   label: Produkttext
@@ -13,6 +14,9 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+  default: "**DER BEKANNTE**\n\nUnser Black Coffee überzeugt durch seine solide Basis.
+    \  \nKlassisch Schwarz ohne Zusatz von Zucker oder Zusatzstoffe.   \nDer Cold
+    Brew durchsticht mit seiner natürlich süßen Aromenvielfalt."
 - type: text
   name: productlink
   label: Produktlink
