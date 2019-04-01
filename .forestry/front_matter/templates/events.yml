@@ -1,0 +1,22 @@
+---
+label: Events
+hide_body: true
+fields:
+- type: text
+  name: headline
+  label: headline
+- type: text
+  name: text
+  label: text
+- type: text
+  name: link
+  label: link
+- type: text
+  name: linktext
+  label: linktext
+- type: text
+  name: imagealt
+  label: imagealt
+- type: file
+  name: image
+  label: image

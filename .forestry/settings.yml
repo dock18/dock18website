@@ -46,7 +46,7 @@ sections:
   match: "*.md"
   new_doc_ext: md
   templates:
-    - creation
+  - creation
 - type: directory
   path: _instagram
   label: Instagram
@@ -54,7 +54,7 @@ sections:
   match: "*.md"
   new_doc_ext: md
   templates:
-    - instagram
+  - instagram
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
