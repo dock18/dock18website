@@ -12,5 +12,6 @@ fields:
   name: alt
   label: Alt
 pages:
+- _banners/Event_Catering.md
 - _banners/test2.md
 - _banners/test.md
