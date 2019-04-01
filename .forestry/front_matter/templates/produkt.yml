@@ -23,6 +23,9 @@ fields:
 - type: text
   name: produktlinktext
   label: Produktlink Text
+- type: image_gallery
+  hidden: false
+- type: field_group_list
 pages:
 - _products/test3.md
 - _products/test2.md
