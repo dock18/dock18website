@@ -16,3 +16,5 @@ fields:
   config:
     color_format: Hex
   default: "#6C7278"
+- type: text
+  default: TestBasti
