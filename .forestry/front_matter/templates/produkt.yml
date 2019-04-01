@@ -1,7 +1,6 @@
 ---
 label: Produkt
 hide_body: true
-is_partial: false
 fields:
 - type: file
   name: productimage
@@ -21,6 +20,6 @@ fields:
   name: produktlinktext
   label: Produktlink Text
 pages:
-- _products/test2.md
 - _products/test3.md
+- _products/test2.md
 - _products/test1.md

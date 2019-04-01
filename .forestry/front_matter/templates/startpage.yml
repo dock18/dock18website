@@ -1,7 +1,6 @@
 ---
 label: Startpage
 hide_body: true
-is_partial: false
 fields:
 - type: include
   template: fullsize-banners
@@ -10,4 +9,5 @@ fields:
   label: Produktliste
   template: produktliste
 pages:
+- Produkte.md
 - home.md

@@ -1,7 +1,6 @@
 ---
 label: html-content
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: layout
@@ -10,5 +9,5 @@ fields:
   hidden: true
   default: page
 pages:
-- datenschutz.md
 - impressum.md
+- datenschutz.md
