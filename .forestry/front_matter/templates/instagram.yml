@@ -1,4 +1,7 @@
 ---
 label: Instagram
 hide_body: true
-fields: []
+fields:
+- type: text
+  name: instagramId
+  label: Instagram Id
