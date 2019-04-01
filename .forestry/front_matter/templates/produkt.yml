@@ -1,6 +1,6 @@
 ---
 label: Produkt
-hide_body: true
+hide_body: false
 fields:
 - type: file
   name: productimage
