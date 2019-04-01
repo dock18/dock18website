@@ -1,6 +1,6 @@
 ---
 label: Produkt
-hide_body: false
+hide_body: true
 fields:
 - type: file
   name: productimage
@@ -23,9 +23,11 @@ fields:
 - type: text
   name: produktlinktext
   label: Produktlink Text
-- type: image_gallery
-  hidden: false
-- type: field_group_list
+- type: color
+  config:
+    color_format: Hex
+  label: Produktfarbe
+  name: productcolor
 pages:
 - _products/test3.md
 - _products/test2.md
