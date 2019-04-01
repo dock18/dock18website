@@ -11,3 +11,8 @@ fields:
     source:
       type: pages
       section: produkte
+  default: []
+- type: color
+  config:
+    color_format: Hex
+  default: "#6C7278"
