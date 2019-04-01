@@ -1,7 +1,7 @@
 ---
 label: Events
 hide_body: true
-display_field: headline
+display_field: text
 fields:
 - type: text
   name: headline
