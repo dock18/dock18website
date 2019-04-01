@@ -6,15 +6,21 @@ fields:
   name: produktliste
   label: Produktliste
   template: produktliste
-- type: blocks
+- type: list
   name: events
   label: Events
-  template_types:
-  - events
-- type: blocks
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: events
+- type: list
   name: instagram
   label: Instagram
-  template_types:
-  - instagram
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: instagram
 pages:
 - home.md
