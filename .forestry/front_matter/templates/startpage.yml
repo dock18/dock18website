@@ -3,10 +3,18 @@ label: Startpage
 hide_body: true
 fields:
 - type: include
-  template: fullsize-banners
-- type: include
   name: produktliste
   label: Produktliste
   template: produktliste
+- type: blocks
+  name: events
+  label: Events
+  template_types:
+  - events
+- type: blocks
+  name: instagram
+  label: Instagram
+  template_types:
+  - instagram
 pages:
 - home.md
