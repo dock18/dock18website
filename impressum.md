@@ -20,8 +20,7 @@ Eiffestrasse, 632
 Handelsregister: HRB 146331
 Registergericht: Amtsgericht Hamburg
 
-*Vertreten durch die Geschäftsführer:*
-Hendrik Lepping, Dustin Fügel
+_Vertreten durch die Geschäftsführer:_ Hendrik Lepping, Sebastian Lepping
 
 ## Kontakt
 
