@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: ''
-  label: Pages
+  label: Einstiegsseiten
   create: all
   match: "*.md"
   exclude: "*README.md"
@@ -17,7 +17,7 @@ sections:
   - startpage
 - type: directory
   path: _banners
-  label: Banners
+  label: Banner
   create: all
   match: "*.md"
   new_doc_ext: md
@@ -39,6 +39,22 @@ sections:
   new_doc_ext: md
   templates:
   - text-banner
+- type: directory
+  path: _creation
+  label: Erstellung
+  create: all
+  match: "*.md"
+  new_doc_ext: md
+  templates:
+    - creation
+- type: directory
+  path: _instagram
+  label: Instagram
+  create: all
+  match: "*.md"
+  new_doc_ext: md
+  templates:
+    - instagram
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
