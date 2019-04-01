@@ -62,7 +62,7 @@ sections:
   match: "*.md"
   new_doc_ext: md
   templates:
-    - instagram
+    - events
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
