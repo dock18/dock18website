@@ -1,6 +1,6 @@
 ---
 label: Produktliste
-hide_body: true
+hide_body: false
 fields:
 - type: list
   name: produktliste
