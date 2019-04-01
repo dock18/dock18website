@@ -1,4 +1,16 @@
 ---
 label: Creation
 hide_body: true
-fields: []
+display_field: headline
+fields:
+- type: text
+  name: headline
+  label: Überschrift
+- type: textarea
+  name: text
+  label: Beschreibung
+- type: color
+  config:
+    color_format: Hex
+  name: bgcolor
+  label: Hintergrundfarbe
