@@ -12,9 +12,9 @@ produktliste:
 - _products/test3.md
 undefined: ''
 events:
+- _events/test1.md
 - _events/test.md
 - _events/test2.md
-- _events/test1.md
 instagram:
 - _instagram/Post1.md
 menu:
