@@ -1,7 +1,6 @@
 ---
 label: Produkt
 hide_body: true
-display_field: producttext
 fields:
 - type: file
   name: productimage
@@ -26,7 +25,13 @@ fields:
     color_format: Hex
   label: Produktfarbe
   name: productcolor
+- type: text
+  label: Name
+  name: name
+- type: text
+  name: label
+  label: Label
 pages:
-- _products/SweetChocolate.md
-- _products/LatteMacchiato.md
 - _products/BlackCoffee.md
+- _products/LatteMacchiato.md
+- _products/SweetChocolate.md
