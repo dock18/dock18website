@@ -7,5 +7,8 @@ productlink: "/home"
 productlinktext: Mehr
 productcolor: "#6D7278"
 produktlinktext: ''
+name: ''
+label: ''
 
 ---
+# Tolles Produkt
