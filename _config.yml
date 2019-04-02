@@ -9,17 +9,13 @@ defaults:
     values:
       layout: default
   - scope:
-      path: "_instagram"
-    values:
-      layout: instagram
-  - scope:
       path: "_events"
     values:
-        layout: event
+      layout: event
   - scope:
-    path: "_products"
-  values:
-    layout: product
+      path: "_products"
+    values:
+      layout: product
 collections:
   banners:
     output: false
@@ -36,7 +32,7 @@ collections:
   creation:
     output: false
   instagram:
-    output: true
+    output: false
 jekyll-archives:
   enabled: all
   layout: "archive"

@@ -2436,3 +2436,24 @@ body.is-mobile {
     display: none;
   }
 }
+
+.creation_wrapper {
+  display: grid;
+
+  grid-template-columns: 15% 15% 15% 6% 15% 6% auto;
+
+  .creation_plus, .creation_equals, .creation_icon {
+
+    justify-self: center;
+    align-self: center;
+  }
+
+  @include breakpoint('<medium') {
+    grid-template-columns: 33% auto 33%;
+
+    .creation_plus, .nitro, .result, .creation_equals {
+      grid-column-start: 1;
+      grid-column-end: 4;
+    }
+  }
+}

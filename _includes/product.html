@@ -1,0 +1,17 @@
+<section>
+    <h2 class="single_product_headline">{{ page.title }}</h2>
+    <div>
+        <figure>
+            <div style="background-color:{{ page.productcolor }}">
+                <img class="orbit-image tns-lazy-img" src="{{ page.productimage | relative_url }}"
+                     alt="{{ banner.alt }}">
+
+            </div>
+            {% if page.producttext %}
+            <div class="orbit-caption">
+                <h3>{{ page.producttext }}</h3>
+            </div>
+            {% endif %}
+        </figure>
+    </div>
+</section>

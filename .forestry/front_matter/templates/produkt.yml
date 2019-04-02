@@ -19,9 +19,6 @@ fields:
     \  \nKlassisch Schwarz ohne Zusatz von Zucker oder Zusatzstoffe.   \nDer Cold
     Brew durchsticht mit seiner natürlich süßen Aromenvielfalt."
 - type: text
-  name: productlink
-  label: Produktlink
-- type: text
   name: produktlinktext
   label: Produktlink Text
 - type: color
@@ -30,6 +27,6 @@ fields:
   label: Produktfarbe
   name: productcolor
 pages:
-- _products/test3.md
-- _products/test2.md
-- _products/test1.md
+- _products/SweetChocolate.md
+- _products/LatteMacchiato.md
+- _products/BlackCoffee.md

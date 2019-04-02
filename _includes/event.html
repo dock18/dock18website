@@ -1,0 +1,30 @@
+<section class="text-banner-list">
+    <div class="text-banner-list-wrapper">
+        <div class="wrapper">
+          <figure class="text-banner" data-aos="fade-up"
+                    data-aos-offset="200"
+                    data-aos-delay="10"
+                    data-aos-duration="500"
+                    data-aos-easing="ease-in-out"
+                    data-aos-mirror="false"
+                    data-aos-once="false"
+                    data-aos-anchor-placement="top-right">
+                <img class="event-image orbit-image tns-lazy-img" src="{{ page.image | relative_url }}"
+                     alt="{{ page.alt }}">
+            </figure>
+            <div class="textbanner-block" data-aos="fade-up"
+                 data-aos-offset="200"
+                 data-aos-delay="10"
+                 data-aos-duration="500"
+                 data-aos-easing="ease-in-out"
+                 data-aos-mirror="false"
+                 data-aos-once="false"
+                 data-aos-anchor-placement="centers-center">
+                <div class="events-text">
+                    <h2>{{ page.headline }}</h2>
+                    <span>{{ page.text }}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -4,7 +4,8 @@
         {% assign remainder = forloop.index | modulo: 2 %}
         <div class="wrapper">
             {% if remainder == 1 %}
-            <figure class="text-banner" data-aos="fade-right"
+            <!--  data-aos="fade-right"-->
+          <figure class="text-banner" data-aos="fade-up"
                     data-aos-offset="200"
                     data-aos-delay="10"
                     data-aos-duration="500"
@@ -32,14 +33,15 @@
             {% if remainder == 0 %}float: left;margin-left: 1em;
             {% endif %}margin-top: 4em;">
                         <div>
-                            <a class="more-events" href="{{ textbanner.link | relative_url }}"><span>{{ textbanner.linktext}}</span></a>
+                            <a class="more-events" href="{{ textbanner.url | relative_url }}"><span>{{ textbanner.linktext}}</span></a>
                         </div>
                     </div>
                     {% endif %}
                 </div>
             </div>
             {% if remainder == 0 %}
-            <figure class="text-banner" data-aos="fade-left"
+            <!-- data-aos="fade-left" -->
+            <figure class="text-banner" data-aos="fade-up"
                     data-aos-offset="200"
                     data-aos-delay="10"
                     data-aos-duration="500"
