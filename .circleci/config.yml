@@ -5,8 +5,7 @@ jobs:
   build:
     <<: *defaults
     docker:
-      - image: circleci/ruby:2.5
-      - image: circleci/node:lts
+      - image: starefossen/ruby-node:2-8
     environment:
       BUNDLE_PATH: ~/repo/vendor/bundle
     steps:
