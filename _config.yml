@@ -13,6 +13,14 @@ defaults:
       type: posts
     values:
       layout: post
+  - scope:
+      path: "_instagram"
+    values:
+      layout: instagram
+  - scope:
+      path: "_events"
+    values:
+        layout: event
 collections:
   banners:
     output: true
