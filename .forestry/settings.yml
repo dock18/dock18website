@@ -57,7 +57,7 @@ sections:
   - instagram
 - type: directory
   path: _events
-  label: Events
+  label: Startseitenelement
   create: all
   match: "*.md"
   new_doc_ext: md

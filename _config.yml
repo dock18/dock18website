@@ -7,12 +7,7 @@ defaults:
   - scope:
       path: ""
     values:
-      layout: page
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
+      layout: default
   - scope:
       path: "_instagram"
     values:
@@ -21,21 +16,25 @@ defaults:
       path: "_events"
     values:
         layout: event
+  - scope:
+    path: "_products"
+  values:
+    layout: product
 collections:
   banners:
-    output: true
+    output: false
   products:
     output: true
   textbanner:
-    output: true
+    output: false
   fullsizetextbanner:
-    output: true
+    output: false
   events:
     output: true
   stores:
-    output: true
+    output: false
   creation:
-    output: true
+    output: false
   instagram:
     output: true
 jekyll-archives:

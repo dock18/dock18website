@@ -4,9 +4,9 @@
 @import 'libs/vendor';
 @import 'libs/breakpoints';
 @import 'libs/html-grid';
-@import "~font-awesome/css/font-awesome.css";
+//@import "~font-awesome/css/font-awesome.css";
 
-//@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic');
 
 /*
 	Spectral by HTML5 UP
@@ -34,6 +34,10 @@
   @include breakpoint('<=small') {
     width: 50vw;
   }
+}
+
+body {
+  overflow-x: hidden;
 }
 
 html, body, div, span, applet, object,
@@ -2049,7 +2053,8 @@ body.is-mobile {
       height: 100vh;
     }
     margin-top: 15vh;
-    margin-left: 2em;
+    padding-left: 10vw;
+    padding-right: 10vw;
 
     grid-template-columns: 33% 34% 33%;;
     @include breakpoint('<=small') {
@@ -2059,6 +2064,10 @@ body.is-mobile {
     .product {
       padding: 1em;
       height: 100vh;
+
+      @include breakpoint('<=small') {
+        height: 100%;
+      }
 
       @include breakpoint('>small') {
         position: relative;
@@ -2082,8 +2091,6 @@ body.is-mobile {
       height: 60vh;
       padding-top: 5vh;
       padding-bottom: 5vh;
-      margin-left: 10vh;
-      margin-right: 10vh;
       display: flex;
 
       .product-list-item {
@@ -2099,6 +2106,12 @@ body.is-mobile {
 .text-banner-list {
 
   .text-banner-list-wrapper {
+
+    @include breakpoint('<=small') {
+      figure {
+        margin-bottom: 1em;
+      }
+    }
 
     .wrapper {
 
@@ -2296,10 +2309,6 @@ body.is-mobile {
       font-size: 1.25em;
     }
 
-    br {
-      display: none;
-    }
-
     .more {
       display: none;
     }
@@ -2347,10 +2356,20 @@ body.is-mobile {
 .instagram {
   display: grid;
   grid-template-columns: 18% 18% auto 18% 18%;
+
+  @include breakpoint('<=small') {
+    grid-template-columns: 50% auto;
+    margin-bottom: 4em;
+  }
+
   grid-gap: 2%;
   .instagram-wrapper {
     img {
       height: 20vw;
+
+      @include breakpoint('<=small') {
+        height: 50vw;
+      }
       width: 100%;
     }
   }
