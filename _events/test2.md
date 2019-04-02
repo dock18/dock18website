@@ -1,6 +1,6 @@
 ---
-headline: Dein Wachmoment im Office?
-text: BESONDERE DOCK18 OFFICE PACKs FÜR MEHR KICK IN DEINEM OFFICE
+headline: DOCK-18 OFFICE PACK
+text: MACH DEINE MEETINGS ZU ETWAS BESONDEREM
 link: "/home"
 linktext: Mehr Erfahren
 imagealt: Test1
