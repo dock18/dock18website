@@ -11,6 +11,10 @@ produktliste:
 - _products/test2.md
 - _products/test3.md
 undefined: ''
+events:
+- _events/test1.md
+instagram:
+- _instagram/Post1.md
 menu:
   navigation:
     identifier: _index
