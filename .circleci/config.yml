@@ -6,6 +6,7 @@ jobs:
     <<: *defaults
     docker:
       - image: circleci/ruby:2.5
+      - image: circleci/node:lts
     environment:
       BUNDLE_PATH: ~/repo/vendor/bundle
     steps:
@@ -17,6 +18,9 @@ jobs:
       - run:
           name: Bundle Install
           command: bundle check || bundle install
+      - run:
+          name: NPM Install
+          command: npm install
       - run:
           name: NPM Run Build
           command: npm run build
