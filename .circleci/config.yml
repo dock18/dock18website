@@ -19,8 +19,17 @@ jobs:
           name: Bundle Install
           command: bundle check || bundle install
       - run:
+          name: update-npm
+          command: 'sudo npm install -g npm@6'
+      - restore_cache:
+          key: dependency-cache-{{ checksum "package.json" }}
+      - run:
           name: NPM Install
           command: npm install
+      - save_cache:
+          key: dependency-cache-{{ checksum "package.json" }}
+          paths:
+            - ./node_modules
       - run:
           name: NPM Run Build
           command: npm run build
