@@ -1,9 +1,9 @@
 ---
-headline: Events
+headline: Events/Catering
 text: BUCHE DIE DOCK18 CREW AUF DEINEM EVENT ODER DEINER ROADSHOW
-link: "/home"
+link: "/events"
 linktext: Mehr Erfahren
-imagealt: Test1
+imagealt: Events
 image: "/uploads/Events_Platzhalter.png"
 
 ---
