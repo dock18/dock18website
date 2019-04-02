@@ -4,6 +4,6 @@ text: BESONDERE DOCK18 OFFICE PACKs FÜR MEHR KICK IN DEINEM OFFICE
 link: "/home"
 linktext: Mehr Erfahren
 imagealt: Test1
-image: "/uploads/2019/02/25/EtdhDP2w.png"
+image: "/uploads/Events_Platzhalter.png"
 
 ---
