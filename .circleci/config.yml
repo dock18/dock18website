@@ -18,6 +18,9 @@ jobs:
           name: Bundle Install
           command: bundle check || bundle install
       - run:
+          name: NPM Run Build
+          command: npm run build
+      - run:
           name: HTMLProofer tests
           command: |
             bundle exec htmlproofer ./_site \
