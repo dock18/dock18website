@@ -13,6 +13,8 @@ produktliste:
 undefined: ''
 events:
 - _events/test1.md
+- _events/test2.md
+- _events/test.md
 instagram:
 - _instagram/Post1.md
 menu:
