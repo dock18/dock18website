@@ -1,9 +1,9 @@
 ---
-headline: Herstellung
+headline: Herkunft
 text: 100% KAFFEE - 100% MANUFAKTUR
-link: "/herstellung"
+link: "/herkunft"
 linktext: Mehr Erfahren
-imagealt: Test1
+imagealt: Herkunft
 image: "/uploads/2019/02/25/BbUxB2rb.png"
 
 ---
