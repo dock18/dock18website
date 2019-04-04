@@ -53,3 +53,17 @@ Der Röstprozess wird stetig Überwacht um die höchste Qualität der Röstung z
 \+++ Mouseover +++
 
 Die gelieferten Bohnen werden im ersten Schritt des Canning-Prozesses nach festgelegten Vorgaben unseres „Cold-Brew“ Prozesses gemahlen.
+
+![](/uploads/Bildschirmfoto 2019-03-26 um 16.46.39.png)
+
+\+++ Mouseover +++
+
+Unser Kaffee nimmt sich bis zu 20 Stunden Zeit beim kalt extrahieren(Cold Brew), nur so können wir eine hohe Qualität und einen einzigartigen Geschmack gewährleisten.
+
+![](/uploads/Bildschirmfoto 2019-03-25 um 16.58.56.png)
+
+\+++ Mouseover +++
+
+Mit unserer zertifizierten Abfüllanlage können wir Großmengen, wie auch Kleinstmengen effizient abfüllen um somit auch saisonale Produkte auf dem Markt bringen zu können.
+
+![](/uploads/Bildschirmfoto 2019-03-26 um 15.54.33.png)![](/uploads/2019/02/25/BbUxB2rb.png)
