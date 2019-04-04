@@ -22,3 +22,7 @@ Geschmacks-Barometer
 Siehe PDF
 
 ![](/uploads/2019/03/16/Black_Coffee_oBG.png)
+
+![](/uploads/Bildschirmfoto 2019-03-08 um 12.39.44.png)
+
+![](/uploads/Bildschirmfoto 2019-03-08 um 12.41.15.png)
