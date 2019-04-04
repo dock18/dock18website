@@ -29,6 +29,8 @@ Und der Hamburger Hafen war auch der Ursprung für den Namen Dock 18. Denn im Ha
 
 Und vor zwei Jahren - an einem sonnigen Nachmittag - saßen die drei Gründer gegenüber von Dock 17 und tüftelten wieder an Ihrer Idee, jedem einen Kaffee Kick anbieten zu können, unabhängig von Ort und Zeit, eben wie diesen Arbeitern im Dock 17 gegenüber. Und so kam es zum Namen Dock 18.
 
+![](/uploads/d2cb688a-0359-4535-a8b4-df183a4b6d5d.jpg)
+
 **DIE GRÜNDER**
 
 Ein einmaliger Kaffee Genuss unabhängig von Ort und Zeit, das muss doch gehen, sagten sich die drei Gründer – Basti, Dustin und Hendrik – vor zwei Jahren und fingen an, ihre Idee vom unverwechselbaren Kaffee Genuss in die Tat umzusetzen.
