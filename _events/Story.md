@@ -40,3 +40,5 @@ Es entstanden schließlich unterschiedliche Rezepte für leckere Kaffee Variante
 Mit diesen Rezepten in der Tasche gründeten die Drei die Marke „Dock 18“.
 
 Dock 18 steht für unabhängigen, unverwechselbaren Kaffee-Genuss, der Dir den Kick für den Tag gibt, Energie nach der Party oder Arbeit bringt, Dich im Nachmittagstief aufbaut oder Dir Deinen Kaffee Moment schenkt, wo auch immer Du gerade bist.
+
+![](/uploads/Bildschirmfoto 2019-03-19 um 11.48.18.png)
