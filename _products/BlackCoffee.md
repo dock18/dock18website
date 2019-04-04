@@ -19,6 +19,10 @@ Der Cold Brew durchsticht mit seiner natürlich süßen Aromenvielfalt.
 
 Geschmacks-Barometer
 
+![](/uploads/BAROMETER_LEER.png)
+
+![](/uploads/BAROMETER_VOLL.png)
+
 Siehe PDF
 
 ![](/uploads/2019/03/16/Black_Coffee_oBG.png)
@@ -26,3 +30,7 @@ Siehe PDF
 ![](/uploads/Bildschirmfoto 2019-03-08 um 12.39.44.png)
 
 ![](/uploads/Bildschirmfoto 2019-03-08 um 12.41.15.png)
+
+![](/uploads/NOSUGAR-1.png)
+
+![](/uploads/20Stunden-1.png)![](/uploads/MANUFAKTUR-1.png)KONSUMGELEGENHEITEN
