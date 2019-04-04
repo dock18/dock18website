@@ -13,12 +13,12 @@ label: ''
 ---
 # DER KLASSIKER
 
-Unser Black Coffee überzeugt durch seine solide Basis.   
- Klassisch Schwarz ohne Zusatz von Zucker oder Zusatzstoffe.   
- Der Cold Brew durchsticht mit seiner natürlich süßen Aromenvielfalt.
+Unser Black Coffee überzeugt durch seine solide Basis.  
+Klassisch Schwarz ohne Zusatz von Zucker oder Zusatzstoffe.  
+Der Cold Brew durchsticht mit seiner natürlich süßen Aromenvielfalt.
 
 Geschmacks-Barometer
 
 Siehe PDF
 
-![](/uploads/Latte_Coffee_oBG-Wiederhergestellt 3.png)![](/uploads/Latte_Coffee_oBG-Wiederhergestellt 2.png)![](/uploads/2019/03/16/Latte_Coffee_oBG.png)
+![](/uploads/2019/03/16/Black_Coffee_oBG.png)
