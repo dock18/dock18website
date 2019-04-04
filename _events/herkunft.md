@@ -49,3 +49,7 @@ Die bekannte bräunliche Farbe erricht unsere Bohne erst durch die Röstung. Dur
 Der Röstprozess wird stetig Überwacht um die höchste Qualität der Röstung zu gewährleisten.
 
 ![](/uploads/Bildschirmfoto 2019-04-04 um 11.59.16.png)
+
+\+++ Mouseover +++
+
+Die gelieferten Bohnen werden im ersten Schritt des Canning-Prozesses nach festgelegten Vorgaben unseres „Cold-Brew“ Prozesses gemahlen.
