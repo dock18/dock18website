@@ -67,3 +67,13 @@ Unser Kaffee nimmt sich bis zu 20 Stunden Zeit beim kalt extrahieren(Cold Brew),
 Mit unserer zertifizierten Abfüllanlage können wir Großmengen, wie auch Kleinstmengen effizient abfüllen um somit auch saisonale Produkte auf dem Markt bringen zu können.
 
 ![](/uploads/Bildschirmfoto 2019-03-26 um 15.54.33.png)![](/uploads/2019/02/25/BbUxB2rb.png)
+
+**EINE BRAUEREI ZUM ANFASSEN**
+
+Nicht nur das Produkt ist etwas besonderes. Die Produktionsstätte ist ein offenes Brauereikonzept, große Lebensmittelproduktion trifft Brauereievents für jeden, der gern mal wissen möchte, wie kommt meine Getränk in die Dose? Erleben Sie zusammen mit unserem Partner „LilleBräu“ ein einzigartiges Eventkonzept.
+
+[Mehr erfahren](https://lillebraeu.de/brauerei/)
+
+![](/uploads/Bildschirmfoto 2019-03-26 um 16.46.39.png)
+
+![](/uploads/Bildschirmfoto 2019-03-26 um 16.46.53.png)![](/uploads/Bildschirmfoto 2019-03-26 um 16.47.03.png)![](/uploads/Bildschirmfoto 2019-03-26 um 16.47.12.png)
