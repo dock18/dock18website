@@ -34,3 +34,15 @@ Siehe PDF
 ![](/uploads/NOSUGAR-1.png)
 
 ![](/uploads/20Stunden-1.png)![](/uploads/MANUFAKTUR-1.png)KONSUMGELEGENHEITEN
+
+![](/uploads/IMG_3137.jpg)![](/uploads/IMG_8145.jpg)
+
+**HERSTELLUNG COLD BREW**
+
+Die besonders intensive Herstellung des Cold Brew macht ihn zu etwas ganz Besonderem. Die Bohnen werden 18-24 Stunden in kaltem Wasser ohne jegliche Hitzeeinwirkung „gebrüht“. Dadurch enthält er im Vergleich zu seinem klassisch heiß gebrühten Kollegen wenig Säuren und Bitterstoffe.
+
+[MEHR ERFAHREN](https://dock-18.de/events/herkunft/)
+
+WEITERE PRODUKTE
+
+![](/uploads/2019/02/25/DOck_COLD_Black_Mock.jpg)
