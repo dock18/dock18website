@@ -32,6 +32,6 @@ fields:
   name: label
   label: Label
 pages:
-- _products/BlackCoffee.md
 - _products/LatteMacchiato.md
+- _products/BlackCoffee.md
 - _products/SweetChocolate.md
