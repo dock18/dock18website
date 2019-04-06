@@ -2031,8 +2031,16 @@ body.is-mobile {
     height: 100%;
   }
 
-  .header-logo {
+  .header-logo, .facebook-logo, .instagram-logo {
     height: 100%;
+  }
+
+  .facebook-logo, .instagram-logo {
+    padding-left: 1em;
+  }
+  .instagram-logo {
+    padding-top: 3px;
+    padding-bottom: 3px;
   }
 }
 
