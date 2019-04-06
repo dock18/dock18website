@@ -1,9 +1,9 @@
-<section>
+<section class="single_product_section">
     <h2 class="single_product_headline">{{ page.title }}</h2>
     <div>
         <figure>
-            <div style="background-color:{{ page.productcolor }}">
-                <img class="orbit-image tns-lazy-img" src="{{ page.productimage | relative_url }}"
+            <div>
+                <img class="product-image tns-lazy-img" src="{{ page.productimage | relative_url }}"
                      alt="{{ banner.alt }}">
 
             </div>
@@ -13,7 +13,7 @@
             </div>
             {% endif %}
         </figure>
-        <div>
+        <div class="single-product-wrapper">
             {{ page.content }}
         </div>
     </div>

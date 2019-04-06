@@ -2056,7 +2056,7 @@ body.is-mobile {
     padding-left: 10vw;
     padding-right: 10vw;
 
-    grid-template-columns: 33% 34% 33%;;
+    grid-template-columns: 50% 50%;
     @include breakpoint('<=small') {
       grid-template-columns: 100%;
     }
@@ -2455,5 +2455,16 @@ body.is-mobile {
       grid-column-start: 1;
       grid-column-end: 4;
     }
+  }
+}
+
+.single_product_section {
+
+  margin-top: 4em;
+  padding-left: 4em;
+  padding-right: 4em;
+
+  img.product-image {
+    max-height: 50vh;
   }
 }
