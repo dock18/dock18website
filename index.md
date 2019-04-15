@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/Landingpage_Dock18.png"
+banner_image: "/uploads/LOGO_DOck18_SW.png"
 layout: landing-page
 heading: Something Big is Coming Soon
 hero_button:
