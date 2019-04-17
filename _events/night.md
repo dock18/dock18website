@@ -12,12 +12,12 @@ Style wie auf der Seite Office!
 
 Bilder tauche ich dann nochmal aus und Text füge ich dann ein.
 
-![](/uploads/Bildschirmfoto 2019-04-04 um 18.18.43.png)
+![](/uploads/Bildschirmfoto 2019-04-04 um 18.18.43.png){:class="image fit"}
 
-![](/uploads/Bildschirmfoto 2019-04-04 um 18.18.50.png)
+![](/uploads/Bildschirmfoto 2019-04-04 um 18.18.50.png){:class="image fit"}
 
-![](/uploads/Bildschirmfoto 2019-04-04 um 18.18.55.png)
+![](/uploads/Bildschirmfoto 2019-04-04 um 18.18.55.png){:class="image fit"}
 
-![](/uploads/Bildschirmfoto 2019-04-04 um 18.18.32.png)
+![](/uploads/Bildschirmfoto 2019-04-04 um 18.18.32.png){:class="image fit"}
 
-![](/uploads/Bildschirmfoto 2019-04-04 um 18.18.38.png)
+![](/uploads/Bildschirmfoto 2019-04-04 um 18.18.38.png){:class="image fit"}

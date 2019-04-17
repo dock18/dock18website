@@ -6,6 +6,9 @@ fields:
   name: headline
   label: headline
 - type: text
+  name: title
+  label: title
+- type: text
   name: text
   label: text
 - type: text

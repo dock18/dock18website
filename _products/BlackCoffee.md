@@ -9,40 +9,26 @@ productcolor: "#6D7278"
 produktlinktext: ''
 name: ''
 label: ''
-
+backgroundGradient: 'background: -moz-linear-gradient(top, rgba(109,114,120,1) 0%, rgba(109,114,120,1) 58%, rgba(109,114,120,0) 58%, rgba(109,114,120,0) 100%); /* FF3.6-15 */
+                     background: -webkit-linear-gradient(top, rgba(109,114,120,1) 0%,rgba(109,114,120,1) 58%,rgba(109,114,120,0) 58%,rgba(109,114,120,0) 100%); /* Chrome10-25,Safari5.1-6 */
+                     background: linear-gradient(to bottom, rgba(109,114,120,1) 0%,rgba(109,114,120,1) 58%,rgba(109,114,120,0) 58%,rgba(109,114,120,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+                     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7db9e8', endColorstr='#007db9e8',GradientType=0 );'
+sweetLevel: 2
+strongLevel: 4
+claim: 'Der Klassiker'
+text: 'Unser Black Coffee überzeugt durch seine solide Basis.  
+       Klassisch Schwarz ohne Zusatz von Zucker oder Zusatzstoffe.  
+       Der Cold Brew durchsticht mit seiner natürlich süßen Aromenvielfalt.'
+productimage1: "/uploads/2019/03/16/Black_Coffee_oBG.png"
+productimage2: "/uploads/2019/03/16/Black_Coffee_oBG.png"
+productimage3: "/uploads/2019/03/16/Black_Coffee_oBG.png"
+consum1: "/uploads/2019/03/16/Black_Coffee_oBG.png"
+consum2: "/uploads/2019/03/16/Black_Coffee_oBG.png"
+consum3: "/uploads/2019/03/16/Black_Coffee_oBG.png"
 ---
-# DER KLASSIKER
-
-Unser Black Coffee überzeugt durch seine solide Basis.  
-Klassisch Schwarz ohne Zusatz von Zucker oder Zusatzstoffe.  
-Der Cold Brew durchsticht mit seiner natürlich süßen Aromenvielfalt.
-
-Geschmacks-Barometer
-
-![](/uploads/BAROMETER_LEER.png)
-
-![](/uploads/BAROMETER_VOLL.png)
-
-Siehe PDF
-
-![](/uploads/2019/03/16/Black_Coffee_oBG.png)
-
-![](/uploads/Bildschirmfoto 2019-03-08 um 12.39.44.png)
-
-![](/uploads/Bildschirmfoto 2019-03-08 um 12.41.15.png)
-
-![](/uploads/NOSUGAR-1.png)
-
-![](/uploads/20Stunden-1.png)![](/uploads/MANUFAKTUR-1.png)KONSUMGELEGENHEITEN
-
-![](/uploads/IMG_3137.jpg)![](/uploads/IMG_8145.jpg)
 
 **HERSTELLUNG COLD BREW**
 
 Die besonders intensive Herstellung des Cold Brew macht ihn zu etwas ganz Besonderem. Die Bohnen werden 18-24 Stunden in kaltem Wasser ohne jegliche Hitzeeinwirkung „gebrüht“. Dadurch enthält er im Vergleich zu seinem klassisch heiß gebrühten Kollegen wenig Säuren und Bitterstoffe.
 
-[MEHR ERFAHREN](https://dock-18.de/events/herkunft/)
-
-WEITERE PRODUKTE
-
-![](/uploads/2019/02/25/DOck_COLD_Black_Mock.jpg)
+[MEHR ERFAHREN](https://dock-18.de/events/herkunft/){:class="button primary"}

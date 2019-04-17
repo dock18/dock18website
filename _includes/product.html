@@ -1,20 +1,78 @@
-<section class="single_product_section">
-    <h2 class="single_product_headline">{{ page.title }}</h2>
-    <div>
-        <figure>
-            <div>
-                <img class="product-image tns-lazy-img" src="{{ page.productimage | relative_url }}"
-                     alt="{{ banner.alt }}">
-
+<div id="page-wrapper" class="single_product_section wrapper">
+    <div class="inner">
+        <h1 class="single_product_headline">{{ page.producttext }}</h1>
+        <div class="row gtr-25 gtr-uniform" style="padding: 1em 3em; {{ page.backgroundGradient }}">
+            <div class="col-9">
+                <h2>{{ page.claim }}</h2>
+                <p>{{ page.text }}</p>
+                <h2>Geschmacks-Barometer</h2>
+                <div><span style="display: inline-block;width: 60px">Süße</span>
+                    {% for i in (1..5) %}
+                        {% if i <= page.sweetLevel %}
+                            <img class="barometer tns-lazy-img" src="{{ 'uploads/BAROMETER_VOLL.png' | relative_url }}"
+                                 alt="{{ banner.alt }}">
+                        {% else %}
+                            <img class="barometer tns-lazy-img" src="{{ 'uploads/BAROMETER_LEER.png' | relative_url }}"
+                                       alt="{{ banner.alt }}">
+                        {% endif %}
+                    {% endfor %}
+                </div>
+                <div><span style="display: inline-block;width: 60px">Stärke</span>
+                    {% for i in (1..5) %}
+                    {% if i <= page.strongLevel %}
+                    <img class="barometer tns-lazy-img" src="{{ 'uploads/BAROMETER_VOLL.png' | relative_url }}"
+                         alt="{{ banner.alt }}">
+                    {% else %}
+                    <img class="barometer tns-lazy-img" src="{{ 'uploads/BAROMETER_LEER.png' | relative_url }}"
+                         alt="{{ banner.alt }}">
+                    {% endif %}
+                    {% endfor %}
+                </div>
+                <div>
+                    <img class="badge tns-lazy-img" src="{{ 'uploads/20Stunden.png' | relative_url }}"
+                         alt="{{ banner.alt }}">
+                    <img class="badge tns-lazy-img" src="{{ 'uploads/NOSUGAR.png' | relative_url }}"
+                         alt="{{ banner.alt }}">
+                    <img class="badge tns-lazy-img" src="{{ 'uploads/MANUFAKTUR.png' | relative_url }}"
+                         alt="{{ banner.alt }}">
+                </div>
             </div>
-            {% if page.producttext %}
-            <div class="orbit-caption">
-                <h3>{{ page.producttext }}</h3>
+            <div class="col-3">
+                <div class="row gtr-50 gtr-uniform">
+                    <div class="col-12">
+                    <span class="image">
+                        <img class="product-image tns-lazy-img" src="{{ page.productimage | relative_url }}"
+                             alt="{{ banner.alt }}">
+                    </span>
+                    </div>
+                    <div class="col-4"><span class="image fit"><img src="{{ page.productimage1 | relative_url }}"
+                                                                    alt=""></span></div>
+                    <div class="col-4"><span class="image fit"><img src="{{ page.productimage2 | relative_url }}"
+                                                                    alt=""></span></div>
+                    <div class="col-4"><span class="image fit"><img src="{{ page.productimage3 | relative_url }}"
+                                                                    alt=""></span></div>
+                </div>
             </div>
-            {% endif %}
-        </figure>
+        </div>
+        <br />
+        <div>
+            <h2>Konsumgelegenheiten</h2>
+            <div class="row gtr-50 gtr-uniform">
+                <div class="col-12">
+                    <span class="image fit">
+                        <img class="product-image tns-lazy-img" src="{{ page.consum1 | relative_url }}"
+                             alt="{{ banner.alt }}">
+                    </span>
+                </div>
+                <div class="col-6"><span class="image fit"><img src="{{ page.consum2 | relative_url }}"
+                                                                alt=""></span></div>
+                <div class="col-6"><span class="image fit"><img src="{{ page.consum3 | relative_url }}"
+                                                                alt=""></span></div>
+            </div>
+        </div>
+        <br/>
         <div class="single-product-wrapper">
             {{ page.content }}
         </div>
     </div>
-</section>
+</div>

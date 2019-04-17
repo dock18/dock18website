@@ -10,7 +10,7 @@ image: "/uploads/2019/02/25/urGHkjyw.png"
 **DOCK-18 OFFICE PACK  
 **MACH MEHR AUS DEINEM OFFICE
 
-![](/uploads/2019/02/25/urGHkjyw.png)
+![](/uploads/2019/02/25/urGHkjyw.png){:class="image fit"}
 
   
 **ERFRISCHENDE IDEEN IN DEINEM OFFICE**
@@ -19,8 +19,8 @@ Montag 11 Uhr - Das Wochenmeeting zieht sich seit zwei Stunden. Jetzt erfrischen
 
 DOCK-18 OFFICE BUDDY
 
-![](/uploads/Bildschirmfoto 2019-03-25 um 13.08.14.png)
+![](/uploads/Bildschirmfoto 2019-03-25 um 13.08.14.png){:class="image fit"}
 
-![](/uploads/Bildschirmfoto 2019-04-04 um 12.49.00.png)
+![](/uploads/Bildschirmfoto 2019-04-04 um 12.49.00.png){:class="image fit"}
 
 Anfrageformular wie im PDF

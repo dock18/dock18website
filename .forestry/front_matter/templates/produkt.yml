@@ -31,6 +31,42 @@ fields:
 - type: text
   name: label
   label: Label
+- type: text
+  name: claim
+  label: Claim
+- type: text
+  name: text
+  label: Text
+- type: text
+  name: sweetLevel
+  label: Süße
+- type: text
+  name: strongLevel
+  label: Stärke
+- type: file
+  name: productimage1
+  label: Produktbild 1
+  default: "/uploads/2019/03/16/Black_Coffee_oBG.png"
+- type: file
+  name: productimage2
+  label: Produktbild 2
+  default: "/uploads/2019/03/16/Black_Coffee_oBG.png"
+- type: file
+  name: productimage3
+  label: Produktbild 3
+  default: "/uploads/2019/03/16/Black_Coffee_oBG.png"
+- type: file
+  name: consum1
+  label: Konsumgelegenheit 1
+  default: "/uploads/2019/03/16/Black_Coffee_oBG.png"
+- type: file
+  name: consum2
+  label: Konsumgelegenheit 2
+  default: "/uploads/2019/03/16/Black_Coffee_oBG.png"
+- type: file
+  name: consum3
+  label: Konsumgelegenheit 3
+  default: "/uploads/2019/03/16/Black_Coffee_oBG.png"
 pages:
 - _products/LatteMacchiato.md
 - _products/BlackCoffee.md

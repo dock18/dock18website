@@ -1,17 +1,17 @@
 ---
 headline: STORY & PRESSE
 text: DIE STORY HINTER DOCK-18
+title: DIE STORY HINTER DOCK-18
 link: "/story_press"
 linktext: Mehr Erfahren
 imagealt: Story & Presse
 image: "/uploads/Bildschirmfoto 2019-04-02 um 12.54.16.png"
-title: ''
 
 ---
-\**HEIMATHAFEN HAMBURG  
-\**DER GESCHICHTE DES KAFFEE‘s AUF DER SPUR
+*HEIMATHAFEN HAMBURG*  
+**DER GESCHICHTE DES KAFFEE‘s AUF DER SPUR**
 
-![](/uploads/Bildschirmfoto 2019-04-04 um 10.27.00-1.png)
+![](/uploads/Bildschirmfoto 2019-04-04 um 10.27.00-1.png){:class="image fit"}
 
 **HAMBURG UND DER KAFFEE**
 
@@ -29,7 +29,7 @@ title: ''
 >
 > Und vor zwei Jahren - an einem sonnigen Nachmittag - saßen die drei Gründer gegenüber von Dock 17 und tüftelten wieder an Ihrer Idee, jedem einen Kaffee Kick anbieten zu können, unabhängig von Ort und Zeit, eben wie diesen Arbeitern im Dock 17 gegenüber. Und so kam es zum Namen Dock 18.
 
-![](/uploads/d2cb688a-0359-4535-a8b4-df183a4b6d5d.jpg)
+![](/uploads/d2cb688a-0359-4535-a8b4-df183a4b6d5d.jpg){:class="image fit"}
 
 **DIE GRÜNDER**
 
@@ -43,6 +43,6 @@ title: ''
 >
 > Dock 18 steht für unabhängigen, unverwechselbaren Kaffee-Genuss, der Dir den Kick für den Tag gibt, Energie nach der Party oder Arbeit bringt, Dich im Nachmittagstief aufbaut oder Dir Deinen Kaffee Moment schenkt, wo auch immer Du gerade bist.
 
-![](/uploads/Bildschirmfoto 2019-03-19 um 11.48.18.png)
+![](/uploads/Bildschirmfoto 2019-03-19 um 11.48.18.png){:class="image fit"}
 
 **DOCK-18 IN DER PRESSE**
