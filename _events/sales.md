@@ -8,3 +8,10 @@ image: "/uploads/Bildschirmfoto 2019-04-02 um 12.54.16.png"
 title: ''
 
 ---
+Sie haben eine/n Shop, Supermarkt, Tankstelle, Sportgeschäft, Fitnessstudio, Beachclub, Bar/Restaurant?
+
+Möchten Sie natürlich erfrischende Energie Ihren Kunden anbieten?
+
+Dann werden Sie Vertriebspartner der DOCK-18 Produkte, wir finden ein maßgeschneidertes Angebot für Ihren Shop.
+
+Anfrageformular wie unter Events
