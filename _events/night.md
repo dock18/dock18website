@@ -8,7 +8,9 @@ image: "/uploads/Bildschirmfoto 2019-04-02 um 17.10.11.png"
 title: ''
 
 ---
-Style wie auf der Seite: 
+Style wie auf der Seite Office!
+
+Bilder tauche ich dann nochmal aus und Text füge ich dann ein.
 
 ![](/uploads/Bildschirmfoto 2019-04-04 um 18.18.43.png)
 
