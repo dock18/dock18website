@@ -5,7 +5,7 @@ productimage: "/uploads/Produktgruppe_NITRO_Coffee_Website.png"
 producttext: Black Coffee
 productlink: "/home"
 productlinktext: Mehr
-productcolor: "#6D7278"
+productcolor: "#447290"
 produktlinktext: ''
 name: ''
 label: ''

@@ -68,6 +68,6 @@ fields:
   label: Konsumgelegenheit 3
   default: "/uploads/2019/03/16/Black_Coffee_oBG.png"
 pages:
-- _products/cold-brew-black.md
 - _products/BlackCoffee.md
+- _products/cold-brew-black.md
 - _products/LatteMacchiato.md
