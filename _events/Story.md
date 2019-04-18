@@ -8,7 +8,7 @@ imagealt: Story & Presse
 image: "/uploads/Bildschirmfoto 2019-04-02 um 12.54.16.png"
 
 ---
-*HEIMATHAFEN HAMBURG*  
+_HEIMATHAFEN HAMBURG_  
 **DER GESCHICHTE DES KAFFEE‘s AUF DER SPUR**
 
 ![](/uploads/Bildschirmfoto 2019-04-04 um 10.27.00-1.png){:class="image fit"}
@@ -29,7 +29,7 @@ image: "/uploads/Bildschirmfoto 2019-04-02 um 12.54.16.png"
 >
 > Und vor zwei Jahren - an einem sonnigen Nachmittag - saßen die drei Gründer gegenüber von Dock 17 und tüftelten wieder an Ihrer Idee, jedem einen Kaffee Kick anbieten zu können, unabhängig von Ort und Zeit, eben wie diesen Arbeitern im Dock 17 gegenüber. Und so kam es zum Namen Dock 18.
 
-![](/uploads/d2cb688a-0359-4535-a8b4-df183a4b6d5d.jpg){:class="image fit"}
+![](/uploads/Bildschirmfoto 2019-04-02 um 17.10.11.png){:class="image fit"}
 
 **DIE GRÜNDER**
 
