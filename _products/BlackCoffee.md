@@ -24,7 +24,7 @@ text: Unser Black Coffee überzeugt durch seine solide Basis. Klassisch Schwarz 
   süßen Aromenvielfalt.
 productimage1: "/uploads/Produktgruppe_NITRO_Coffee_Website.png"
 productimage2: "/uploads/Produktgruppe_NITRO_Coffee_Back_Website.png"
-productimage3: "/uploads/2019/03/16/Black_Coffee_oBG.png"
+productimage3: "/uploads/Produktgruppe_NITRO_Coffee_Back_2_Website.png"
 consum1: "/uploads/IMG_8477.jpg"
 consum2: "/uploads/IMG_8145.jpg"
 consum3: "/uploads/IMG_3137.jpg"
