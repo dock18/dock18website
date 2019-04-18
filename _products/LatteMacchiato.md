@@ -1,7 +1,7 @@
 ---
 title: Cold Brew Latte
 date: 2018-11-05 19:25:04 +0000
-productimage: "/uploads/2019/03/16/Latte_Coffee_oBG.png"
+productimage: "/uploads/Produktgruppe_NITRO_Latte_Website.png"
 producttext: Latte Macchiato
 productlink: "/home"
 productlinktext: Mehr
@@ -22,12 +22,12 @@ claim: Der helle Milde
 text: Unser Latte Macchiato trifft den Geschmack der Milchintusiasten durch frischem
   Milchschaum, wann du es willst. Frische Milch aus der Region kombiniert mit echtem
   Cold Brew bringen deinen Geschmack zum Höhepunkt.
-productimage1: "/uploads/2019/03/16/Black_Coffee_oBG.png"
-productimage2: "/uploads/2019/03/16/Black_Coffee_oBG.png"
-productimage3: "/uploads/2019/03/16/Black_Coffee_oBG.png"
-consum1: "/uploads/2019/03/16/Black_Coffee_oBG.png"
-consum2: "/uploads/2019/03/16/Black_Coffee_oBG.png"
-consum3: "/uploads/2019/03/16/Black_Coffee_oBG.png"
+productimage1: "/uploads/Produktgruppe_NITRO_Latte_Website.png"
+productimage2: "/uploads/Produktgruppe_NITRO_Latte_Back_2_Website.png"
+productimage3: "/uploads/Produktgruppe_NITRO_Latte_Back_Website.png"
+consum1: "/uploads/Produktgruppe_NITRO_Latte_Website.png"
+consum2: "/uploads/Produktgruppe_NITRO_Latte_Website.png"
+consum3: "/uploads/Produktgruppe_NITRO_Latte_Website.png"
 
 ---
 **HERSTELLUNG COLD BREW**
