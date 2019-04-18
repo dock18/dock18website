@@ -15,3 +15,6 @@ Möchten Sie natürlich erfrischende Energie Ihren Kunden anbieten?
 Dann werden Sie Vertriebspartner der DOCK-18 Produkte, wir finden ein maßgeschneidertes Angebot für Ihren Shop.
 
 Anfrageformular wie unter Events
+
+    <label for="mail">E-Mail</label>
+    <input id="mail" type="email">
