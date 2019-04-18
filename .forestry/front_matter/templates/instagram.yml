@@ -8,3 +8,5 @@ fields:
   label: Instagram Id
   config:
     required: true
+pages:
+- _instagram/Post_9.md
