@@ -1,11 +1,11 @@
 ---
 title: Cold Brew Black
 date: 2018-11-05 19:25:04 +0000
-productimage: "/uploads/Produktgruppe_NITRO_Coffee_Website.png"
-producttext: Black Coffee
+productimage: "/uploads/Produktgruppe_NITRO_TEA_Front.png"
+producttext: Orange Grapefruit
 productlink: "/home"
 productlinktext: Mehr
-productcolor: "#6D7278"
+productcolor: "#258942"
 produktlinktext: ''
 name: ''
 label: ''
@@ -22,7 +22,7 @@ claim: Der Klassiker
 text: Unser Black Coffee überzeugt durch seine solide Basis. Klassisch Schwarz ohne
   Zusatz von Zucker oder Zusatzstoffe. Der Cold Brew durchsticht mit seiner natürlich
   süßen Aromenvielfalt.
-productimage1: "/uploads/Produktgruppe_NITRO_Coffee_Website.png"
+productimage1: "/uploads/Produktgruppe_NITRO_TEA_Front.png"
 productimage2: "/uploads/2019/03/16/Black_Coffee_oBG.png"
 productimage3: "/uploads/2019/03/16/Black_Coffee_oBG.png"
 consum1: "/uploads/IMG_8477.jpg"
