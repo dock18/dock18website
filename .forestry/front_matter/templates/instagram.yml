@@ -1,12 +1,14 @@
 ---
 label: Instagram
 hide_body: true
-display_field: instagramId
 fields:
 - type: text
   name: instagramId
   label: Instagram Id
   config:
     required: true
+- type: text
+  name: Label
+  label: label
 pages:
 - _instagram/Post_9.md
