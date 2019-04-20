@@ -1,6 +1,7 @@
 ---
 label: Instagram
 hide_body: true
+display_field: Name
 fields:
 - type: text
   name: instagramId
