@@ -1,7 +1,8 @@
 <section>
     <h2 class="creation-list-headline" style="text-align: center;" id="creation-list-headline">Dock18 Social</h2>
     <div class="instagram">
-    {% for post in site.instagram %}
+    {% assign items = site.instagram | sort: 'position' %}
+    {% for post in items %}
     <div class="instagram-wrapper">
         <a href="https://www.instagram.com/p/{{ post.instagramId }}/">
             <img src="https://www.instagram.com/p/{{ post.instagramId }}/media/?size=l" />
