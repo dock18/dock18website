@@ -8,7 +8,7 @@ fields:
   config:
     required: true
 - type: text
-  name: Label
-  label: label
+  name: Name
+  label: name
 pages:
 - _instagram/Post_9.md
