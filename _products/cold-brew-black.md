@@ -9,13 +9,8 @@ productcolor: "#258942"
 produktlinktext: ''
 name: ''
 label: ''
-backgroundGradient: 'background: -moz-linear-gradient(top, rgba(109,114,120,1) 0%,
-  rgba(109,114,120,1) 58%, rgba(109,114,120,0) 58%, rgba(109,114,120,0) 100%); /*
-  FF3.6-15 */ background: -webkit-linear-gradient(top, rgba(109,114,120,1) 0%,rgba(109,114,120,1)
-  58%,rgba(109,114,120,0) 58%,rgba(109,114,120,0) 100%); /* Chrome10-25,Safari5.1-6
-  */ background: linear-gradient(to bottom, rgba(109,114,120,1) 0%,rgba(109,114,120,1)
-  58%,rgba(109,114,120,0) 58%,rgba(109,114,120,0) 100%); /* W3C, IE10+, FF16+, Chrome26+,
-  Opera12+, Safari7+ */ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='
+backgroundGradient: 'background-color: rgb(109,114,120)'
+fontColor: '#fff'
 sweetLevel: 2
 strongLevel: 4
 claim: Der Klassiker

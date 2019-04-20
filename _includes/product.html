@@ -1,20 +1,20 @@
 <div id="page-wrapper" class="single_product_section wrapper">
     <div class="inner">
         <h1 class="single_product_headline">{{ page.producttext }}</h1>
-        <div class="row gtr-25 gtr-uniform" style="padding: 1em 3em; {{ page.backgroundGradient }}">
+        <div class="row gtr-25 gtr-uniform" style="color: {{ page.fontColor }};padding: 1em 2em; {{ page.backgroundGradient }}">
             <div class="col-9">
-                <h2>{{ page.claim }}</h2>
+                <h2 style="color: {{ page.fontColor }}">{{ page.claim }}</h2>
                 <p>{{ page.text }}</p>
-                <h2>Geschmacks-Barometer</h2>
+                <h2 style="color: {{ page.fontColor }}">Geschmacks-Barometer</h2>
                 <div><span style="display: inline-block;width: 60px">Süße</span>
                     {% for i in (1..5) %}
-                        {% if i <= page.sweetLevel %}
-                            <img class="barometer tns-lazy-img" src="{{ 'uploads/BAROMETER_VOLL.png' | relative_url }}"
-                                 alt="{{ banner.alt }}">
-                        {% else %}
-                            <img class="barometer tns-lazy-img" src="{{ 'uploads/BAROMETER_LEER.png' | relative_url }}"
-                                       alt="{{ banner.alt }}">
-                        {% endif %}
+                    {% if i <= page.sweetLevel %}
+                    <img class="barometer tns-lazy-img" src="{{ 'uploads/BAROMETER_VOLL.png' | relative_url }}"
+                         alt="{{ banner.alt }}">
+                    {% else %}
+                    <img class="barometer tns-lazy-img" src="{{ 'uploads/BAROMETER_LEER.png' | relative_url }}"
+                         alt="{{ banner.alt }}">
+                    {% endif %}
                     {% endfor %}
                 </div>
                 <div><span style="display: inline-block;width: 60px">Stärke</span>
@@ -40,7 +40,7 @@
             <div class="col-3">
                 <div class="row gtr-50 gtr-uniform">
                     <div class="col-12">
-                    <span class="image">
+                    <span class="image fit-on-small">
                         <img class="product-image tns-lazy-img" src="{{ page.productimage | relative_url }}"
                              alt="{{ banner.alt }}">
                     </span>
@@ -54,11 +54,11 @@
                 </div>
             </div>
         </div>
-        <br />
+        <br/>
         <div>
             <h2>Konsumgelegenheiten</h2>
             <div class="row gtr-50 gtr-uniform">
-                <div class="col-12">
+                <div class="col-6">
                     <span class="image fit">
                         <img class="product-image tns-lazy-img" src="{{ page.consum1 | relative_url }}"
                              alt="{{ banner.alt }}">

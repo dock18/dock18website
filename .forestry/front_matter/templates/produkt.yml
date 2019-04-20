@@ -25,6 +25,11 @@ fields:
     color_format: Hex
   label: Produktfarbe
   name: productcolor
+- type: color
+  config:
+    color_format: Hex
+  label: Schriftfarbe
+  name: fontColor
 - type: text
   label: Name
   name: name
