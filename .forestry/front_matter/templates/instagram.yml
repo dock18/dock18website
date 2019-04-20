@@ -1,7 +1,6 @@
 ---
 label: Instagram
 hide_body: true
-display_field: Name
 fields:
 - type: text
   name: instagramId
@@ -11,5 +10,13 @@ fields:
 - type: text
   name: Name
   label: name
+- type: number
+  name: Position
+  label: position
+  config:
+    min: '1'
+    max: '100'
+    step: '1'
+    required: true
 pages:
 - _instagram/Post_9.md
