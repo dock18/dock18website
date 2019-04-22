@@ -63,6 +63,12 @@ sections:
   templates:
   - instagram
 - type: directory
+  path: _forms
+  label: Formulare
+  create: documents
+  match: "*.md"
+  new_doc_ext: md
+- type: directory
   path: _events
   label: Startseitenelement
   create: all

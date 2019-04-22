@@ -1,0 +1,9 @@
+<div class="control">
+    <div class="select">
+        <select name="{{ .name }}">
+            {{ range .options }}
+            <option>{{ . }}</option>
+            {{ end }}
+        </select>
+    </div>
+</div>

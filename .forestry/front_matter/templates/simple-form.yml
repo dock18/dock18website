@@ -1,0 +1,32 @@
+---
+label: simple-form
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: field_group
+  name: form
+  label: Form
+  fields:
+  - type: text
+    name: recipient
+    label: Recipient
+    description: E-mail address that should receive submissions
+    config:
+      required: true
+  - type: text
+    name: submit_text
+    label: Submit Text
+    description: Text to display on submit button
+  - type: include
+    template: form-fields
+    label: Fields
+    name: fields
+  - type: text
+    name: type
+    label: Type
+    hidden: true
+    default: simple
+pages:
+- content/contact.md

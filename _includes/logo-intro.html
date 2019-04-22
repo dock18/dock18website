@@ -3,20 +3,20 @@
         <div class="inner">
             <div class="logo-banner-inner">
                 <figure class="logo">
-                    <img class="orbit-image tns-lazy-img" src="{{ 'img/Dock18_New_Website.png' | relative_url }}"
+                    <img class="orbit-image tns-lazy-img" src="{{ page.logo | relative_url }}"
                          alt="logo">
                 </figure>
                 <figure class="claim">
                     <img class="orbit-image tns-lazy-img"
-                         src="{{ 'uploads/COLDBREWNITRO.png' | relative_url }}"
+                         src="{{ page.claim | relative_url }}"
                          alt="claim">
                 </figure>
             </div>
             <div class="intro-text-wrapper">
-                <p class="intro-paragraph">EINZIGARTIG CREMIGER KAFFEEGENUSS AUS DER DOSE</p>
+                <p class="intro-paragraph">{{ page.intro_text }}</p>
 
                 <div id="more_button" style="margin-top:4em;" class="bounce">
-                    <span class="more-anchor-text">Erfahre Mehr</span> <br>
+                    <span class="more-anchor-text">{{ page.more_button }}</span> <br>
                     <img class="more-anchor" src="{{ 'img/Anchor.svg' | relative_url }}"
                           alt="logo">
                 </div>

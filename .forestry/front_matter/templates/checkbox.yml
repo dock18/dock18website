@@ -1,0 +1,29 @@
+---
+label: checkbox
+hide_body: false
+fields:
+- type: text
+  name: type
+  label: Type
+  hidden: true
+  config:
+    required: true
+  default: checkbox
+  description: Denotes field type. Do not change this.
+- type: text
+  name: name
+  label: Name
+  description: HTML "name" attribute. Keep this to letters and underscores (_). No
+    spaces!
+  config:
+    required: true
+- type: text
+  name: label
+  label: Label
+  description: Label that appears above this field.
+  config:
+    required: false
+- type: text
+  name: description
+  label: Description
+  description: Help text to display beneath field. Optional.

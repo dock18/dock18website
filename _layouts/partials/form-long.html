@@ -1,0 +1,23 @@
+<form action="https://formspree.io/{{ .Form.recipient }}" method="POST">
+    {{ range .Form.sections }}
+    <fieldset class="box">
+        <legend class="subtitle is-3">{{ .title }}</legend>
+        {{ range .fields }}
+        <div class="field">
+            <div class="control">
+                <label class="label">{{ .label }}</label>
+                {{ partial (printf "fields/%s" .type) . }}
+                {{ with .description}}
+                <p class="help">{{ . }}</p>
+                {{ end }}
+            </div>
+        </div>
+    {{ end }}
+    </fieldset>
+    {{ end }}
+    <div class="field">
+        <div class="control">
+            <button type="submit" class="button">{{ default "Submit" .Form.submit_text }}</button>
+        </div>
+    </div>
+</form>

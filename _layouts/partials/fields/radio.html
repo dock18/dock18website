@@ -1,0 +1,7 @@
+<div class="control">
+    {{ range .options }}
+    <label class="radio">
+        <input type="radio" name="{{ $.name }}" /> {{ . }}
+    </label>
+    {{ end }}
+</div>
