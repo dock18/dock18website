@@ -21,6 +21,25 @@ intro_text: EINZIGARTIG CREMIGER KAFFEEGENUSS AUS DER DOSE
 more_button: Mehr Erfahren
 logo: "/uploads/LOGO_DOck18_SW.png"
 claim: "/uploads/COLDBREWNITRO.png"
+products:
+- _products/BlackCoffee.md
+- _products/LatteMacchiato.md
+- _products/cold-brew-black.md
+elements:
+- _events/office.md
+- _events/events.md
+- _events/herkunft.md
+- _events/sales.md
+- _events/Story.md
+- _events/night.md
+instagram_posts:
+- _instagram/Post3.md
+- _instagram/Post6.md
+- _instagram/Post5.md
+- _instagram/Post1.md
+- _instagram/Post2.md
+- _instagram/Post4.md
+- _instagram/Post_9.md
 menu:
   navigation:
     identifier: _index
