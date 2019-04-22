@@ -23,7 +23,11 @@ fields:
 - type: file
   name: image
   label: image
-- type: include
+- type: select
   name: form
+  config:
+    source:
+      type: pages
+      section: formulare-9c62b9bf-52f1-4c79-9bc8-cd5d1d6cd94a
+      file: _forms/survey.md
   label: Formular
-  template: formular
