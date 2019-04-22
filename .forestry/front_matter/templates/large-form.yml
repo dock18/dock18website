@@ -37,5 +37,3 @@ fields:
     label: Type
     hidden: true
     default: long
-pages:
-- content/survey.md

@@ -23,3 +23,11 @@ fields:
 - type: file
   name: image
   label: image
+- type: blocks
+  name: form
+  label: Formular
+  config:
+    max: '1'
+    min: '0'
+  template_types:
+  - large-form
