@@ -47,7 +47,7 @@ form:
     - template: text-field
       type: text
       name: street
-      label: 'PLZ Straße '
+      label: 'PLZ Ort '
     - template: text-field
       type: text
       name: mail
@@ -77,6 +77,10 @@ form:
       type: textarea
       name: message
       label: Nachricht
+    - template: textarea
+      type: textarea
+      name: street
+      label: Straße + Hausnummer
 
 ---
 \**DOCK-18 AUF DEINEM EVENT  
