@@ -5,5 +5,8 @@ fields:
 - type: text
   name: intro_text
   label: Intro Text
+- type: text
+  name: more_button
+  label: Mehr Button Text
 pages:
 - home.md
