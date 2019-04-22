@@ -17,6 +17,8 @@ events:
 - _events/test2.md
 instagram:
 - _instagram/Post1.md
+intro_text: EINZIGARTIG CREMIGER KAFFEEGENUSS AUS DER DOSE
+more_button: Mehr Erfahren
 menu:
   navigation:
     identifier: _index
