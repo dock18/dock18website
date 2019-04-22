@@ -5,10 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: forms
+  path: _forms
   label: Formulare
   create: documents
-  match: forms/*
+  match: "*.md"
   templates:
   - formular
 - type: directory
