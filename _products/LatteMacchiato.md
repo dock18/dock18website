@@ -10,7 +10,7 @@ produktlinktext: ''
 name: ''
 label: ''
 backgroundGradient: 'background-color: rgb(109,114,120)'
-fontColor: '#fff'
+fontColor: "#fff"
 sweetLevel: 4
 strongLevel: 2
 claim: Der helle Milde
@@ -23,6 +23,7 @@ productimage3: "/uploads/Produktgruppe_NITRO_Latte_Back_Website.png"
 consum1: "/uploads/Produktgruppe_NITRO_Latte_Website.png"
 consum2: "/uploads/Produktgruppe_NITRO_Latte_Website.png"
 consum3: "/uploads/Produktgruppe_NITRO_Latte_Website.png"
+type: Coffee
 
 ---
 **HERSTELLUNG COLD BREW**
