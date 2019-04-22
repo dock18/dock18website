@@ -14,5 +14,24 @@ fields:
 - type: file
   name: claim
   label: Claim
+- type: list
+  name: elements
+  label: Startseitenelemente
+  config:
+    min: '0'
+    max: '10'
+    use_select: true
+    source:
+      type: pages
+      section: events
+- type: list
+  name: products
+  label: Produkte
+  config:
+    min: '1'
+    use_select: true
+    source:
+      type: pages
+      section: produkte
 pages:
 - home.md
