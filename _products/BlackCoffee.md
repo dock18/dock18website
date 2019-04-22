@@ -10,7 +10,7 @@ produktlinktext: ''
 name: ''
 label: ''
 backgroundGradient: 'background-color: rgb(109,114,120)'
-fontColor: '#fff'
+fontColor: "#fff"
 sweetLevel: 2
 strongLevel: 4
 claim: Der Klassiker
@@ -23,6 +23,7 @@ productimage3: "/uploads/Produktgruppe_NITRO_Coffee_Back_2_Website.png"
 consum1: "/uploads/IMG_8477.jpg"
 consum2: "/uploads/IMG_8145.jpg"
 consum3: "/uploads/IMG_3137.jpg"
+type: Coffee
 
 ---
 **HERSTELLUNG COLD BREW**
