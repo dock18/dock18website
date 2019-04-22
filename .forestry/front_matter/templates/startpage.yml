@@ -1,26 +1,6 @@
 ---
 label: Startpage
 hide_body: true
-fields:
-- type: include
-  name: produktliste
-  label: Produktliste
-  template: produktliste
-- type: list
-  name: events
-  label: Events
-  config:
-    use_select: true
-    source:
-      type: pages
-      section: events
-- type: list
-  name: instagram
-  label: Instagram
-  config:
-    use_select: true
-    source:
-      type: pages
-      section: instagram
+fields: []
 pages:
 - home.md
