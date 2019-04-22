@@ -9,6 +9,8 @@ sections:
   label: Formulare
   create: documents
   match: forms/*
+  templates:
+  - formular
 - type: directory
   path: ''
   label: Einstiegsseiten

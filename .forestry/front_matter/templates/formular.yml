@@ -1,4 +1,66 @@
 ---
 label: Formular
 hide_body: true
-fields: []
+display_field: Label
+fields:
+- type: text
+  label: Beschreibung
+  name: label
+  description: Beschreibung
+  config:
+    required: true
+- type: text
+  label: Firma/Organisation
+  name: company
+- type: select
+  name: salutation
+  config:
+    source:
+      type: simple
+    options:
+    - Herr
+    - Frau
+    - Divers
+  label: Anrede
+- type: text
+  label: Vorname
+  name: firstName
+- type: text
+  label: Nachname
+  name: lastName
+- type: text
+  name: street
+  label: Straße & Hausnummer
+- type: text
+  label: PLZ & Stadt
+  name: zip
+- type: text
+  name: e-mail
+  label: E-Mail
+- type: text
+  name: website
+  label: Webseite
+- type: select
+  name: count
+  config:
+    source:
+      type: simple
+    options:
+    - 5-10
+    - 11-25
+    - 26-50
+    - 51-100
+    - 100+
+  label: Anzahl Mitarbeiter
+- type: select
+  name: interest
+  config:
+    source:
+      type: simple
+    options:
+    - DOCK-18 Cooler Fridge Small (24 Dosen Mixed)
+    - Dock-18 Cooler Fridge Big (96 Dosen Mixed)
+  label: Interesse an folgendem Paket
+- type: textarea
+  name: message
+  label: Nachricht
