@@ -5,7 +5,26 @@ link: "/events"
 linktext: Mehr Erfahren
 imagealt: Events
 image: "/uploads/Events_Platzhalter.png"
-form: _forms/contact.md
+form:
+  '0': _
+  '1': f
+  '2': o
+  '3': r
+  '4': m
+  '5': s
+  '6': "/"
+  '7': c
+  '8': o
+  '9': n
+  '10': t
+  '11': a
+  '12': c
+  '13': t
+  '14': "."
+  '15': m
+  '16': d
+  recipient: info@dock-18.de
+  submit_text: Abschicken
 
 ---
 \**DOCK-18 AUF DEINEM EVENT  
