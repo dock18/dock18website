@@ -1,18 +1,19 @@
-<form action="https://formspree.io/{{ .Form.recipient }}" method="POST">
-    {{ range .Form.fields }}
+<form action="https://formspree.io/{{ page.form.recipient }}" method="POST">
+    {% for field in page.form.fields %}
     <div class="field">
         <div class="control">
-            <label class="label">{{ .label }}</label>
-            {{ partial (printf "fields/%s" .type) . }}
-            {{ with .description}}
-            <p class="help">{{ . }}</p>
-            {{ end }}
+            <label class="label">{{ field.label }}</label>
+            {% assign path = 'fields/' | append: field.type | append: '.html'  %}
+            {% include {{ path }} %}
+            {% if field.description %}
+            <p class="help">{{ field.content }}</p>
+            {% endif %}
         </div>
     </div>
-    {{ end }}
+    {% endfor %}
     <div class="field">
         <div class="control">
-            <button type="submit" class="button">{{ default "Submit" .Form.submit_text }}</button>
+            <button type="submit" class="button">{{ field.form.submit_text | default: "Absenden" }}</button>
         </div>
     </div>
 </form>

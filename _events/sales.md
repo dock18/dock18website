@@ -6,7 +6,68 @@ linktext: Mehr Erfahren
 imagealt: VERTRIEBSPARTNER
 image: "/uploads/Bildschirmfoto 2019-04-02 um 12.54.16.png"
 title: ''
-
+form:
+  recipient: info@dock-18.de
+  submit_text: Abschicken
+  sections:
+  - title: Sende uns Deine Anfrage
+    fields:
+    - template: text-field
+      type: text
+      name: company
+      label: Firma/Organisation
+    - template: select
+      type: select
+      name: salutation
+      label: Anrede
+      options:
+      - "-"
+      - Herr
+      - Frau
+      - Divers
+    - template: text-field
+      type: text
+      name: name
+      label: Vorname/Nachname
+    - template: textarea
+      type: textarea
+      name: street
+      label: Straße + Hausnummer
+    - template: text-field
+      type: text
+      name: street
+      label: 'PLZ Ort '
+    - template: text-field
+      type: text
+      name: mail
+      label: Mail
+    - template: text-field
+      type: text
+      name: website
+      label: Webseite
+    - template: select
+      type: select
+      name: count
+      label: Anzahl Mitarbeiter
+      options:
+      - "-"
+      - 5-10
+      - 11-25
+      - 16-50
+      - 51-100
+      - 100+
+    - template: select
+      type: select
+      name: interest
+      label: Interesse an folgendem Paket
+      options:
+      - "-"
+      - DOCK-18 Cooler Fridge Big (96 Dosen Mixed)
+      - DOCK-18 Cooler Fridge Small (24 Dosen Mixed)
+    - template: textarea
+      type: textarea
+      name: message
+      label: Nachricht
 ---
 Sie haben eine/n Shop, Supermarkt, Tankstelle, Sportgeschäft, Fitnessstudio, Beachclub, Bar/Restaurant?
 

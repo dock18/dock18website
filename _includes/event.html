@@ -1,11 +1,38 @@
 <div id="page-wrapper">
     <article>
         <div>
-            <div class="wrapper">
+            <div class="wrapper style1">
                 <div class="inner">
+
                     <section>
                         {{ page.content }}
                     </section>
+                    {% if page.form %}
+                    <form action="https://formspree.io/{{ page.form.recipient }}" method="POST">
+                        {% for section in page.form.sections %}
+                        <fieldset class="box">
+                            <legend class="subtitle is-3">{{ section.title }}</legend>
+                            {% for field in section.fields %}
+                            <div class="field">
+                                <div class="control">
+                                    <label class="label">{{ field.label }}</label>
+                                    {% assign path = 'fields/' | append: field.type | append: '.html' %}
+                                    {% include {{ path }} field=field%}
+                                    {% if field.description %}
+                                    <p class="help">{{ field.description }}</p>
+                                    {% endif %}
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </fieldset>
+                        {% endfor %}
+                        <div class="field">
+                            <div class="control">
+                                <button type="submit" class="button primary">{{ page.form.submit_text | default: "Abschicken"  }}</button>
+                            </div>
+                        </div>
+                    </form>
+                    {% endif %}
                 </div>
             </div>
         </div>

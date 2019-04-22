@@ -6,23 +6,6 @@ linktext: Mehr Erfahren
 imagealt: Events
 image: "/uploads/Events_Platzhalter.png"
 form:
-  '0': _
-  '1': f
-  '2': o
-  '3': r
-  '4': m
-  '5': s
-  '6': "/"
-  '7': c
-  '8': o
-  '9': n
-  '10': t
-  '11': a
-  '12': c
-  '13': t
-  '14': "."
-  '15': m
-  '16': d
   recipient: info@dock-18.de
   submit_text: Abschicken
   sections:
@@ -45,6 +28,10 @@ form:
       type: text
       name: name
       label: Vorname/Nachname
+    - template: textarea
+      type: textarea
+      name: street
+      label: Straße + Hausnummer
     - template: text-field
       type: text
       name: street
@@ -80,10 +67,6 @@ form:
       type: textarea
       name: message
       label: Nachricht
-    - template: textarea
-      type: textarea
-      name: street
-      label: Straße + Hausnummer
 
 ---
 \**DOCK-18 AUF DEINEM EVENT  

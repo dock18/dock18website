@@ -1,0 +1,9 @@
+<div class="control">
+    <div class="select">
+        <select name="{{ field.name }}">
+            {% for option in field.options %}
+            <option>{{ option }}</option>
+            {% endfor %}
+        </select>
+    </div>
+</div>

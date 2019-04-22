@@ -16,6 +16,10 @@ defaults:
       path: "_products"
     values:
       layout: product
+  - scope:
+      path: "_forms"
+    values:
+      layout: form
 collections:
   banners:
     output: false
@@ -33,6 +37,8 @@ collections:
     output: false
   instagram:
     output: false
+  forms:
+    output: true
 jekyll-archives:
   enabled: all
   layout: "archive"
