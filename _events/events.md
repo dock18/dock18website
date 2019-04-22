@@ -5,6 +5,7 @@ link: "/events"
 linktext: Mehr Erfahren
 imagealt: Events
 image: "/uploads/Events_Platzhalter.png"
+form: _forms/contact.md
 
 ---
 \**DOCK-18 AUF DEINEM EVENT  
