@@ -33,5 +33,13 @@ fields:
     source:
       type: pages
       section: produkte
+- type: list
+  name: instagram_posts
+  label: Instagram Posts
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: instagram
 pages:
 - home.md
