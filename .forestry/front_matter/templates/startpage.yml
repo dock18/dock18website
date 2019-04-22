@@ -8,5 +8,11 @@ fields:
 - type: text
   name: more_button
   label: Mehr Button Text
+- type: file
+  name: logo
+  label: Logo
+- type: file
+  name: claim
+  label: Claim
 pages:
 - home.md
