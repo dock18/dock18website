@@ -19,6 +19,8 @@ instagram:
 - _instagram/Post1.md
 intro_text: EINZIGARTIG CREMIGER KAFFEEGENUSS AUS DER DOSE
 more_button: Mehr Erfahren
+logo: "/uploads/LOGO_DOck18_SW.png"
+claim: "/uploads/COLDBREWNITRO.png"
 menu:
   navigation:
     identifier: _index
