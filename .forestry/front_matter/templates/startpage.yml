@@ -1,6 +1,9 @@
 ---
 label: Startpage
 hide_body: true
-fields: []
+fields:
+- type: text
+  name: intro_text
+  label: Intro Text
 pages:
 - home.md
