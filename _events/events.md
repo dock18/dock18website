@@ -37,6 +37,7 @@ form:
       name: salutation
       label: Anrede
       options:
+      - "-"
       - Herr
       - Frau
       - Divers
@@ -61,6 +62,7 @@ form:
       name: count
       label: Anzahl Mitarbeiter
       options:
+      - "-"
       - 5-10
       - 11-25
       - 16-50
@@ -71,6 +73,7 @@ form:
       name: interest
       label: Interesse an folgendem Paket
       options:
+      - "-"
       - DOCK-18 Cooler Fridge Big (96 Dosen Mixed)
       - DOCK-18 Cooler Fridge Small (24 Dosen Mixed)
     - template: textarea
