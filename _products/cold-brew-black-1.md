@@ -1,7 +1,7 @@
 ---
 title: Cold Brew Black
 date: 2018-11-05 19:25:04 +0000
-productimage: "/uploads/Produktgruppe_NITRO_TEA_Front.png"
+productimage: "/uploads/2019/04/23/DOCK18_Himbeere_Hibiskus.png"
 producttext: Himbeere Hibiskus Mischung
 productlink: "/home"
 productlinktext: Mehr
