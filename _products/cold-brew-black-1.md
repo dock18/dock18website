@@ -24,7 +24,6 @@ consum1: "/uploads/IMG_8477.jpg"
 consum2: "/uploads/IMG_8145.jpg"
 consum3: "/uploads/IMG_3137.jpg"
 type: Tea
-published: false
 
 ---
 **HERSTELLUNG COLD BREW**
