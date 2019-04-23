@@ -17,10 +17,10 @@ events:
 - _events/test2.md
 instagram:
 - _instagram/Post1.md
-intro_text: Nordisch. Natürlich. Cold Brew.
+intro_text: Nordisch.  Natürlich.  Cold Brew.
 more_button: Mehr Erfahren
 logo: "/uploads/2019/04/23/Dock18Drinks_Logo_Black.png"
-claim: ''
+claim: "/uploads/2019/04/23/TEA_BUTTON-02.png"
 products:
 - _products/BlackCoffee.md
 - _products/LatteMacchiato.md
