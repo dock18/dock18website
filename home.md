@@ -18,7 +18,7 @@ events:
 instagram:
 - _instagram/Post1.md
 intro_text: Nordisch.  Natürlich.  Cold Brew.
-more_button: Mehr Erfahren
+more_button: SCROLL WEITER
 logo: "/uploads/2019/04/23/Dock18Drinks_Logo_Black.png"
 claim: "/uploads/2019/04/23/TEA_COFFEE_BUTTON_Zeichenfläche 1.png"
 products:
