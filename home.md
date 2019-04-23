@@ -17,9 +17,9 @@ events:
 - _events/test2.md
 instagram:
 - _instagram/Post1.md
-intro_text: EINZIGARTIG CREMIGER KAFFEEGENUSS AUS DER DOSE
+intro_text: Nordisch. Natürlich. Cold Brew.
 more_button: Mehr Erfahren
-logo: "/uploads/LOGO_DOck18_SW.png"
+logo: "/uploads/2019/04/23/Dock18Drinks_Logo_Black.png"
 claim: "/uploads/COLDBREWNITRO.png"
 products:
 - _products/BlackCoffee.md
