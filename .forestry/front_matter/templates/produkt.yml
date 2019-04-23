@@ -82,7 +82,7 @@ fields:
     - Tea
   label: Typ
 pages:
-- _products/cold-brew-black-1.md
 - _products/cold-brew-black.md
+- _products/cold-brew-black-1.md
 - _products/LatteMacchiato.md
 - _products/BlackCoffee.md
