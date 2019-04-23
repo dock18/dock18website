@@ -2,7 +2,7 @@
 title: Cold Brew Black
 date: 2018-11-05 19:25:04 +0000
 productimage: "/uploads/2019/04/23/DOCK18_Himbeere_Hibiskus.png"
-producttext: Himbeere Hibiskus Mischung
+producttext: Himbeere Hibiskus
 productlink: "/home"
 productlinktext: Mehr
 productcolor: "#258942"
