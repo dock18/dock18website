@@ -14,7 +14,7 @@ fields:
     label: Recipient
     description: E-mail address that should receive submissions
     config:
-      required: true
+      required: false
   - type: text
     name: submit_text
     label: Submit Text
