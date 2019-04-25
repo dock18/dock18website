@@ -1,6 +1,6 @@
 ---
-headline: Herkunft
-text: 100% KAFFEE - 100% MANUFAKTUR
+headline: Was ist Cold Brew Nitro?
+text: ENTDECKE EIN NATÜRLICH NEUES GESCHMACKSERLEBNIS
 link: "/herkunft"
 linktext: Mehr Erfahren
 imagealt: Herkunft
