@@ -3,16 +3,22 @@
         <div class="inner">
             <div class="logo-banner-inner">
                 <figure class="logo">
-                    <img class="orbit-image tns-lazy-img" src="{{ site.cloudinary_url | append: '/c_pad,h_500,q_auto' | append: page.logo }}"
+                    <img class="orbit-image tns-lazy-img"
+                         src="{{ site.cloudinary_url | append: '/c_pad,h_500,q_auto' | append: page.logo }}"
                          alt="logo">
                 </figure>
                 <figure class="claim">
-                    <img class="orbit-image tns-lazy-img"
-                         src="{{ site.cloudinary_url | append: '/c_pad,h_500,q_auto' | append: page.claim }}"
-                         alt="claim">
-                    <img class="orbit-image tns-lazy-img"
-                         src="{{ site.cloudinary_url | append: '/c_pad,h_500,q_auto' | append: page.claim2 }}"
-                         alt="claim2">
+                    <div class="row gtr-50 gtr-uniform">
+                        <div class="col-6">
+                            <img class="orbit-image tns-lazy-img"
+                                 src="{{ site.cloudinary_url | append: '/c_pad,h_500,q_auto' | append: page.claim }}"
+                                 alt="claim">
+                        </div>
+                        <div class="col-6">
+                            <img class="orbit-image tns-lazy-img"
+                                 src="{{ site.cloudinary_url | append: '/c_pad,h_500,q_auto' | append: page.claim2 }}"
+                                 alt="claim2">
+                        </div>
                 </figure>
             </div>
             <div class="intro-text-wrapper">
@@ -21,7 +27,7 @@
                 <div id="more_button" style="margin-top:4em;" class="bounce">
                     <span class="more-anchor-text">{{ page.more_button }}</span> <br>
                     <img class="more-anchor" src="{{ 'img/Anchor.svg' | relative_url }}"
-                          alt="logo">
+                         alt="logo">
                 </div>
             </div>
         </div>

@@ -1,6 +1,8 @@
 <section class="text-banner-list">
     <div class="text-banner-list-wrapper">
-        {% for textbanner in site.events %}
+
+        {% assign items = site.events | sort: 'position' %}
+        {% for textbanner in items %}
         {% assign remainder = forloop.index | modulo: 2 %}
         <div class="wrapper">
             {% if remainder == 1 %}

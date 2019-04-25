@@ -6,7 +6,7 @@ link: "/story_press"
 linktext: Mehr Erfahren
 imagealt: Story & Presse
 image: "/v1556126215/Bildschirmfoto_2019-03-19_um_11.48.18_zsjztu.png"
-
+position: 2
 ---
 _HEIMATHAFEN HAMBURG_  
 **DER GESCHICHTE DES KAFFEE‘s AUF DER SPUR**

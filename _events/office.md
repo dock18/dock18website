@@ -5,6 +5,7 @@ link: "/office"
 linktext: Mehr Erfahren
 imagealt: OFFICE PACK
 image: "/v1556126329/2019/02/25/urGHkjyw_qczx3v.png"
+position: 5
 form:
   recipient: info@dock-18.de
   submit_text: Abschicken

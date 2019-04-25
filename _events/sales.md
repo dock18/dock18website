@@ -6,6 +6,7 @@ linktext: Mehr Erfahren
 imagealt: VERTRIEBSPARTNER
 image: "/v1556126202/Bildschirmfoto_2019-04-02_um_12.54.16_jghkjh.png"
 title: ''
+position: 6
 form:
   recipient: info@dock-18.de
   submit_text: Abschicken

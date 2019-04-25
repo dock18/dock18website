@@ -5,6 +5,7 @@ link: "/events"
 linktext: Mehr Erfahren
 imagealt: Events
 image: "/v1556126243/Events_Platzhalter_qfubgn.png"
+position: 4
 form:
   recipient: info@dock-18.de
   submit_text: Abschicken
