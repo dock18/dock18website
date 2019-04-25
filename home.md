@@ -18,9 +18,9 @@ events:
 instagram:
 - _instagram/Post1.md
 intro_text: NORDISCH.  NATÜRLICH.  COLD BREW.
-more_button: SCROLL WEITER
+more_button: MEHR ERFAHREN
 logo: "/uploads/2019/04/23/Dock18Drinks_Logo_Black.png"
-claim: "/v1556126308/2019/04/23/COFFEE_BUTTON_Zeichenfla%CC%88che_1_as3coq.png"
+claim: "/v1556171583/COFFEE_BUTTON-01.png"
 products:
 - _products/BlackCoffee.md
 - _products/LatteMacchiato.md
@@ -40,7 +40,7 @@ instagram_posts:
 - _instagram/Post2.md
 - _instagram/Post4.md
 - _instagram/Post_9.md
-claim_2: "/v1556126309/2019/04/23/TEA_BUTTON-02_xmpond.png"
+claim_2: "/v1556171583/TEA_BUTTON-01.png"
 menu:
   navigation:
     identifier: _index
