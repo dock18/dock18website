@@ -1,6 +1,6 @@
 ---
 headline: Was ist Cold Brew Nitro?
-text: ENTDECKE EIN NATÜRLICH NEUES GESCHMACKSERLEBNIS
+text: ENTDECKE DAS NATÜRLICH NEUE GESCHMACKSERLEBNIS FÜR UNTERWEGS.
 link: "/herkunft"
 linktext: Mehr Erfahren
 imagealt: Herkunft
