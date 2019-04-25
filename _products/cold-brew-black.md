@@ -1,7 +1,7 @@
 ---
 title: Cold Brew Black
 date: 2018-11-05 19:25:04 +0000
-productimage: "/uploads/2019/04/23/DOCK18_Rhabarber_Grape.png"
+productimage: "/v1556126317/2019/04/23/DOCK18_Rhabarber_Grape_l6ium7.png"
 producttext: Rhabarber Grapefruit
 productlink: "/home"
 productlinktext: Mehr
@@ -17,9 +17,9 @@ claim: Der Klassiker
 text: Unser Black Coffee überzeugt durch seine solide Basis. Klassisch Schwarz ohne
   Zusatz von Zucker oder Zusatzstoffe. Der Cold Brew durchsticht mit seiner natürlich
   süßen Aromenvielfalt.
-productimage1: "/uploads/2019/04/23/DOCK18_Rhabarber_Grape.png"
-productimage2: "/uploads/2019/04/23/DOCK18_Rhabarber_Grape.png"
-productimage3: "/uploads/2019/04/23/DOCK18_Rhabarber_Grape.png"
+productimage1: "/v1556126317/2019/04/23/DOCK18_Rhabarber_Grape_l6ium7.png"
+productimage2: "/v1556171980/DOCK18_Rhabarber_Grape_01.png"
+productimage3: "/v1556171980/DOCK18_Rhabarber_Grape_01.png"
 consum1: "/uploads/IMG_8477.jpg"
 consum2: "/uploads/IMG_8145.jpg"
 consum3: "/uploads/IMG_3137.jpg"
