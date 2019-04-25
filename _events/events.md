@@ -4,7 +4,7 @@ text: BUCHE DIE DOCK18 CREW AUF DEINEM EVENT ODER DEINER ROADSHOW
 link: "/events"
 linktext: Mehr Erfahren
 imagealt: Events
-image: "/uploads/Events_Platzhalter.png"
+image: "/v1556126243/Events_Platzhalter_qfubgn.png"
 form:
   recipient: info@dock-18.de
   submit_text: Abschicken
@@ -72,7 +72,7 @@ form:
 \**DOCK-18 AUF DEINEM EVENT  
 \**MACHE DEIN EVENT ZU ETWAS BESONDEREM
 
-![](/uploads/Bildschirmfoto 2019-04-04 um 12.30.04.png){:class="image fit"}
+![](https://res.cloudinary.com/dock18/image/upload/v1556126186/Bildschirmfoto_2019-04-04_um_12.30.04_tvdqdv.png){:class="image fit"}
 
 **UNTERWEGS MIT DER DOCK-18 CREW**
 
@@ -84,7 +84,7 @@ Lass Dich inspirieren durch unseren besonderen Kick bei deinem Event, wir erstel
 
 **DOCK-18 CREW ON TOUR**
 
-![](/uploads/Events_Platzhalter.png){:class="image fit"}
+![](https://res.cloudinary.com/dock18/image/upload/v1556126243/Events_Platzhalter_qfubgn.png){:class="image fit"}
 
 SENDE UNS DEINE ANFRAGE
 

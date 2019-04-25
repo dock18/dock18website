@@ -4,7 +4,7 @@ text: DU BRAUCHST DEN HANSEATISCHEN KICK AM MORGEN IN DEINEM LADEN?
 link: "/sales"
 linktext: Mehr Erfahren
 imagealt: VERTRIEBSPARTNER
-image: "/uploads/Bildschirmfoto 2019-04-02 um 12.54.16.png"
+image: "/v1556126202/Bildschirmfoto_2019-04-02_um_12.54.16_jghkjh.png"
 title: ''
 form:
   recipient: info@dock-18.de

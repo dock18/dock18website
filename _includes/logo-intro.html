@@ -3,13 +3,16 @@
         <div class="inner">
             <div class="logo-banner-inner">
                 <figure class="logo">
-                    <img class="orbit-image tns-lazy-img" src="{{ page.logo | relative_url }}"
+                    <img class="orbit-image tns-lazy-img" src="{{ site.cloudinary_url | append: '/c_pad,h_500,q_auto' | append: page.logo }}"
                          alt="logo">
                 </figure>
                 <figure class="claim">
                     <img class="orbit-image tns-lazy-img"
-                         src="{{ page.claim | relative_url }}"
+                         src="{{ site.cloudinary_url | append: '/c_pad,h_500,q_auto' | append: page.claim }}"
                          alt="claim">
+                    <img class="orbit-image tns-lazy-img"
+                         src="{{ site.cloudinary_url | append: '/c_pad,h_500,q_auto' | append: page.claim2 }}"
+                         alt="claim2">
                 </figure>
             </div>
             <div class="intro-text-wrapper">

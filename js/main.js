@@ -40,6 +40,12 @@ import 'aos/dist/aos.css';
         AOS.init();
     });
 
+    $(".claim").click(function() {
+        $([document.documentElement, document.body]).animate({
+            scrollTop: $("#product-list-headline").offset().top
+        }, 800);
+    });
+
     $("#more_button").click(function() {
         $([document.documentElement, document.body]).animate({
             scrollTop: $("#product-list-headline").offset().top

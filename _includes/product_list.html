@@ -16,7 +16,7 @@
                 data-aos-anchor-placement="top-center">
             <h3 class="product-type" style="margin-bottom: 0.1em">{{ product.type }}</h3>
             <div class="product-list-item-wrapper" style="background-color:{{ product.productcolor }}">
-                <img class="product-list-item orbit-image tns-lazy-img" src="{{ product.productimage | relative_url }}"
+                <img class="product-list-item orbit-image tns-lazy-img" src="{{ site.cloudinary_url | append: '/c_pad,h_400,q_auto' | append: product.productimage }}"
                      alt="{{ banner.alt }}">
 
             </div>

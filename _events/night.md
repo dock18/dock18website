@@ -4,22 +4,12 @@ text: ENTDECKE DIE VIELFALT DER DOCK-18 PRODUKTE ZUHAUSE ODER IN DEINER BAR
 link: "/Night"
 linktext: Mehr Erfahren
 imagealt: Night
-image: "/uploads/Bildschirmfoto 2019-04-02 um 17.10.11.png"
+image: "/v1556126201/Bildschirmfoto_2019-04-02_um_17.10.11_mg0dao.png"
 title: ''
 
 ---
-![](/uploads/Bildschirmfoto 2019-04-02 um 17.10.11.png)
+![](https://res.cloudinary.com/dock18/image/upload/c_pad,w_960/v1556126201/Bildschirmfoto_2019-04-02_um_17.10.11_mg0dao.png){:class="image fit"}
 
 Style wie auf der Seite Office!
 
 Bilder tauche ich dann nochmal aus und Text füge ich dann ein.
-
-![](/uploads/Bildschirmfoto 2019-04-04 um 18.18.43.png){:class="image fit"}
-
-![](/uploads/Bildschirmfoto 2019-04-04 um 18.18.50.png){:class="image fit"}
-
-![](/uploads/Bildschirmfoto 2019-04-04 um 18.18.55.png){:class="image fit"}
-
-![](/uploads/Bildschirmfoto 2019-04-04 um 18.18.32.png){:class="image fit"}
-
-![](/uploads/Bildschirmfoto 2019-04-04 um 18.18.38.png){:class="image fit"}

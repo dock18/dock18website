@@ -21,6 +21,7 @@ intro_text: NORDISCH.  NATÜRLICH.  COLD BREW.
 more_button: MEHR ERFAHREN
 logo: "/v1556126308/2019/04/23/Dock18Drinks_Logo_Black_mpbiay.png"
 claim: "/v1556171583/COFFEE_BUTTON-01.png"
+claim2: "/v1556171583/TEA_BUTTON-01.png"
 products:
 - _products/BlackCoffee.md
 - _products/LatteMacchiato.md

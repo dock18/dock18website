@@ -4,7 +4,7 @@ text: MACH DEINE MEETINGS ZU ETWAS BESONDEREM
 link: "/office"
 linktext: Mehr Erfahren
 imagealt: OFFICE PACK
-image: "/uploads/2019/02/25/urGHkjyw.png"
+image: "/v1556126329/2019/02/25/urGHkjyw_qczx3v.png"
 form:
   recipient: info@dock-18.de
   submit_text: Abschicken
@@ -71,17 +71,15 @@ form:
 **DOCK-18 OFFICE PACK  
 **MACH MEHR AUS DEINEM OFFICE
 
-![](/uploads/2019/02/25/urGHkjyw.png){:class="image fit"}
+![](https://res.cloudinary.com/dock18/image/upload/c_pad,w_960/v1556126329/2019/02/25/urGHkjyw_qczx3v.png){:class="image fit"}
 
   
 **ERFRISCHENDE IDEEN IN DEINEM OFFICE**
 
-Montag 11 Uhr - Das Wochenmeeting zieht sich seit zwei Stunden. Jetzt erfrischend Energie tanken?Buche den DOCK-18 Office Buddy - Dein kleiner Kühlschrank für‘s Office. Stets gefüllt mit den erfrischenden DOCK-18 Produkten und das beste? Den Kühlschrank zahlen wir, die Dock-18 Produkte bekommst du zum Sonderpreis und wir füllen diese Regelmäßig nach!
+Montag 11 Uhr - Das Wochenmeeting zieht sich seit zwei Stunden. Jetzt erfrischend Energie tanken? Buche den DOCK-18 Office Buddy - Dein kleiner Kühlschrank für‘s Office. Stets gefüllt mit den erfrischenden DOCK-18 Produkten und das beste? Den Kühlschrank zahlen wir, die Dock-18 Produkte bekommst du zum Sonderpreis und wir füllen diese Regelmäßig nach!
 
 DOCK-18 OFFICE BUDDY
 
-![](/uploads/Bildschirmfoto 2019-03-25 um 13.08.14.png){:class="image fit"}
-
-![](/uploads/Bildschirmfoto 2019-04-04 um 12.49.00.png){:class="image fit"}
+![](https://res.cloudinary.com/dock18/image/upload/c_pad,w_960/v1556126227/Bildschirmfoto_2019-04-04_um_12.49.00_xp2yml.png){:class="image fit"}
 
 Anfrageformular wie im PDF

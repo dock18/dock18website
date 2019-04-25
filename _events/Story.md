@@ -11,7 +11,7 @@ image: "/v1556126215/Bildschirmfoto_2019-03-19_um_11.48.18_zsjztu.png"
 _HEIMATHAFEN HAMBURG_  
 **DER GESCHICHTE DES KAFFEE‘s AUF DER SPUR**
 
-![](/uploads/Bildschirmfoto 2019-04-04 um 10.27.00-1.png){:class="image fit"}
+![](https://res.cloudinary.com/dock18/image/upload/c_pad,w_960/v1556126331/2018/11/05/Beispiel_Header_Heimat_Hamburg_Story_pn4zd4.jpg){:class="image fit"}
 
 **HAMBURG UND DER KAFFEE**
 
@@ -29,7 +29,7 @@ _HEIMATHAFEN HAMBURG_
 >
 > Und vor zwei Jahren - an einem sonnigen Nachmittag - saßen die drei Gründer gegenüber von Dock 17 und tüftelten wieder an Ihrer Idee, jedem einen Kaffee Kick anbieten zu können, unabhängig von Ort und Zeit, eben wie diesen Arbeitern im Dock 17 gegenüber. Und so kam es zum Namen Dock 18.
 
-![](/uploads/Bildschirmfoto 2019-04-02 um 17.10.11.png){:class="image fit"}
+![](https://res.cloudinary.com/dock18/image/upload/c_pad,w_960/v1556126201/Bildschirmfoto_2019-04-02_um_17.10.11_mg0dao.png){:class="image fit"}
 
 **DIE GRÜNDER**
 
@@ -43,6 +43,6 @@ _HEIMATHAFEN HAMBURG_
 >
 > Dock 18 steht für unabhängigen, unverwechselbaren Kaffee-Genuss, der Dir den Kick für den Tag gibt, Energie nach der Party oder Arbeit bringt, Dich im Nachmittagstief aufbaut oder Dir Deinen Kaffee Moment schenkt, wo auch immer Du gerade bist.
 
-![](/uploads/Bildschirmfoto 2019-03-19 um 11.48.18.png){:class="image fit"}
+![](https://res.cloudinary.com/dock18/image/upload/c_pad,w_960/v1556126215/Bildschirmfoto_2019-03-19_um_11.48.18_zsjztu.png){:class="image fit"}
 
 **DOCK-18 IN DER PRESSE**

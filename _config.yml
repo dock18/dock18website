@@ -3,6 +3,7 @@ short_title: Dock 18
 description: Dock 18
 baseurl:
 permalink: "/:path/"
+cloudinary_url: "https://res.cloudinary.com/dock18/image/upload"
 defaults:
   - scope:
       path: ""

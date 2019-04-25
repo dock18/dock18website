@@ -14,11 +14,11 @@ fields:
 - type: file
   name: claim
   label: Claim
-- name: claim_2
+- name: claim2
   type: file
   config:
     maxSize: 250
-  label: Claim_2
+  label: Claim 2
 - type: list
   name: elements
   label: Startseitenelemente

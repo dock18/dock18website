@@ -13,7 +13,7 @@
                     data-aos-mirror="false"
                     data-aos-once="false"
                     data-aos-anchor-placement="top-right">
-                <img class="event-image orbit-image tns-lazy-img" src="{{ textbanner.image | relative_url }}"
+                <img class="event-image orbit-image tns-lazy-img" src="{{ site.cloudinary_url | append: '/c_pad,h_500,q_auto' | append: textbanner.image }}"
                      alt="{{ textbanner.alt }}">
             </figure>
             {% endif %}
@@ -49,7 +49,7 @@
                     data-aos-mirror="false"
                     data-aos-once="false"
                     data-aos-anchor-placement="top-left">
-                <img class="event-image orbit-image tns-lazy-img" src="{{ textbanner.image | relative_url }}"
+                <img class="event-image orbit-image tns-lazy-img" src="{{ site.cloudinary_url | append: '/c_pad,h_500,q_auto' | append: textbanner.image }}"
                      alt="{{ textbanner.alt }}">
             </figure>
             {% endif %}
