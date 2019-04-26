@@ -1,10 +1,11 @@
 <section id="product-list">
     <h2 class="product-list-headline" id="product-list-headline"></h2>
     <div class="product-list-wrapper">
-        {% for product in site.products %}
+        {% assign items = site.products | sort: 'position' %}
+        {% for product in items %}
 
         {% if product.productlink %}
-        <a href="{{ product.url }}">
+        <a href="{{ product.url }}" class="{{ product.type }}">
         {% endif %}
         <figure class="product" data-aos="fade-up"
                 data-aos-offset="50"

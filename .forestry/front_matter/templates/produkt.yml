@@ -81,6 +81,14 @@ fields:
     - Coffee
     - Tea
   label: Typ
+- type: number
+  name: position
+  label: Position
+  config:
+    min: '1'
+    max: '100'
+    step: '1'
+    required: true
 pages:
 - _products/cold-brew-black.md
 - _products/cold-brew-black-1.md

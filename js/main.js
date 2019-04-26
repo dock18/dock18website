@@ -40,9 +40,15 @@ import 'aos/dist/aos.css';
         AOS.init();
     });
 
-    $(".claim").click(function() {
+    $("#claim_tee").click(function() {
         $([document.documentElement, document.body]).animate({
-            scrollTop: $("#product-list-headline").offset().top
+            scrollTop: $(".Tee").offset().top
+        }, 800);
+    });
+
+    $("#claim_coffee").click(function() {
+        $([document.documentElement, document.body]).animate({
+            scrollTop: $(".Coffee").offset().top
         }, 800);
     });
 

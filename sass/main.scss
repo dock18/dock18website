@@ -2388,17 +2388,17 @@ body.is-mobile {
   margin-left: auto;
   margin-right: auto;
 
-  .claim {
-    width: 35vw;
-    @include breakpoint('>=medium') {
-      width: 15vw;
-    }
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;
-  }
-}
 
+}
+.claim {
+  width: 50vw;
+  @include breakpoint('>=medium') {
+    width: 35vw;
+  }
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .intro-paragraph {
   margin: 1em 0 0 0;
