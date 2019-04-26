@@ -42,7 +42,7 @@ import 'aos/dist/aos.css';
 
     $("#claim_tee").click(function() {
         $([document.documentElement, document.body]).animate({
-            scrollTop: $(".Tee").offset().top
+            scrollTop: $(".Tea").offset().top
         }, 800);
     });
 
