@@ -5,6 +5,11 @@ fields:
 - type: text
   name: intro_text
   label: Intro Text
+- name: intro_text_2
+  type: text
+  config:
+    required: false
+  label: Intro_Text_2
 - type: text
   name: more_button
   label: Mehr Button Text
