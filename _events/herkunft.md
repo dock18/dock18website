@@ -18,20 +18,20 @@ Position: 1
    Doch was hat es sich mit COLD BREW auf sich?  
    Es ist ein „Trend“ mit einer sehr langen Geschichte – zurückzuführen bis in’s 17. Jahrhundert aus Japan, aber wir sind hier nicht im Geschichtsunterricht.
 
-**COLD BREW** – wie im Namen schon erwärmt, sprechen wir hier von „kalt gebrüht – bzw. „kalt extrahiert“. Hier geht es um Zeit, sehr viel Zeit. In der hauseigenen Brauerei geben wir unseren gemahlenen Kaffeebohnen (20 Stunden) und Teeblättern (6 Stunden) genau die richtige Zeit um in besonders aufbereitetem Wasser:  
-• Ihre volle Aromenvielfalt zu entwickeln  
-• Die natürliche Süße erhalten bleibt  
-• Keine Säuren und Bitterstoffe zu entwickeln
-
-**_–> Und das völlig ohne Zucker und weiteren Zusatzstoffen._**
+> **COLD BREW** – wie im Namen schon erwärmt, sprechen wir hier von „kalt gebrüht – bzw. „kalt extrahiert“. Hier geht es um Zeit, sehr viel Zeit. In der hauseigenen Brauerei geben wir unseren gemahlenen Kaffeebohnen (20 Stunden) und Teeblättern (6 Stunden) genau die richtige Zeit um in besonders aufbereitetem Wasser:  
+> • Ihre volle Aromenvielfalt zu entwickeln  
+> • Die natürliche Süße erhalten bleibt  
+> • Keine Säuren und Bitterstoffe zu entwickeln
+>
+> **_–> Und das völlig ohne Zucker und weiteren Zusatzstoffen._**
 
 ***
 
 1. **Der schaumig cremige Nitro-Effekt**  
    Aus einer Not entstanden, da ein Barista den hauseigenen Cold Brew effizienter kühlen und dem Gast servieren wollte. So nahm er eine klassische Zapfanlage, füllte Cold Brew im Fass ab und schloss die Stickstoffanlage an. So entstand Cold Brew Nitro, unspektakulär aus der Not eine Tugend gemacht und somit DAS Trend Erfrischungsgetränk aus den USA erfunden.
 
-**COLD BREW NITRO**  
-Diesen Effekt machen wir uns zu nutzen und entwickeln einzigartige Coffee und Tea Spezialitäten, kalt gebrüht mit dem Nitro-Effekt in der Dose, für ein neues, natürliches, vollmundiges Geschmackserlebnis für Unterwegs.
+> **COLD BREW NITRO**  
+> Diesen Effekt machen wir uns zu nutzen und entwickeln einzigartige Coffee und Tea Spezialitäten, kalt gebrüht mit dem Nitro-Effekt in der Dose, für ein neues, natürliches, vollmundiges Geschmackserlebnis für Unterwegs.
 
 ***
 
