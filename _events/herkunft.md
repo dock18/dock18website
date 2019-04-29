@@ -9,11 +9,39 @@ position: 1
 Position: 1
 
 ---
-### **DOCK-18 HERSTELLUNG
+### ****DER TREND AUS DEN USA – 5 FAKTEN ZU COLD BREW NITRO**
 
-\**VON DER BOHNE BIS ZUR DOSE
+\**WIE EIN BARISTA IN DEN USA AUS DER NOT EINE TUGEND MACHTE
 
-![](https://res.cloudinary.com/dock18/image/upload/c_pad,w_960/v1556126215/Bildschirmfoto_2019-03-26_um_16.46.39_pqxmit.png){:class="image fit"}
+\**1. Kalter Kaffee ? Von wegen!  
+ **Ich lasse meinen heißen Kaffee stehen und habe kalten Kaffee, danach ist er sauer, bitter und oft zum wegkippen geeignet. Doch was hat es sich mit COLD BREW auf sich?   
+ Es ist ein „Trend“ mit einer sehr langen Geschichte – zurückzuführen bis in’s 17. Jahrhundert aus Japan, aber wir sind hier nicht im Geschichtsunterricht.
+
+COLD BREW – wie im Namen schon erwärmt, sprechen wir hier von „kalt gebrüht – bzw. „kalt extrahiert“. Hier geht es um Zeit, sehr viel Zeit. In der hauseigenen Brauerei geben wir unseren gemahlenen Kaffeebohnen (20 Stunden) und Teeblättern (6 Stunden) genau die richtige Zeit um in besonders aufbereitetem Wasser:  
+ • Ihre volle Aromenvielfalt zu entwickeln  
+ • Die natürliche Süße erhalten bleibt  
+ • Keine Säuren und Bitterstoffe zu entwickeln
+
+–> Und das völlig ohne Zucker und weiteren Zusatzstoffen.
+
+\**2. Der schaumig cremige Nitro-Effekt  
+ Aus einer Not entstanden, da ein Barista den hauseigenen Cold Brew effizienter kühlen und dem Gast servieren wollte. So nahm er eine klassische Zapfanlage, füllte Cold Brew im Fass ab und schloss die Stickstoffanlage an. So entstand Cold Brew Nitro, unspektakulär aus der Not eine Tugend gemacht und somit DAS Trend Erfrischungsgetränk aus den USA erfunden.  
+ COLD BREW NITRO.   
+ Diesen Effekt machen wir uns zu nutzen und entwickeln einzigartige Coffee und Tea Spezialitäten, kalt gebrüht mit dem Nitro-Effekt in der Dose, für ein neues, natürliches, vollmundiges Geschmackserlebnis für Unterwegs.
+
+***
+
+***
+
+***
+
+***
+
+***
+
+***
+
+ALT:
 
 \**TRADITION TRIFFT INNOVATION  
 \**Von der Bohnenauslesung bis hin zur Dosenbefüllung ist unser Prozess völlig transparent und kann sogar täglich besucht werden. Entdecke den Weg unserer Kaffeebohne
