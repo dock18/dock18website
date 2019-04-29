@@ -14,7 +14,7 @@ Position: 1
 **WIE EIN BARISTA IN DEN USA AUS DER NOT EINE TUGEND MACHTE**
 
 1. **Kalter Kaffee ? Von wegen!**  
-   _Ich lasse meinen heißen Kaffee stehen und habe kalten Kaffee, danach ist er sauer, bitter und oft zum wegkippen geeignet._   
+   _Ich lasse meinen heißen Kaffee stehen und habe kalten Kaffee, danach ist er sauer, bitter und oft zum wegkippen geeignet._  
    Doch was hat es sich mit COLD BREW auf sich?  
    Es ist ein „Trend“ mit einer sehr langen Geschichte – zurückzuführen bis in’s 17. Jahrhundert aus Japan, aber wir sind hier nicht im Geschichtsunterricht.
 
@@ -25,11 +25,11 @@ Position: 1
 
 **_–> Und das völlig ohne Zucker und weiteren Zusatzstoffen._**
 
-2. **Der schaumig cremige Nitro-Effekt**  
+1. **Der schaumig cremige Nitro-Effekt**  
    Aus einer Not entstanden, da ein Barista den hauseigenen Cold Brew effizienter kühlen und dem Gast servieren wollte. So nahm er eine klassische Zapfanlage, füllte Cold Brew im Fass ab und schloss die Stickstoffanlage an. So entstand Cold Brew Nitro, unspektakulär aus der Not eine Tugend gemacht und somit DAS Trend Erfrischungsgetränk aus den USA erfunden.
 
-**COLD BREW NITRO.  
-**Diesen Effekt machen wir uns zu nutzen und entwickeln einzigartige Coffee und Tea Spezialitäten, kalt gebrüht mit dem Nitro-Effekt in der Dose, für ein neues, natürliches, vollmundiges Geschmackserlebnis für Unterwegs.
+**COLD BREW NITRO**  
+Diesen Effekt machen wir uns zu nutzen und entwickeln einzigartige Coffee und Tea Spezialitäten, kalt gebrüht mit dem Nitro-Effekt in der Dose, für ein neues, natürliches, vollmundiges Geschmackserlebnis für Unterwegs.
 
 ***
 
