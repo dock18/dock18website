@@ -42,7 +42,7 @@ instagram_posts:
 - _instagram/Post4.md
 - _instagram/Post_9.md
 claim_2: "/v1556171583/TEA_BUTTON-01.png"
-intro_text_2: A smooth Way of Energy.
+intro_text_2: A natural smooth Way of Energy.
 menu:
   navigation:
     identifier: _index
