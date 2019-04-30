@@ -13,6 +13,8 @@ Position: 1
 
 **WIE EIN BARISTA IN DEN USA AUS DER NOT EINE TUGEND MACHTE**
 
+![](/v1556616569/AdobeStock_224458903_Page.jpg)
+
 1. **Kalter Kaffee ? Von wegen!**  
    _Ich lasse meinen heißen Kaffee stehen und habe kalten Kaffee, danach ist er sauer, bitter und oft zum wegkippen geeignet._  
    Doch was hat es sich mit COLD BREW auf sich?  
