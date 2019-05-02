@@ -29,8 +29,9 @@ Position: 1
 
 ***
 
-1. **Der schaumig cremige Nitro-Effekt**  
-   Aus einer Not entstanden, da ein Barista den hauseigenen Cold Brew effizienter kühlen und dem Gast servieren wollte. So nahm er eine klassische Zapfanlage, füllte Cold Brew im Fass ab und schloss die Stickstoffanlage an. So entstand Cold Brew Nitro, unspektakulär aus der Not eine Tugend gemacht und somit DAS Trend Erfrischungsgetränk aus den USA erfunden.
+2. **Der schaumig cremige Nitro-Effekt**  
+   _Aus einer Not entstanden, da ein Barista den hauseigenen Cold Brew effizienter kühlen und dem Gast servieren wollte._   
+   So nahm er eine klassische Zapfanlage, füllte Cold Brew im Fass ab und schloss die Stickstoffanlage an. So entstand Cold Brew Nitro, unspektakulär aus der Not eine Tugend gemacht und somit DAS Trend Erfrischungsgetränk aus den USA erfunden.
 
 > **COLD BREW NITRO**  
 > Diesen Effekt machen wir uns zu nutzen und entwickeln einzigartige Coffee und Tea Spezialitäten, kalt gebrüht mit dem Nitro-Effekt in der Dose, für ein neues, natürliches, vollmundiges Geschmackserlebnis für Unterwegs.
