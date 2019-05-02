@@ -16,7 +16,7 @@ Position: 1
 ![](/v1556616569/AdobeStock_224458903_Page.jpg)
 
 1. **Kalter Kaffee ? Von wegen!**  
-   _Ich lasse meinen heißen Kaffee stehen und habe kalten Kaffee, danach ist er sauer, bitter und oft zum wegkippen geeignet._  
+   _Ich lasse meinen heißen Kaffee stehen und habe kalten Kaffee ..._  
    Doch was hat es sich mit COLD BREW auf sich?  
    Es ist ein „Trend“ mit einer sehr langen Geschichte – zurückzuführen bis in’s 17. Jahrhundert aus Japan, aber wir sind hier nicht im Geschichtsunterricht.
 
