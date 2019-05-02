@@ -13,7 +13,7 @@ Position: 1
 
 **WIE EIN BARISTA IN DEN USA AUS DER NOT EINE TUGEND MACHTE**
 
-![](/v1556616569/AdobeStock_224458903_Page.jpg)
+![](/v1556825106/AdobeStock_224458903_Page_web.png)
 
 1. **Kalter Kaffee, kalter Tee? Von wegen!**  
    _Ich lasse meinen heißen Kaffee stehen und habe kalten Kaffee ..._  
