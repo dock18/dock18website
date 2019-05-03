@@ -16,8 +16,8 @@ Position: 1
 ![](/v1556869597/AdobeStock_224458903.jpg)
 
 1. **Kalter Kaffee, kalter Tee? Von wegen!**  
-   _Ich lasse meinen heißen Kaffee stehen und habe kalten Kaffee ..._  
-   Doch was hat es sich mit COLD BREW auf sich?  
+   _Ich lasse meinen heißen Kaffee stehen und habe kalten Kaffee ... glauben viele!_  
+   Doch was hat es wirklich mit COLD BREW auf sich?  
    Es ist ein „Trend“ mit einer sehr langen Geschichte – zurückzuführen bis in’s 17. Jahrhundert aus Japan, aber wir sind hier nicht im Geschichtsunterricht.
 
 > **COLD BREW** – wie im Namen schon erwärmt, sprechen wir hier von „kalt gebrüht – bzw. „kalt extrahiert“. Hier geht es um Zeit, sehr viel Zeit. In der hauseigenen Brauerei geben wir unseren gemahlenen Kaffeebohnen (20 Stunden) und Teeblättern (6 Stunden) genau die richtige Zeit um in besonders aufbereitetem Wasser:  
