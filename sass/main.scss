@@ -2504,3 +2504,21 @@ img.badge {
     }
   }
 }
+
+.event-header {
+
+  h2, p, strong {
+    color:white;
+  }
+
+  h1 {
+
+    &, strong {
+      font-weight: 800;
+      letter-spacing: .225em;
+      line-height: 1em;
+      text-transform: uppercase;
+      font-size: x-large;
+    }
+  }
+}
