@@ -1,3 +1,11 @@
+<div id="main">
+    <header style="background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url({{ site.cloudinary_url | append: '/c_pad,h_500,q_auto' | append: page.image }});
+    background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url({{ site.cloudinary_url | append: '/c_pad,h_500,q_auto' | append: page.image }});
+    background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url({{ site.cloudinary_url | append: '/c_pad,h_500,q_auto' | append: page.image }});
+    color: white;">
+        {{ page.detailseite_image_headline }}
+    </header>
+</div>
 <div id="page-wrapper">
     <article>
         <div>
@@ -28,7 +36,9 @@
                         {% endfor %}
                         <div class="field">
                             <div class="control">
-                                <button type="submit" class="button primary">{{ page.form.submit_text | default: "Abschicken"  }}</button>
+                                <button type="submit" class="button primary">{{ page.form.submit_text | default:
+                                    "Abschicken" }}
+                                </button>
                             </div>
                         </div>
                     </form>
