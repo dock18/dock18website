@@ -7,9 +7,12 @@ imagealt: Herkunft
 image: "/v1556126226/AdobeStock_59970020_z2htcx.jpg"
 position: 1
 Position: 1
+detailseite_image_headline: "<h2><strong>DER TREND AUS DEN USA – WAS IST COLD BREW
+  NITRO?</strong></h2><p><strong>WIE EIN BARISTA IN DEN USA AUS DER NOT EINE TUGEND
+  MACHTE</strong></p><p></p>"
 
 ---
-## **DER TREND AUS DEN USA – 5 FAKTEN ZU COLD BREW NITRO**
+## **DER TREND AUS DEN USA – WAS IST COLD BREW NITRO?**
 
 **WIE EIN BARISTA IN DEN USA AUS DER NOT EINE TUGEND MACHTE**
 
