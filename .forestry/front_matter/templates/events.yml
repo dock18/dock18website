@@ -35,3 +35,12 @@ fields:
     max: '100'
     step: '1'
     required: true
+- name: detailseite_image_headline
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Detailseite Bild Überschrift
