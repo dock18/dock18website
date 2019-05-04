@@ -16,8 +16,6 @@ detailseite_image_headline: "<h2><strong>DER TREND AUS DEN USA – WAS IST COLD 
 
 **WIE EIN BARISTA IN DEN USA AUS DER NOT EINE TUGEND MACHTE**
 
-![](/v1556869597/AdobeStock_224458903.jpg)
-
 1. **Kalter Kaffee, kalter Tee? Von wegen!**  
    _Ich lasse meinen heißen Kaffee stehen und habe kalten Kaffee ... glauben viele!_  
    Doch was hat es wirklich mit COLD BREW auf sich?  
@@ -32,8 +30,8 @@ detailseite_image_headline: "<h2><strong>DER TREND AUS DEN USA – WAS IST COLD 
 
 ***
 
-2. **Der schaumig cremige Nitro-Effekt**  
-   _Aus einer Not entstanden, da ein Barista den hauseigenen Cold Brew effizienter kühlen und dem Gast servieren wollte._   
+1. **Der schaumig cremige Nitro-Effekt**  
+   _Aus einer Not entstanden, da ein Barista den hauseigenen Cold Brew effizienter kühlen und dem Gast servieren wollte._  
    So nahm er eine klassische Zapfanlage, füllte Cold Brew im Fass ab und schloss die Stickstoffanlage an. So entstand Cold Brew Nitro, unspektakulär aus der Not eine Tugend gemacht und somit DAS Trend Erfrischungsgetränk aus den USA erfunden.
 
 > **COLD BREW NITRO**  
