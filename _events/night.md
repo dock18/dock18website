@@ -4,9 +4,11 @@ text: ENTDECKE DIE VIELFALT DER DOCK-18 PRODUKTE ZUHAUSE ODER IN DEINER BAR
 link: "/Night"
 linktext: Mehr Erfahren
 imagealt: Night
-image: "/v1556126201/Bildschirmfoto_2019-04-02_um_17.10.11_mg0dao.png"
+image: "/v1557060326/AdobeStock_221953308.jpg"
 title: ''
 position: 3
+Position: 3
+
 ---
 ![](https://res.cloudinary.com/dock18/image/upload/c_pad,w_960/v1556126201/Bildschirmfoto_2019-04-02_um_17.10.11_mg0dao.png){:class="image fit"}
 
