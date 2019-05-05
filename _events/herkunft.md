@@ -4,7 +4,7 @@ text: ENTDECKE DAS NATÜRLICH NEUE GESCHMACKSERLEBNIS FÜR UNTERWEGS.
 link: "/herkunft"
 linktext: Mehr Erfahren
 imagealt: Herkunft
-image: "/v1556126226/AdobeStock_59970020_z2htcx.jpg"
+image: "/v1557054591/Bildschirmfoto%202019-05-05%20um%2013.09.29.png"
 position: 1
 Position: 1
 detailseite_image_headline: "<h1><strong>DER TREND AUS DEN USA – WAS IST COLD BREW
@@ -12,10 +12,6 @@ detailseite_image_headline: "<h1><strong>DER TREND AUS DEN USA – WAS IST COLD 
   MACHTE</strong></p><p></p>"
 
 ---
-## **DER TREND AUS DEN USA – WAS IST COLD BREW NITRO?**
-
-**WIE EIN BARISTA IN DEN USA AUS DER NOT EINE TUGEND MACHTE**
-
 1. **Kalter Kaffee, kalter Tee? Von wegen!**  
    _Ich lasse meinen heißen Kaffee stehen und habe kalten Kaffee ... glauben viele!_  
    Doch was hat es wirklich mit COLD BREW auf sich?  
