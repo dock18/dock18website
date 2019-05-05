@@ -12,7 +12,7 @@ detailseite_image_headline: "<h1><strong>DER TREND AUS DEN USA – WAS IST COLD 
   MACHTE</strong></p><p></p>"
 
 ---
-**• Kalter Kaffee, kalter Tee? Von wegen!**  
+**• KALTER KAFFEE, KALTER TEE? VON WEGEN!**  
 _Ich lasse meinen heißen Kaffee stehen und habe kalten Kaffee ... glauben viele!_  
 Doch was hat es wirklich mit COLD BREW auf sich?  
 Es ist ein „Trend“ mit einer sehr langen Geschichte – zurückzuführen bis in’s 17. Jahrhundert aus Japan, aber wir sind hier nicht im Geschichtsunterricht.
@@ -26,7 +26,7 @@ Es ist ein „Trend“ mit einer sehr langen Geschichte – zurückzuführen bis
 
 ***
 
-**• Der schaumig cremige Nitro-Effekt**  
+**• DER SCHAUMIG ERFRISCHENDE NITRO EFFEKT!**  
 _Aus einer Not entstanden, da ein Barista den hauseigenen Cold Brew effizienter kühlen und dem Gast servieren wollte._  
 So nahm er eine klassische Zapfanlage, füllte Cold Brew im Fass ab und schloss die Stickstoffanlage an. So entstand Cold Brew Nitro, unspektakulär aus der Not eine Tugend gemacht und somit DAS Trend Erfrischungsgetränk aus den USA erfunden.
 
