@@ -68,10 +68,11 @@ form:
       type: textarea
       name: message
       label: Nachricht
+detailseite_image_headline: "<p>DOCK-18 AUF DEINEM EVENT</p><p>MACHE DEIN EVENT ZU
+  ETWAS BESONDEREM</p>"
+Position: 4
 
 ---
-\**DOCK-18 AUF DEINEM EVENT  
-\**MACHE DEIN EVENT ZU ETWAS BESONDEREM
 
 ![](https://res.cloudinary.com/dock18/image/upload/v1556126186/Bildschirmfoto_2019-04-04_um_12.30.04_tvdqdv.png){:class="image fit"}
 
