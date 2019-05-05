@@ -70,8 +70,8 @@ form:
       name: message
       label: Nachricht
 Position: 6
-detailseite_image_headline: "<p>VERTRIEBSPARTNER WERDEN</p><p>DU BRAUCHST DEN HANSEATISCHEN
-  KICK AM MORGEN IN DEINEM LADEN?</p>"
+detailseite_image_headline: "<p>VERTRIEBSPARTNER WERDEN</p><p>DU BRAUCHST DEN HANSEATISCH
+  NATÜRLICHEN KICK IN DEINEM LADEN?</p>"
 
 ---
 Sie haben eine/n Shop, Supermarkt, Tankstelle, Sportgeschäft, Fitnessstudio, Beachclub, Bar/Restaurant?
