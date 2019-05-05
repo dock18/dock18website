@@ -4,7 +4,7 @@ text: DU BRAUCHST DEN HANSEATISCHEN KICK AM MORGEN IN DEINEM LADEN?
 link: "/sales"
 linktext: Mehr Erfahren
 imagealt: VERTRIEBSPARTNER
-image: "/v1556126202/Bildschirmfoto_2019-04-02_um_12.54.16_jghkjh.png"
+image: "/v1557064377/Bildschirmfoto%202019-05-05%20um%2015.51.49.png"
 title: ''
 position: 6
 form:
@@ -69,6 +69,10 @@ form:
       type: textarea
       name: message
       label: Nachricht
+Position: 6
+detailseite_image_headline: "<p>VERTRIEBSPARTNER WERDEN</p><p>DU BRAUCHST DEN HANSEATISCHEN
+  KICK AM MORGEN IN DEINEM LADEN?</p>"
+
 ---
 Sie haben eine/n Shop, Supermarkt, Tankstelle, Sportgeschäft, Fitnessstudio, Beachclub, Bar/Restaurant?
 
