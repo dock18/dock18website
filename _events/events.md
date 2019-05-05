@@ -73,9 +73,6 @@ detailseite_image_headline: "<p>DOCK-18 AUF DEINEM EVENT</p><p>MACHE DEIN EVENT 
 Position: 4
 
 ---
-
-![](https://res.cloudinary.com/dock18/image/upload/v1556126186/Bildschirmfoto_2019-04-04_um_12.30.04_tvdqdv.png){:class="image fit"}
-
 **UNTERWEGS MIT DER DOCK-18 CREW**
 
 Du suchst für dein Event noch das gewisse Extra? Deine Stundentenparty oder dein Co-Working Space braucht Den besonderen Kick?
