@@ -5,17 +5,16 @@ title: DIE STORY HINTER DOCK-18
 link: "/story_press"
 linktext: Mehr Erfahren
 imagealt: Story & Presse
-image: "/v1556126215/Bildschirmfoto_2019-03-19_um_11.48.18_zsjztu.png"
+image: "/v1556126202/Bildschirmfoto_2019-04-02_um_12.54.16_jghkjh.png"
 position: 2
+Position: 2
+detailseite_image_headline: "<p><strong>HEIMATHAFEN HAMBURG</strong><br>DER GESCHICHTE
+  UNSERER WACHMACHER AUF DER SPUR</p>"
+
 ---
-_HEIMATHAFEN HAMBURG_  
-**DER GESCHICHTE DES KAFFEE‘s AUF DER SPUR**
-
-![](https://res.cloudinary.com/dock18/image/upload/c_pad,w_960/v1556126331/2018/11/05/Beispiel_Header_Heimat_Hamburg_Story_pn4zd4.jpg){:class="image fit"}
-
 **HAMBURG UND DER KAFFEE**
 
-> Kaffee ist fest in der Hamburger Geschichte verankert wie der Michel. Als die ersten Kaffeesäcke aus den weit entfernten Ländern im 17. Jahrhundert an den Hamburger Hafendocks eintrafen, entstanden die ersten Kaffeehäuser. Hier wurden die ersten Kaffee‘s in geselliger Runde für die gut betuchten Hanseaten aufgegossen. Über die Jahrhunderte war Kaffee als Nahrungs- und Genussmittel nicht mehr wegzudenken und die Hamburger fingen an mehr aus dieser kleinen Bohne zu kreieren.
+> Kaffee und Tee sind fest in der Hamburger Geschichte verankert wie der Michel. Als die ersten Kaffeesäcke aus den weit entfernten Ländern im 17. Jahrhundert an den Hamburger Hafendocks eintrafen, entstanden die ersten Kaffeehäuser. Hier wurden die ersten Kaffee‘s in geselliger Runde für die gut betuchten Hanseaten aufgegossen. Über die Jahrhunderte war Kaffee und Tee als Nahrungs- und Genussmittel nicht mehr wegzudenken und die Hamburger fingen an mehr aus den natürlichen Produkten zu kreieren.
 
 **WARUM DOCK-18 ?**
 
@@ -33,7 +32,7 @@ _HEIMATHAFEN HAMBURG_
 
 **DIE GRÜNDER**
 
-> Ein einmaliger Kaffee Genuss unabhängig von Ort und Zeit, das muss doch gehen, sagten sich die drei Gründer – Basti, Dustin und Hendrik – vor zwei Jahren und fingen an, ihre Idee vom unverwechselbaren Kaffee Genuss in die Tat umzusetzen.
+> Ein einmaliger Kaffee Genuss unabhängig von Ort und Zeit, das muss doch gehen, sagten sich die beiden Gründer – Basti und Hendrik – vor zwei Jahren und fingen an, ihre Idee vom unverwechselbaren Kaffee Genuss in die Tat umzusetzen.
 >
 > Es wurde viel gebrüht, gekostet, verworfen, immer wieder neu gebrüht, der Kick gesucht und am Ende gefunden.
 >
