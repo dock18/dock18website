@@ -68,13 +68,10 @@ form:
       type: textarea
       name: message
       label: Nachricht
+Position: 5
+detailseite_image_headline: "<p>DOCK-18 OFFICE PACK<br>MACH MEHR AUS DEINEM OFFICE</p>"
+
 ---
-**DOCK-18 OFFICE PACK  
-**MACH MEHR AUS DEINEM OFFICE
-
-![](https://res.cloudinary.com/dock18/image/upload/c_pad,w_960/v1556126329/2019/02/25/urGHkjyw_qczx3v.png){:class="image fit"}
-
-  
 **ERFRISCHENDE IDEEN IN DEINEM OFFICE**
 
 Montag 11 Uhr - Das Wochenmeeting zieht sich seit zwei Stunden. Jetzt erfrischend Energie tanken? Buche den DOCK-18 Office Buddy - Dein kleiner Kühlschrank für‘s Office. Stets gefüllt mit den erfrischenden DOCK-18 Produkten und das beste? Den Kühlschrank zahlen wir, die Dock-18 Produkte bekommst du zum Sonderpreis und wir füllen diese Regelmäßig nach!
