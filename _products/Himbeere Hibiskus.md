@@ -20,9 +20,9 @@ text: 'Die Himbeere ist für Ihre leckere und gesunde Frucht bekannt. Wir nutzen
   auch den Gesamtgeschmack des Tees angenehm ab. Durch unseren "NITRO-Effekt" und
   das damit verbundenen leichte aufschäumen des Tees nach dem öffnen mildert zusätzlich
   die leichte säuerliche Note der Hibiskusblüte. '
-productimage1: "/v1556126319/2019/04/23/DOCK18_Himbeere_Hibiskus_ju8fma.png"
-productimage2: "/v1556126319/2019/04/23/DOCK18_Himbeere_Hibiskus_ju8fma.png"
-productimage3: "/v1556126319/2019/04/23/DOCK18_Himbeere_Hibiskus_ju8fma.png"
+productimage1: ''
+productimage2: ''
+productimage3: ''
 consum1: "/v1557122005/Bildschirmfoto%202019-05-06%20um%2007.52.59.png"
 consum2: "/v1557123277/Bildschirmfoto%202019-05-06%20um%2008.13.18.png"
 consum3: "/v1557123159/Bildschirmfoto%202019-05-06%20um%2008.11.14.png"
