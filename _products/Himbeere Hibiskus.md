@@ -23,7 +23,7 @@ text: 'Die Himbeere ist für Ihre leckere und gesunde Frucht bekannt. Wir nutzen
 productimage1: "/v1556126319/2019/04/23/DOCK18_Himbeere_Hibiskus_ju8fma.png"
 productimage2: "/v1556126319/2019/04/23/DOCK18_Himbeere_Hibiskus_ju8fma.png"
 productimage3: "/v1556126319/2019/04/23/DOCK18_Himbeere_Hibiskus_ju8fma.png"
-consum1: "/v1556126202/IMG_8477_nalsqq.jpg"
+consum1: "/v1557122005/Bildschirmfoto%202019-05-06%20um%2007.52.59.png"
 consum2: "/v1556126224/IMG_8145_njfrmd.jpg"
 consum3: "/v1556126224/IMG_3137_sxgvot.jpg"
 type: Tea
