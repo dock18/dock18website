@@ -20,9 +20,9 @@ text: Rhabarber wird immer beliebter. Besonders im Sommer überzeugt diese in Ko
 productimage1: ''
 productimage2: ''
 productimage3: ''
-consum1: "/v1556126202/IMG_8477_nalsqq.jpg"
-consum2: "/v1556126224/IMG_8145_njfrmd.jpg"
-consum3: "/v1556126224/IMG_3137_sxgvot.jpg"
+consum1: "/v1557122005/Bildschirmfoto%202019-05-06%20um%2007.52.59.png"
+consum2: "/v1557127565/Bildschirmfoto%202019-05-06%20um%2009.25.22.png"
+consum3: "/v1557127690/Bildschirmfoto%202019-05-06%20um%2009.27.36.png"
 type: Tea
 position: 3
 
