@@ -32,6 +32,6 @@ position: 4
 ---
 **HERSTELLUNG COLD BREW**
 
-Die besonders intensive Herstellung des Cold Brew macht ihn zu etwas ganz Besonderem. Die Bohnen werden 18-24 Stunden in kaltem Wasser ohne jegliche Hitzeeinwirkung „gebrüht“. Dadurch enthält er im Vergleich zu seinem klassisch heiß gebrühten Kollegen wenig Säuren und Bitterstoffe.
+Die besonders intensive Herstellung des Cold Brew macht ihn zu etwas ganz Besonderem. Die Teeblätter werden ca. 6 Stunden in kaltem Wasser ohne jegliche Hitzeeinwirkung „gebrüht“bzw. "extrahiert". Dadurch enthält er im Vergleich zu seinem klassisch heiß gebrühten Kollegen wenig Säuren und Bitterstoffe.
 
 [MEHR ERFAHREN](https://dock-18.de/events/herkunft/){:class="button primary"}
