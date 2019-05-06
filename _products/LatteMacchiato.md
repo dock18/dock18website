@@ -17,7 +17,7 @@ claim: Der helle Milde
 text: Unser Latte Macchiato trifft den Geschmack der Milchintusiasten durch frischem
   Milchschaum, wann du es willst. Frische Milch aus der Region kombiniert mit echtem
   Cold Brew bringen deinen Geschmack zum Höhepunkt.
-productimage1: "/v1556126188/Produktgruppe_NITRO_Latte_Website_n81adx.png"
+productimage1: ''
 productimage2: ''
 productimage3: ''
 consum1: "/v1556126202/IMG_8477_nalsqq.jpg"

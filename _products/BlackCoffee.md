@@ -17,7 +17,7 @@ claim: Der Klassiker
 text: Unser Black Coffee überzeugt durch seine solide Basis. Klassisch Schwarz ohne
   Zusatz von Zucker oder Zusatzstoffe. Der Cold Brew durchsticht mit seiner natürlich
   süßen Aromenvielfalt.
-productimage1: "/v1556126186/Produktgruppe_NITRO_Coffee_Website_nki0rx.png"
+productimage1: ''
 productimage2: ''
 productimage3: ''
 consum1: "/v1556126202/IMG_8477_nalsqq.jpg"
