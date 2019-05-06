@@ -11,12 +11,12 @@ name: ''
 label: ''
 backgroundGradient: 'background-color: rgb(109,114,120)'
 fontColor: "#fff"
-sweetLevel: 2
-strongLevel: 4
-claim: Der Klassiker
-text: Unser Black Coffee überzeugt durch seine solide Basis. Klassisch Schwarz ohne
-  Zusatz von Zucker oder Zusatzstoffe. Der Cold Brew durchsticht mit seiner natürlich
-  süßen Aromenvielfalt.
+sweetLevel: 4
+strongLevel: 2
+claim: Der erfrischende
+text: Rhabarber wird immer beliebter. Besonders im Sommer überzeugt diese in Kombination
+  mit Grapefruit ein erfrischendes und fruchtiges Geschmackserlebnis und das ohne
+  Zusatz von Zucker. Erfrischend lecker im heißen Sommer für zwischendurch!
 productimage1: ''
 productimage2: ''
 productimage3: ''
