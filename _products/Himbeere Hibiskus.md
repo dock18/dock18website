@@ -1,6 +1,6 @@
 ---
 title: Himbeere Hibiskus
-date: 2018-11-05 19:25:04 +0000
+date: 2018-11-05T19:25:04.000+00:00
 productimage: "/v1556126319/2019/04/23/DOCK18_Himbeere_Hibiskus_ju8fma.png"
 producttext: Himbeere Hibiskus
 productlink: "/home"
@@ -11,12 +11,15 @@ name: ''
 label: ''
 backgroundGradient: 'background-color: rgb(109,114,120)'
 fontColor: "#fff"
-sweetLevel: 2
-strongLevel: 4
-claim: Der Klassiker
-text: Unser Black Coffee überzeugt durch seine solide Basis. Klassisch Schwarz ohne
-  Zusatz von Zucker oder Zusatzstoffe. Der Cold Brew durchsticht mit seiner natürlich
-  süßen Aromenvielfalt.
+sweetLevel: 3
+strongLevel: 2
+claim: Das dynamische Duo
+text: 'Die Himbeere ist für Ihre leckere und gesunde Frucht bekannt. Wir nutzen aber
+  auch die Himbeerblätter, diese schmecken leicht herb und ähneln der des schwarzen
+  Tees. Die rote Farbe unseres Tees kommt durch die Hibiskusblüte und rundet damit
+  auch den Gesamtgeschmack des Tees angenehm ab. Durch unseren "NITRO-Effekt" und
+  das damit verbundenen leichte aufschäumen des Tees nach dem öffnen mildert zusätzlich
+  die leichte säuerliche Note der Hibiskusblüte. '
 productimage1: "/v1556126319/2019/04/23/DOCK18_Himbeere_Hibiskus_ju8fma.png"
 productimage2: "/v1556126319/2019/04/23/DOCK18_Himbeere_Hibiskus_ju8fma.png"
 productimage3: "/v1556126319/2019/04/23/DOCK18_Himbeere_Hibiskus_ju8fma.png"
