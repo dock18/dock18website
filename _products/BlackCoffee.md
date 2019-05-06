@@ -27,7 +27,7 @@ type: Coffee
 position: 1
 
 ---
-**HERSTELLUNG COLD BREW**
+**WAS IST COLD BREW NITRO?**
 
 Die besonders intensive Herstellung des Cold Brew macht ihn zu etwas ganz Besonderem. Die Bohnen werden 18-24 Stunden in kaltem Wasser ohne jegliche Hitzeeinwirkung „gebrüht“. Dadurch enthält er im Vergleich zu seinem klassisch heiß gebrühten Kollegen wenig Säuren und Bitterstoffe.
 
@@ -39,7 +39,7 @@ Die besonders intensive Herstellung des Cold Brew macht ihn zu etwas ganz Besond
 
 > **NÄHRWERTTABELLE (pro 100ml)**
 >
-> • Nährwerte pro 100ml 
+> • Nährwerte pro 100ml
 >
 > • Brennwert / Energy // 31KJ / 7 KCAL
 >
