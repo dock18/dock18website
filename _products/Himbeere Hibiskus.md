@@ -35,3 +35,25 @@ position: 4
 Die besonders intensive Herstellung des Cold Brew macht ihn zu etwas ganz Besonderem. Die Teeblätter werden ca. 6 Stunden in kaltem Wasser ohne jegliche Hitzeeinwirkung „gebrüht“bzw. "extrahiert". Dadurch enthält er im Vergleich zu seinem klassisch heiß gebrühten Kollegen wenig Säuren und Bitterstoffe.
 
 [MEHR ERFAHREN](https://dock-18.de/events/herkunft/){:class="button primary"}
+
+***
+
+**ZUTATEN:** gefiltertes Wasser, Röstkaffee
+
+> **NÄHRWERTTABELLE (pro 100ml)**
+>
+> • Nährwerte pro 100ml 
+>
+> • Brennwert / Energy // 31KJ / 7 KCAL
+>
+> • Fett // 0,0g
+>
+> • davon gesättigte Fettsäuren // 0,0g
+>
+> • Kohlenhydrate // 0,5g
+>
+> • davon Zucker // 0,0g
+>
+> • Eiweiß // 0,3g
+>
+> • Salz // 0,0g
