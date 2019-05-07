@@ -12,8 +12,32 @@ detailseite_image_headline: "<p><strong>DOCK-18 AT NIGHT</strong></p><p>ENTDECKE
   VIELFALT DER DOCK-18 PRODUKTE</p>"
 
 ---
-![](https://res.cloudinary.com/dock18/image/upload/c_pad,w_960/v1556126201/Bildschirmfoto_2019-04-02_um_17.10.11_mg0dao.png){:class="image fit"}
+Die Mischung macht's! Die Vielfalt deiner Dock-18 Produkte auf einem Blick:
 
-Style wie auf der Seite Office!
+### Vanilla Bomb! (4 Personen)
 
-Bilder tauche ich dann nochmal aus und Text füge ich dann ein.
+Der perfekte Alkoholfreie Abkühlung für deine Sommer-Party zu Hause!
+
+Zutaten:  
+• Vanilleeis  
+• Eine Dose (200ml) Dock-18 "Black Coffee" oder "Latte Macchiato"
+
+Herstellung:  
+1\. Jeweils 2 Bällchen Vanilleeis pro Glas  
+2\. Eine Dose (200ml) Dock-18 "Black Coffee" oder "Latte Macchiato" auf alle vier Gläser verteilen  
+3\. Et voilà ! - Abkühlung und Geschmacksexplosion zugleich!
+
+***
+
+### Cold Brew Tonic! (2 Personen)
+
+Der perfekte Alkoholfreie Abkühlung für deine Sommer-Party zu Hause!
+
+Zutaten:  
+• Vanilleeis  
+• Eine Dose (200ml) Dock-18 "Black Coffee" oder "Latte Macchiato"
+
+Herstellung:  
+1\. Jeweils 2 Bällchen Vanilleeis pro Glas  
+2\. Eine Dose (200ml) Dock-18 "Black Coffee" oder "Latte Macchiato" auf alle vier Gläser verteilen  
+3\. Et voilà ! - Abkühlung und Geschmacksexplosion zugleich!
