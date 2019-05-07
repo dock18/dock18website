@@ -29,15 +29,20 @@ Herstellung:
 
 ***
 
-### Cold Brew Tonic! (2 Personen)
+### Cold Brew Tonic! (4 Personen)
 
-Der perfekte Alkoholfreie Abkühlung für deine Sommer-Party zu Hause!
+Erfrischend kombinierter Genuss!
 
 Zutaten:  
-• Vanilleeis  
-• Eine Dose (200ml) Dock-18 "Black Coffee" oder "Latte Macchiato"
+• Eine Dose (200ml) Dock-18 "Black Coffee"   
+• 200ml Wasser  
+• 200ml Tonic Water  
+• 4TL Zitronensaft  
+• 2 Zitronenscheiben  
+• 12-15 Eiswürfel 
 
 Herstellung:  
-1\. Jeweils 2 Bällchen Vanilleeis pro Glas  
-2\. Eine Dose (200ml) Dock-18 "Black Coffee" oder "Latte Macchiato" auf alle vier Gläser verteilen  
-3\. Et voilà ! - Abkühlung und Geschmacksexplosion zugleich!
+1\. Alle Gläser mit etwa drei Eiswürfeln füllen  
+2\. Jeweils ein TL Zitronensaft auf jedes Glas verteilen  
+3\. 50ml Wasser, 50 ml Tonic Water und 50ml Cold Brew in jedes Glas geben  
+4\. Erfrischender kann ein Getränk schon fast nicht mehr sein!
