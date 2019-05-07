@@ -20,11 +20,11 @@ Der perfekte Alkoholfreie Abkühlung für deine Sommer-Party zu Hause!
 
 Zutaten:  
 • Vanilleeis  
-• Eine Dose (200ml) Dock-18 "Black Coffee" oder "Latte Macchiato"
+• Eine Dose (200ml) Dock-18 ["Black Coffee"](https://dock-18.de/products/BlackCoffee/ "Black Coffee") oder ["Latte Macchiato"](https://dock-18.de/products/LatteMacchiato/ "Latte Macchiato")
 
 Herstellung:  
 1\. Jeweils 2 Bällchen Vanilleeis pro Glas  
-2\. Eine Dose (200ml) Dock-18 "Black Coffee" oder "Latte Macchiato" auf alle vier Gläser verteilen  
+2\. Eine Dose (200ml) Dock-18 ["Black Coffee"](https://dock-18.de/products/BlackCoffee/) oder "Latte Macchiato" auf alle vier Gläser verteilen  
 3\. Et voilà ! - Abkühlung und Geschmacksexplosion zugleich!
 
 ***
@@ -34,7 +34,7 @@ Herstellung:
 Erfrischend kombinierter Genuss!
 
 Zutaten:  
-• Eine Dose (200ml) Dock-18 "Black Coffee"   
+• Eine Dose (200ml) Dock-18 ["Black Coffee" ](https://dock-18.de/products/BlackCoffee/)  
 • 200ml Wasser  
 • 200ml Tonic Water  
 • 4TL Zitronensaft  
@@ -44,5 +44,5 @@ Zutaten:
 Herstellung:  
 1\. Alle Gläser mit etwa drei Eiswürfeln füllen  
 2\. Jeweils ein TL Zitronensaft auf jedes Glas verteilen  
-3\. 50ml Wasser, 50 ml Tonic Water und 50ml Cold Brew in jedes Glas geben  
+3\. 50ml Wasser, 50 ml Tonic Water und 50ml Cold Brew [Dock-18 Black Coffee](https://dock-18.de/products/BlackCoffee/) in jedes Glas geben  
 4\. Erfrischender kann ein Getränk schon fast nicht mehr sein!
