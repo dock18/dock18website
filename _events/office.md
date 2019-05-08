@@ -70,6 +70,7 @@ form:
       label: Nachricht
 Position: 5
 detailseite_image_headline: "<p>DOCK-18 OFFICE PACK<br>MACH MEHR AUS DEINEM OFFICE</p>"
+published: false
 
 ---
 **ERFRISCHENDE IDEEN IN DEINEM OFFICE**
