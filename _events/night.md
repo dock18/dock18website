@@ -10,6 +10,7 @@ position: 3
 Position: 3
 detailseite_image_headline: "<p><strong>DOCK-18 AT NIGHT</strong></p><p>ENTDECKE DIE
   VIELFALT DER DOCK-18 PRODUKTE</p>"
+published: false
 
 ---
 Die Mischung macht's! Die Vielfalt deiner Dock-18 Produkte auf einem Blick:
