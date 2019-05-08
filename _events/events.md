@@ -71,6 +71,7 @@ form:
 detailseite_image_headline: "<p>DOCK-18 AUF DEINEM EVENT</p><p>MACHE DEIN EVENT ZU
   ETWAS BESONDEREM</p>"
 Position: 4
+published: false
 
 ---
 **UNTERWEGS MIT DER DOCK-18 CREW**
