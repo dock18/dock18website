@@ -1,7 +1,7 @@
 ---
 title: Rhabarber Grapefruit
 date: 2018-11-05T19:25:04.000+00:00
-productimage: "/v1556171980/DOCK18_Rhabarber_Grape_01.png"
+productimage: "/v1557402302/DOCK18_Rhabarber_Grape_verpixelt.png"
 producttext: Rhabarber Grapefruit
 productlink: "/home"
 productlinktext: Mehr
