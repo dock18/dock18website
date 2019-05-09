@@ -1,7 +1,7 @@
 ---
 title: Cold Brew Latte
 date: '2018-11-05T19:25:04.000+00:00'
-productimage: "/v1556126188/Produktgruppe_NITRO_Latte_Website_n81adx.png"
+productimage: "/v1557406468/Produktgruppe_NITRO_Latte_Website_verpixelt.png"
 producttext: Latte Macchiato
 productlink: "/home"
 productlinktext: Mehr
