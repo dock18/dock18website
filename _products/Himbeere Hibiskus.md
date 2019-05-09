@@ -1,7 +1,7 @@
 ---
 title: Himbeere Hibiskus
 date: 2018-11-05T19:25:04.000+00:00
-productimage: "/v1556126319/2019/04/23/DOCK18_Himbeere_Hibiskus_ju8fma.png"
+productimage: "/v1557403804/DOCK18_Rhabarber_hibi_verpixelt.png"
 producttext: Himbeere Hibiskus
 productlink: "/home"
 productlinktext: Mehr
