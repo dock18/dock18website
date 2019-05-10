@@ -5,7 +5,7 @@
                              alt="Dock18 Logo"></a>
             <a href="http://facebook.com/dock18coffee/"><img class="facebook-logo" src="{{  site.cloudinary_url | append: '/c_pad,h_100,q_auto' | append: '/img/Facebook_Logo_ydfy4i.png'}}"
                              alt="Facebook Logo"></a>
-            <a href="https://instagram.com/dock18coffee/"><img class="instagram-logo" src="{{  site.cloudinary_url | append: '/c_pad,h_100,q_auto' | append: '/img/Instagram_jexsmc.png'}}"
+            <a href="https://instagram.com/dock18drinks/"><img class="instagram-logo" src="{{  site.cloudinary_url | append: '/c_pad,h_100,q_auto' | append: '/img/Instagram_jexsmc.png'}}"
                              alt="Instagram Logo"></a>
         </div>
     </div>
@@ -23,10 +23,9 @@
                         <li><a style="font-size: x-small;padding-left: 12px;" href="{{ product.url }}" class="{{ product.type }}">{{ product.producttext }}</a></li>
                         {% endif %}
                         {% endfor %}
-                        <li>Blog</li>
                         {% assign items = site.events | sort: 'position' %}
                         {% for textbanner in items %}
-                        <li><a style="font-size: x-small;padding-left: 12px;" href="{{ textbanner.url | relative_url }}">{{ textbanner.headline }}</a></li>
+                        <li><a href="{{ textbanner.url | relative_url }}">{{ textbanner.headline }}</a></li>
                         {% endfor %}
                         <li><a href="/datenschutz">Datenschutz</a></li>
                         <li><a href="/impressum">Impressum</a></li>
