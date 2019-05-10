@@ -22,7 +22,7 @@ productimage2: ''
 productimage3: ''
 consum1: "/v1557128399/Bildschirmfoto%202019-05-06%20um%2009.39.26.png"
 consum2: "/v1556126224/IMG_8145_njfrmd.jpg"
-consum3: "/v1556126224/IMG_3137_sxgvot.jpg"
+consum3: "/v1556126226/IMG_3389_wdo6j7.jpg"
 type: Coffee
 position: 1
 
