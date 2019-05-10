@@ -44,6 +44,7 @@
     "jquery": "^3.4.0",
     "jquery.scrollex": "^0.2.1",
     "jquery.scrolly": "0.0.1",
+    "lightbox2": "^2.11.0",
     "lodash": "^4.17.11",
     "mini-css-extract-plugin": "^0.4.5"
   }

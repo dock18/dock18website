@@ -38,7 +38,7 @@ module.exports = {
                     {loader: 'font-awesome-loader'}
                 ]
             }, {
-                test: /\.(woff(2)?|otf|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
+                test: /\.(woff(2)?|otf|ttf|eot|svg|gif|png)(\?v=\d+\.\d+\.\d+)?$/,
                 use: [{
                     loader: 'file-loader',
                     options: {
@@ -68,12 +68,12 @@ module.exports = {
             swDest: 'sw.js',
             clientsClaim: true,
             skipWaiting: true,
-            exclude: [/\.(?:png|jpg|jpeg|svg)$/],
+            exclude: [/\.(?:png|jpg|jpeg|svg|gif|png)$/],
 
             // Define runtime caching rules.
             runtimeCaching: [{
                 // Match any request ends with .png, .jpg, .jpeg or .svg.
-                urlPattern: /\.(?:png|jpg|jpeg|svg)$/,
+                urlPattern: /\.(?:png|jpg|jpeg|svg|gif|png)$/,
 
                 // Apply a cache-first strategy.
                 handler: 'cacheFirst',

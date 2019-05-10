@@ -16,6 +16,18 @@
                 <div id="menu">
                     <ul>
                         <li><a href="/">Home</a></li>
+                        <li>Produkte</li>
+                        {% assign items = site.products | sort: 'position' %}
+                        {% for product in items %}
+                        {% if product.productlink and product.deactivated != true %}
+                        <li><a style="font-size: x-small;padding-left: 12px;" href="{{ product.url }}" class="{{ product.type }}">{{ product.producttext }}</a></li>
+                        {% endif %}
+                        {% endfor %}
+                        <li>Blog</li>
+                        {% assign items = site.events | sort: 'position' %}
+                        {% for textbanner in items %}
+                        <li><a style="font-size: x-small;padding-left: 12px;" href="{{ textbanner.url | relative_url }}">{{ textbanner.headline }}</a></li>
+                        {% endfor %}
                         <li><a href="/datenschutz">Datenschutz</a></li>
                         <li><a href="/impressum">Impressum</a></li>
                     </ul>

@@ -4,7 +4,7 @@
         {% assign items = site.products | sort: 'position' %}
         {% for product in items %}
 
-        {% if product.productlink %}
+        {% if product.productlink and product.deactivated != true %}
         <a href="{{ product.url }}" class="{{ product.type }}">
         {% endif %}
         <figure class="product" data-aos="fade-up"
@@ -31,7 +31,7 @@
             </div>
         </figure>
 
-        {% if product.productlink %}
+        {% if product.productlink and product.deactivated != true  %}
         </a>
         {% endif %}
         {% endfor %}

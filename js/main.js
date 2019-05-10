@@ -13,6 +13,7 @@ import './jquery.scrolly.min.js';
 import './util.js';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+import 'lightbox2/dist/js/lightbox.min';
 
 (function ($) {
 
@@ -40,19 +41,19 @@ import 'aos/dist/aos.css';
         AOS.init();
     });
 
-    $("#claim_tee").click(function() {
+    $("#claim_tee").click(function () {
         $([document.documentElement, document.body]).animate({
             scrollTop: $(".Tea").offset().top
         }, 800);
     });
 
-    $("#claim_coffee").click(function() {
+    $("#claim_coffee").click(function () {
         $([document.documentElement, document.body]).animate({
             scrollTop: $(".Coffee").offset().top
         }, 800);
     });
 
-    $("#more_button").click(function() {
+    $("#more_button").click(function () {
         $([document.documentElement, document.body]).animate({
             scrollTop: $("#product-list-headline").offset().top
         }, 800);
@@ -134,14 +135,14 @@ import 'aos/dist/aos.css';
     }*/
 
     function plusDivs(slider, n) {
-        if(slider) {
+        if (slider) {
             slider.data("slideIndex", slider.data("slideIndex") + n);
             showDivs(slider, slider.data("slideIndex"));
         }
     }
 
     function currentDiv(slider, n) {
-        if(slider) {
+        if (slider) {
             slider.data("slideIndex", n);
             showDivs(slider, $.data(slider, "slideIndex"));
         }
@@ -151,15 +152,19 @@ import 'aos/dist/aos.css';
         let i;
         const x = document.getElementsByClassName("mySlides");
         const dots = document.getElementsByClassName("demo");
-        if (n > x.length) {slider.data("slideIndex", 1)}
-        if (n < 1) {slider.data("slideIndex",  x.length)}
+        if (n > x.length) {
+            slider.data("slideIndex", 1)
+        }
+        if (n < 1) {
+            slider.data("slideIndex", x.length)
+        }
         for (i = 0; i < x.length; i++) {
             x[i].style.display = "none";
         }
         for (i = 0; i < dots.length; i++) {
             dots[i].className = dots[i].className.replace(" w3-white", "");
         }
-        x[slider.data("slideIndex")-1].style.display = "block";
-        dots[slider.data("slideIndex")-1].className += " w3-white";
+        x[slider.data("slideIndex") - 1].style.display = "block";
+        dots[slider.data("slideIndex") - 1].className += " w3-white";
     }
 })(jQuery);
