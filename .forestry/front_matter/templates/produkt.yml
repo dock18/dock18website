@@ -89,6 +89,9 @@ fields:
     max: '100'
     step: '1'
     required: true
+- name: deactivated
+  type: boolean
+  label: Deaktiviert
 pages:
 - _products/BlackCoffee.md
 - _products/LatteMacchiato.md
