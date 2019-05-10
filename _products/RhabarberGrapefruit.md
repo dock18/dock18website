@@ -25,6 +25,7 @@ consum2: "/v1557127565/Bildschirmfoto%202019-05-06%20um%2009.25.22.png"
 consum3: "/v1557127690/Bildschirmfoto%202019-05-06%20um%2009.27.36.png"
 type: Tea
 position: 3
+deactivated: true
 
 ---
 **WAS IST COLD BREW NITRO?**
