@@ -25,6 +25,7 @@ consum2: "/v1556126224/IMG_8145_njfrmd.jpg"
 consum3: "/v1556126224/IMG_3137_sxgvot.jpg"
 type: Coffee
 position: 2
+deactivated: true
 
 ---
 **WAS IST COLD BREW NITRO?**
