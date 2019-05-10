@@ -4,7 +4,7 @@ text: DU BRAUCHST DEN HANSEATISCHEN KICK AM MORGEN IN DEINEM LADEN?
 link: "/sales"
 linktext: Mehr Erfahren
 imagealt: VERTRIEBSPARTNER
-image: "/v1557064377/Bildschirmfoto%202019-05-05%20um%2015.51.49.png"
+image: "/v1557472949/Bildschirmfoto%202019-05-10%20um%2009.12.46.png"
 title: ''
 position: 6
 form:
@@ -79,5 +79,3 @@ Sie haben eine/n Shop, Supermarkt, Tankstelle, Sportgeschäft, Fitnessstudio, Be
 Möchten Sie natürlich erfrischende Energie Ihren Kunden anbieten?
 
 Dann werden Sie Vertriebspartner der DOCK-18 Produkte, wir finden ein maßgeschneidertes Angebot für Ihren Shop.
-
-Anfrageformular wie unter Events
