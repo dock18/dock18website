@@ -8,7 +8,7 @@ imagealt: Story & Presse
 image: "/v1556126202/Bildschirmfoto_2019-04-02_um_12.54.16_jghkjh.png"
 position: 2
 Position: 2
-detailseite_image_headline: "<p><strong>HEIMATHAFEN HAMBURG</strong></p><p>DER GESCHICHTE
+detailseite_image_headline: "<h3><strong>HEIMATHAFEN HAMBURG</strong></h3><p>DER GESCHICHTE
   UNSERER WACHMACHER AUF DER SPUR</p>"
 
 ---
