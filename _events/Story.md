@@ -14,7 +14,7 @@ detailseite_image_headline: "<h3><strong>HEIMATHAFEN HAMBURG</strong></h3><p>DER
 ---
 ### **HAMBURG UND DER KAFFEE**
 
-> _Kaffee und Tee sind fest in der Hamburger Geschichte verankert wie der Michel._ 
+> _Kaffee und Tee sind fest in der Hamburger Geschichte verankert wie der Michel._
 >
 > Als die ersten Kaffeesäcke aus den weit entfernten Ländern im 17. Jahrhundert an den Hamburger Hafendocks eintrafen, entstanden die ersten Kaffeehäuser. Hier wurden die ersten Kaffee‘s in geselliger Runde für die gut betuchten Hanseaten aufgegossen. Über die Jahrhunderte war Kaffee und Tee als Nahrungs- und Genussmittel nicht mehr wegzudenken und die Hamburger fingen an mehr aus den natürlichen Produkten zu kreieren.
 
@@ -30,7 +30,7 @@ Und der Hamburger Hafen war auch der Ursprung für den Namen Dock 18. Denn im Ha
 
 Und vor zwei Jahren - an einem sonnigen Nachmittag - saßen die beiden Gründer gegenüber von Dock 17 und tüftelten wieder an Ihrer Idee, jedem einen Kaffee Kick anbieten zu können, unabhängig von Ort und Zeit, eben wie diesen Arbeitern im Dock 17 gegenüber. Und so kam es zum Namen Dock 18.
 
-![](https://res.cloudinary.com/dock18/image/upload/c_pad,w_960/v1556126201/Bildschirmfoto_2019-04-02_um_17.10.11_mg0dao.png){:class="image fit"}
+![Cold Brew Coffee Nitro Hamburg Black Coffee Kaffee](https://res.cloudinary.com/dock18/image/upload/c_pad,w_960/v1556126201/Bildschirmfoto_2019-04-02_um_17.10.11_mg0dao.png "Cold Brew Nitro"){:class="image fit"}
 
 ### **DIE GRÜNDER**
 
@@ -44,4 +44,4 @@ Mit diesen Rezepten in der Tasche gründeten die beiden die Marke „Dock 18“.
 
 Dock 18 steht für unabhängigen, unverwechselbaren Kaffee und Tee-Genuss, der Dir den Kick für den Tag gibt, Energie nach der Party oder Arbeit bringt, Dich im Nachmittagstief aufbaut oder Dir Deinen Kaffee und Tee Moment schenkt, wo auch immer Du gerade bist und das völlig natürlich hergestellt.
 
-![](https://res.cloudinary.com/dock18/image/upload/c_pad,w_960/v1557599374/Bildschirmfoto%202019-05-11%20um%2020.28.54.png){:class="image fit"}
+![Lepping Sebastian Hendrik Hamburg Cold Brew Kaffee Coffee Nitro](https://res.cloudinary.com/dock18/image/upload/c_pad,w_960/v1557599374/Bildschirmfoto%202019-05-11%20um%2020.28.54.png){:class="image fit"}
