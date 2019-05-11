@@ -12,12 +12,13 @@ detailseite_image_headline: "<h1><strong>DER TREND AUS DEN USA – WAS IST COLD 
   MACHTE</strong></p><p></p>"
 
 ---
-**KALTER KAFFEE, KALTER TEE? VON WEGEN!  
-**  
-_Ich lasse meinen heißen Kaffee stehen und habe kalten Kaffee ... glauben viele!_  
-Doch was hat es wirklich mit COLD BREW auf sich?  
-Es ist ein „Trend“ mit einer sehr langen Geschichte – zurückzuführen bis in’s 17. Jahrhundert aus Japan, aber wir sind hier nicht im Geschichtsunterricht.  
+### **_KALTER KAFFEE, KALTER TEE? VON WEGEN!_**_  
+Ich lasse meinen heißen Kaffee stehen und habe kalten Kaffee ... glauben viele!_
+
   
+Doch was hat es wirklich mit COLD BREW auf sich?  
+Es ist ein „Trend“ mit einer sehr langen Geschichte – zurückzuführen bis in’s 17. Jahrhundert aus Japan, aber wir sind hier nicht im Geschichtsunterricht.
+
 **COLD BREW** – wie im Namen schon erwärmt, sprechen wir hier von „kalt gebrüht – bzw. „kalt extrahiert“. Hier geht es um Zeit, sehr viel Zeit. In unserer hauseigenen Brauerei geben wir unserem gemahlenen Kaffeebohnen (20 Stunden) und Teeblättern (6 Stunden) genau die richtige Zeit um in besonders aufbereitetem Wasser:  
 • Ihre volle Aromenvielfalt zu entwickeln  
 • Die natürliche Süße erhalten bleibt  
@@ -25,7 +26,7 @@ Es ist ein „Trend“ mit einer sehr langen Geschichte – zurückzuführen bis
 
 **_–> Und das völlig ohne Zucker und weiteren Zusatzstoffen._**
 
-![](https://res.cloudinary.com/dock18/image/upload/c_pad,w_1000,q_auto/v1557422470/AdobeStock_246753642_web.png){:class="image fit"}
+![](https://res.cloudinary.com/dock18/image/upload/c_pad,w_1000,q_auto/v1557422470/AdobeStock_246753642_web.png)
 
 ***
 
@@ -35,3 +36,5 @@ So nahm er eine klassische Zapfanlage, füllte Cold Brew im Fass ab und schloss 
 
 **COLD BREW NITRO**  
 Diesen Effekt machen wir uns zu nutzen und entwickeln einzigartige Coffee und Tea Spezialitäten, kalt gebrüht mit dem Nitro-Effekt in der Dose, für ein neues, natürliches, vollmundiges Geschmackserlebnis für Unterwegs.
+
+{:class="image fit"}
