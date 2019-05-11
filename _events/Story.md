@@ -26,7 +26,7 @@ detailseite_image_headline: "<p><strong>HEIMATHAFEN HAMBURG</strong><br>DER GESC
 >
 > Und der Hamburger Hafen war auch der Ursprung für den Namen Dock 18. Denn im Hamburger Hafen gibt es unzählige Docks in denen die Schiffe gebaut, überholt oder repariert werden, Arbeiter stundenlange Schichten schieben, um die Pötte auf Hochglanz zu bringen und zurück in die Elbe zu schicken.
 >
-> Und vor zwei Jahren - an einem sonnigen Nachmittag - saßen die drei Gründer gegenüber von Dock 17 und tüftelten wieder an Ihrer Idee, jedem einen Kaffee Kick anbieten zu können, unabhängig von Ort und Zeit, eben wie diesen Arbeitern im Dock 17 gegenüber. Und so kam es zum Namen Dock 18.
+> Und vor zwei Jahren - an einem sonnigen Nachmittag - saßen die beiden Gründer gegenüber von Dock 17 und tüftelten wieder an Ihrer Idee, jedem einen Kaffee Kick anbieten zu können, unabhängig von Ort und Zeit, eben wie diesen Arbeitern im Dock 17 gegenüber. Und so kam es zum Namen Dock 18.
 
 ![](https://res.cloudinary.com/dock18/image/upload/c_pad,w_960/v1556126201/Bildschirmfoto_2019-04-02_um_17.10.11_mg0dao.png){:class="image fit"}
 
@@ -36,11 +36,12 @@ detailseite_image_headline: "<p><strong>HEIMATHAFEN HAMBURG</strong><br>DER GESC
 >
 > Es wurde viel gebrüht, gekostet, verworfen, immer wieder neu gebrüht, der Kick gesucht und am Ende gefunden.
 >
-> Es entstanden schließlich unterschiedliche Rezepte für leckere Kaffee Varianten in einer ganz modernen Form.
+> Es entstanden schließlich unterschiedliche Rezepte für leckere Kaffee und auch Tee Varianten in einer ganz modernen Form.
 >
-> Mit diesen Rezepten in der Tasche gründeten die Drei die Marke „Dock 18“.
+> Mit diesen Rezepten in der Tasche gründeten die beiden die Marke „Dock 18“.
 >
-> Dock 18 steht für unabhängigen, unverwechselbaren Kaffee-Genuss, der Dir den Kick für den Tag gibt, Energie nach der Party oder Arbeit bringt, Dich im Nachmittagstief aufbaut oder Dir Deinen Kaffee Moment schenkt, wo auch immer Du gerade bist.
+>   
+> Dock 18 steht für unabhängigen, unverwechselbaren Kaffee und Tee-Genuss, der Dir den Kick für den Tag gibt, Energie nach der Party oder Arbeit bringt, Dich im Nachmittagstief aufbaut oder Dir Deinen Kaffee und Tee Moment schenkt, wo auch immer Du gerade bist und das völlig natürlich hergestellt.
 
 ![](https://res.cloudinary.com/dock18/image/upload/c_pad,w_960/v1556126215/Bildschirmfoto_2019-03-19_um_11.48.18_zsjztu.png){:class="image fit"}
 
