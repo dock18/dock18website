@@ -51,7 +51,7 @@ fields:
     source:
       type: pages
       section: instagram
-- name: titel
+- name: title
   type: text
   config:
     required: false
