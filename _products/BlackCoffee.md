@@ -14,9 +14,10 @@ fontColor: "#fff"
 sweetLevel: 2
 strongLevel: 4
 claim: Der Klassiker
-text: Unser Black Coffee überzeugt durch seine solide Basis. Klassisch Schwarz ohne
-  Zusatz von Zucker oder Zusatzstoffe. Der Cold Brew durchsticht mit seiner natürlich
-  süßen Aromenvielfalt.
+text: Klassisch Schwarz ohne Zusatz von Zucker oder Zusatzstoffe.  Der Cold Brew Nitro
+  begeistert mit seiner erfrischend natürlichen und süßen Aromenvielfalt. Versetzt
+  mit einem Hauch von Stickstoff entfaltet dieser nach dem öffnen eine einzigartige
+  Textur mit einer angenehmen Cremigkeit.
 productimage1: "/v1556126186/Produktgruppe_NITRO_Coffee_Website_nki0rx.png"
 productimage2: "/v1556126189/Produktgruppe_NITRO_Coffee_Back_Website_kgyeof.png"
 productimage3: "/v1556126197/Produktgruppe_NITRO_Coffee_Back_2_Website_p5snm5.png"
