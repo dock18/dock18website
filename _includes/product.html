@@ -6,33 +6,7 @@
             <div class="col-9">
                 <h2 style="color: {{ page.fontColor }}">{{ page.claim }}</h2>
                 <p>{{ page.text }}</p>
-                <h2 style="color: {{ page.fontColor }}">Geschmacks-Barometer</h2>
-                <div><span style="display: inline-block;width: 60px">Süße</span>
-                    {% for i in (1..5) %}
-                    {% if i <= page.sweetLevel %}
-                    <img class="barometer tns-lazy-img"
-                         src="{{ site.cloudinary_url | append: '/c_pad,h_40,q_auto' | append: '/v1556126191/BAROMETER_VOLL_egnjab.png' }}"
-                         alt="{{ banner.alt }}">
-                    {% else %}
-                    <img class="barometer tns-lazy-img"
-                         src="{{ site.cloudinary_url | append: '/c_pad,h_40,q_auto' | append: '/v1556126192/BAROMETER_LEER_nbflf7.png' }}"
-                         alt="{{ banner.alt }}">
-                    {% endif %}
-                    {% endfor %}
-                </div>
-                <div><span style="display: inline-block;width: 60px">Stärke</span>
-                    {% for i in (1..5) %}
-                    {% if i <= page.strongLevel %}
-                    <img class="barometer tns-lazy-img"
-                         src="{{ site.cloudinary_url | append: '/c_pad,h_40,q_auto' | append: '/v1556126191/BAROMETER_VOLL_egnjab.png' }}"
-                         alt="{{ banner.alt }}">
-                    {% else %}
-                    <img class="barometer tns-lazy-img"
-                         src="{{ site.cloudinary_url | append: '/c_pad,h_40,q_auto' | append: '/v1556126192/BAROMETER_LEER_nbflf7.png' }}"
-                         alt="{{ banner.alt }}">
-                    {% endif %}
-                    {% endfor %}
-                </div>
+
                 <div>
                     <br/>
                     <img class="tns-lazy-img"
