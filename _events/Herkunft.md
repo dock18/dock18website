@@ -12,10 +12,10 @@ detailseite_image_headline: "<h1><strong>DER TREND AUS DEN USA – WAS IST COLD 
   MACHTE</strong></p><p></p>"
 
 ---
-### **_KALTER KAFFEE, KALTER TEE? VON WEGEN!_**_  
+### **_KALTER KAFFEE, KALTER TEE? VON WEGEN!_**_
+
 Ich lasse meinen heißen Kaffee stehen und habe kalten Kaffee ... glauben viele!_
 
-  
 Doch was hat es wirklich mit COLD BREW auf sich?  
 Es ist ein „Trend“ mit einer sehr langen Geschichte – zurückzuführen bis in’s 17. Jahrhundert aus Japan, aber wir sind hier nicht im Geschichtsunterricht.
 
@@ -26,7 +26,7 @@ Es ist ein „Trend“ mit einer sehr langen Geschichte – zurückzuführen bis
 
 **_–> Und das völlig ohne Zucker und weiteren Zusatzstoffen._**
 
-![](https://res.cloudinary.com/dock18/image/upload/c_pad,w_1000,q_auto/v1557422470/AdobeStock_246753642_web.png)
+![ColdBrew Cold Brew Process Hamburg Nitro Coffee Nitro Kaffee Tea Dock18 Kaffeebohnen ](https://res.cloudinary.com/dock18/image/upload/c_pad,w_1000,q_auto/v1557422470/AdobeStock_246753642_web.png "Cold Brew Process")
 
 ***
 
