@@ -8,7 +8,7 @@ imagealt: Story & Presse
 image: "/v1556126202/Bildschirmfoto_2019-04-02_um_12.54.16_jghkjh.png"
 position: 2
 Position: 2
-detailseite_image_headline: "<p><strong>HEIMATHAFEN HAMBURG</strong><br>DER GESCHICHTE
+detailseite_image_headline: "<p><strong>HEIMATHAFEN HAMBURG</strong></p><p>DER GESCHICHTE
   UNSERER WACHMACHER AUF DER SPUR</p>"
 
 ---
@@ -42,4 +42,6 @@ Mit diesen Rezepten in der Tasche gründeten die beiden die Marke „Dock 18“.
 
 Dock 18 steht für unabhängigen, unverwechselbaren Kaffee und Tee-Genuss, der Dir den Kick für den Tag gibt, Energie nach der Party oder Arbeit bringt, Dich im Nachmittagstief aufbaut oder Dir Deinen Kaffee und Tee Moment schenkt, wo auch immer Du gerade bist und das völlig natürlich hergestellt.
 
-![](/v1557599374/Bildschirmfoto%202019-05-11%20um%2020.28.54.png){:class="image fit"}
+![](/v1557599374/Bildschirmfoto%202019-05-11%20um%2020.28.54.png)
+
+{:class="image fit"}
