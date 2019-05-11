@@ -26,6 +26,8 @@ Es ist ein „Trend“ mit einer sehr langen Geschichte – zurückzuführen bis
 
 **_–> Und das völlig ohne Zucker und weiteren Zusatzstoffen._**
 
+Erfahre mehr über [Cold Brew Coffee](https://en.wikipedia.org/wiki/List_of_coffee_drinks#Cold_brew "Wikipedia: Cold Brew Coffee") & [Cold Brew Tea](https://en.wikipedia.org/wiki/Cold_brew_tea "Wikipedia: Cold Brew Tea")
+
 ![ColdBrew Cold Brew Process Hamburg Nitro Coffee Nitro Kaffee Tea Dock18 Kaffeebohnen ](https://res.cloudinary.com/dock18/image/upload/c_pad,w_1000,q_auto/v1557422470/AdobeStock_246753642_web.png "Cold Brew Process"){:class="image fit"}
 
 ***
