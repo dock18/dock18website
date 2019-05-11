@@ -48,7 +48,7 @@ hero_button:
   text: ''
   href: ''
 titel: NORDISCH.  NATÜRLICH.  COLD BREW.
-description: ''
+description: NORDISCH.  NATÜRLICH.  COLD BREW.
 menu:
   navigation:
     identifier: _index
