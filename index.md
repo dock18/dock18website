@@ -24,12 +24,11 @@ claim: "/v1556171583/COFFEE_BUTTON-01.png"
 claim2: "/v1556171583/TEA_BUTTON-01.png"
 products:
 - _products/BlackCoffee.md
-- _products/cold-brew-black.md
 - _products/LatteMacchiato.md
 elements:
-- _events/herkunft.md
+- _events/Herkunft.md
 - _events/Story.md
-- _events/night.md
+- _events/Dock-18 at Night.md
 - _events/events.md
 - _events/office.md
 - _events/sales.md
