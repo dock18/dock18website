@@ -7,14 +7,14 @@ imagealt: Herkunft
 image: "/v1557054591/Bildschirmfoto%202019-05-05%20um%2013.09.29.png"
 position: 1
 Position: 1
-detailseite_image_headline: "<h1><strong>DER TREND AUS DEN USA – WAS IST COLD BREW
-  NITRO?</strong></h1><p><strong>WIE EIN BARISTA IN DEN USA AUS DER NOT EINE TUGEND
+detailseite_image_headline: "<h3><strong>DER TREND AUS DEN USA – WAS IST COLD BREW
+  NITRO?</strong></h3><p><strong>WIE EIN BARISTA IN DEN USA AUS DER NOT EINE TUGEND
   MACHTE</strong></p><p></p>"
 
 ---
-### **_KALTER KAFFEE, KALTER TEE? VON WEGEN!_**_
+### **_KALTER KAFFEE, KALTER TEE? VON WEGEN!_**
 
-Ich lasse meinen heißen Kaffee stehen und habe kalten Kaffee ... glauben viele!_
+Ich lasse meinen heißen Kaffee stehen und habe kalten Kaffee ... glauben viele!
 
 Doch was hat es wirklich mit COLD BREW auf sich?  
 Es ist ein „Trend“ mit einer sehr langen Geschichte – zurückzuführen bis in’s 17. Jahrhundert aus Japan, aber wir sind hier nicht im Geschichtsunterricht.

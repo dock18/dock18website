@@ -8,17 +8,19 @@ imagealt: Story & Presse
 image: "/v1556126202/Bildschirmfoto_2019-04-02_um_12.54.16_jghkjh.png"
 position: 2
 Position: 2
-detailseite_image_headline: "<p><strong>HEIMATHAFEN HAMBURG</strong></p><p>DER GESCHICHTE
+detailseite_image_headline: "<h3><strong>HEIMATHAFEN HAMBURG</strong></h3><p>DER GESCHICHTE
   UNSERER WACHMACHER AUF DER SPUR</p>"
 
 ---
 ### **HAMBURG UND DER KAFFEE**
 
-> Kaffee und Tee sind fest in der Hamburger Geschichte verankert wie der Michel. Als die ersten Kaffeesäcke aus den weit entfernten Ländern im 17. Jahrhundert an den Hamburger Hafendocks eintrafen, entstanden die ersten Kaffeehäuser. Hier wurden die ersten Kaffee‘s in geselliger Runde für die gut betuchten Hanseaten aufgegossen. Über die Jahrhunderte war Kaffee und Tee als Nahrungs- und Genussmittel nicht mehr wegzudenken und die Hamburger fingen an mehr aus den natürlichen Produkten zu kreieren.
+> _Kaffee und Tee sind fest in der Hamburger Geschichte verankert wie der Michel._ 
+>
+> Als die ersten Kaffeesäcke aus den weit entfernten Ländern im 17. Jahrhundert an den Hamburger Hafendocks eintrafen, entstanden die ersten Kaffeehäuser. Hier wurden die ersten Kaffee‘s in geselliger Runde für die gut betuchten Hanseaten aufgegossen. Über die Jahrhunderte war Kaffee und Tee als Nahrungs- und Genussmittel nicht mehr wegzudenken und die Hamburger fingen an mehr aus den natürlichen Produkten zu kreieren.
 
 ### **WARUM DOCK-18 ?**
 
-Dock-18 hat seinen Ursprung in Hamburg.
+_Dock-18 hat seinen Ursprung in Hamburg._
 
 Nicht nur, weil die beiden Gründer hier ihren Heimathafen haben, sondern weil Hamburg auch wie keine andere Stadt für den Handel und das Wissen rund um Kaffee steht.
 
