@@ -26,7 +26,7 @@ Es ist ein „Trend“ mit einer sehr langen Geschichte – zurückzuführen bis
 
 **_–> Und das völlig ohne Zucker und weiteren Zusatzstoffen._**
 
-![ColdBrew Cold Brew Process Hamburg Nitro Coffee Nitro Kaffee Tea Dock18 Kaffeebohnen ](https://res.cloudinary.com/dock18/image/upload/c_pad,w_1000,q_auto/v1557422470/AdobeStock_246753642_web.png "Cold Brew Process")
+![ColdBrew Cold Brew Process Hamburg Nitro Coffee Nitro Kaffee Tea Dock18 Kaffeebohnen ](https://res.cloudinary.com/dock18/image/upload/c_pad,w_1000,q_auto/v1557422470/AdobeStock_246753642_web.png "Cold Brew Process"){:class="image fit"}
 
 ***
 
@@ -36,5 +36,3 @@ So nahm er eine klassische Zapfanlage, füllte Cold Brew im Fass ab und schloss 
 
 **COLD BREW NITRO**  
 Diesen Effekt machen wir uns zu nutzen und entwickeln einzigartige Coffee und Tea Spezialitäten, kalt gebrüht mit dem Nitro-Effekt in der Dose, für ein neues, natürliches, vollmundiges Geschmackserlebnis für Unterwegs.
-
-{:class="image fit"}
