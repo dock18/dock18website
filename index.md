@@ -47,6 +47,7 @@ banner_image: ''
 hero_button:
   text: ''
   href: ''
+titel: NORDISCH.  NATÜRLICH.  COLD BREW.
 menu:
   navigation:
     identifier: _index
