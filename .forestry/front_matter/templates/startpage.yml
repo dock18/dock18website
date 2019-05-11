@@ -51,5 +51,10 @@ fields:
     source:
       type: pages
       section: instagram
+- name: titel
+  type: text
+  config:
+    required: false
+  label: Titel
 pages:
 - index.md
