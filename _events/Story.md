@@ -43,6 +43,8 @@ detailseite_image_headline: "<p><strong>HEIMATHAFEN HAMBURG</strong><br>DER GESC
 >   
 > Dock 18 steht für unabhängigen, unverwechselbaren Kaffee und Tee-Genuss, der Dir den Kick für den Tag gibt, Energie nach der Party oder Arbeit bringt, Dich im Nachmittagstief aufbaut oder Dir Deinen Kaffee und Tee Moment schenkt, wo auch immer Du gerade bist und das völlig natürlich hergestellt.
 
-![](https://res.cloudinary.com/dock18/image/upload/c_pad,w_960/v1556126215/Bildschirmfoto_2019-03-19_um_11.48.18_zsjztu.png){:class="image fit"}
+![](/v1557599374/Bildschirmfoto%202019-05-11%20um%2020.28.54.png)
+
+{:class="image fit"}
 
 ### **DOCK-18 IN DER PRESSE**
