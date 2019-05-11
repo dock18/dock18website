@@ -2,6 +2,16 @@
 label: Startpage
 hide_body: true
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titel
+- name: description
+  type: text
+  config:
+    required: false
+  label: Beschreibung
 - type: text
   name: intro_text
   label: Intro Text
@@ -51,15 +61,5 @@ fields:
     source:
       type: pages
       section: instagram
-- name: title
-  type: text
-  config:
-    required: false
-  label: Titel
-- name: description
-  type: text
-  config:
-    required: false
-  label: Beschreibung
 pages:
 - index.md
