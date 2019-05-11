@@ -61,4 +61,4 @@ Möchten Sie natürlich erfrischende Energie Ihren Kunden anbieten?
 
 Dann werden Sie Vertriebspartner der DOCK-18 Produkte, wir finden ein maßgeschneidertes Angebot für Ihren Shop.
 
-![](/v1557472949/Bildschirmfoto%202019-05-10%20um%2009.12.46.png)
+![Cold Brew Coffee Nitro Kaffee Latte Macchiato Hamburg Dock18 Cafe ](/v1557472949/Bildschirmfoto%202019-05-10%20um%2009.12.46.png){:class="image fit"}
