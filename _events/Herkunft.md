@@ -25,7 +25,7 @@ Es ist ein „Trend“ mit einer sehr langen Geschichte – zurückzuführen bis
 • Keine Säuren und Bitterstoffe zu entwickeln
 
 **_–> Und das völlig ohne Zucker und weiteren Zusatzstoffen.  
-_**[**_![](/v1556171583/COFFEE_BUTTON-01.png)_**](https://dock-18.de/products/BlackCoffee/){:class="image fit"}
+**[**_![](/v1556171583/COFFEE_BUTTON-01.png)_**](https://dock-18.de/products/BlackCoffee/){:class="image fit"}
 
 ![](/v1556171583/TEA_BUTTON-01.png){:class="image fit"}
 
