@@ -9,7 +9,7 @@ productcolor: "#447291"
 produktlinktext: ''
 name: ''
 label: ''
-backgroundGradient: 'background-color: rgb(109,114,120)'
+backgroundGradient: 'background-color: #447291'
 fontColor: "#fff"
 sweetLevel: 2
 strongLevel: 4
@@ -27,13 +27,13 @@ consum3: "/v1556126226/IMG_3389_wdo6j7.jpg"
 type: Coffee
 position: 1
 deactivated: false
-
+content_image: "/v1557576067/Black_Inhalt.png"
 ---
 **WAS IST COLD BREW NITRO?**
 
 Die besonders intensive Herstellung des Cold Brew macht ihn zu etwas ganz Besonderem. Die Bohnen werden 20 Stunden in kaltem Wasser ohne jegliche Hitzeeinwirkung „gebrüht“ bzw. kalt extrahiert. Dadurch enthält er im Vergleich zu seinem klassisch heiß gebrühten Kollegen wenig Säuren und Bitterstoffe.
 
-[MEHR ERFAHREN](https://dock-18.de/events/herkunft/){:class="button primary"}
+[MEHR ERFAHREN](https://dock-18.de/events/Herkunft/){:class="button primary"}
 
 ***
 

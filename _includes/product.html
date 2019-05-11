@@ -1,7 +1,8 @@
 <div id="page-wrapper" class="single_product_section wrapper">
     <div class="inner">
         <h1 class="single_product_headline">{{ page.producttext }}</h1>
-        <div class="row gtr-25 gtr-uniform" style="color: {{ page.fontColor }};padding: 1em 2em; {{ page.backgroundGradient }}">
+        <div class="row gtr-25 gtr-uniform"
+             style="color: {{ page.fontColor }};padding: 1em 2em; {{ page.backgroundGradient }}">
             <div class="col-9">
                 <h2 style="color: {{ page.fontColor }}">{{ page.claim }}</h2>
                 <p>{{ page.text }}</p>
@@ -9,10 +10,12 @@
                 <div><span style="display: inline-block;width: 60px">Süße</span>
                     {% for i in (1..5) %}
                     {% if i <= page.sweetLevel %}
-                    <img class="barometer tns-lazy-img" src="{{ site.cloudinary_url | append: '/c_pad,h_40,q_auto' | append: '/v1556126191/BAROMETER_VOLL_egnjab.png' }}"
+                    <img class="barometer tns-lazy-img"
+                         src="{{ site.cloudinary_url | append: '/c_pad,h_40,q_auto' | append: '/v1556126191/BAROMETER_VOLL_egnjab.png' }}"
                          alt="{{ banner.alt }}">
                     {% else %}
-                    <img class="barometer tns-lazy-img" src="{{ site.cloudinary_url | append: '/c_pad,h_40,q_auto' | append: '/v1556126192/BAROMETER_LEER_nbflf7.png' }}"
+                    <img class="barometer tns-lazy-img"
+                         src="{{ site.cloudinary_url | append: '/c_pad,h_40,q_auto' | append: '/v1556126192/BAROMETER_LEER_nbflf7.png' }}"
                          alt="{{ banner.alt }}">
                     {% endif %}
                     {% endfor %}
@@ -20,44 +23,51 @@
                 <div><span style="display: inline-block;width: 60px">Stärke</span>
                     {% for i in (1..5) %}
                     {% if i <= page.strongLevel %}
-                    <img class="barometer tns-lazy-img" src="{{ site.cloudinary_url | append: '/c_pad,h_40,q_auto' | append: '/v1556126191/BAROMETER_VOLL_egnjab.png' }}"
+                    <img class="barometer tns-lazy-img"
+                         src="{{ site.cloudinary_url | append: '/c_pad,h_40,q_auto' | append: '/v1556126191/BAROMETER_VOLL_egnjab.png' }}"
                          alt="{{ banner.alt }}">
                     {% else %}
-                    <img class="barometer tns-lazy-img" src="{{ site.cloudinary_url | append: '/c_pad,h_40,q_auto' | append: '/v1556126192/BAROMETER_LEER_nbflf7.png' }}"
+                    <img class="barometer tns-lazy-img"
+                         src="{{ site.cloudinary_url | append: '/c_pad,h_40,q_auto' | append: '/v1556126192/BAROMETER_LEER_nbflf7.png' }}"
                          alt="{{ banner.alt }}">
                     {% endif %}
                     {% endfor %}
                 </div>
                 <div>
-                    <img class="badge tns-lazy-img" src="{{ site.cloudinary_url | append: '/c_pad,h_52,q_auto' | append: '/v1556126194/20Stunden_cfsgl9.png' }}"
-                         alt="{{ banner.alt }}">
-                    <img class="badge tns-lazy-img" src="{{ site.cloudinary_url | append: '/c_pad,h_52,q_auto' | append: '/v1556126202/NOSUGAR_inuzmw.png' }}"
-                         alt="{{ banner.alt }}">
-                    <img class="badge tns-lazy-img" src="{{ site.cloudinary_url | append: '/c_pad,h_52,q_auto' | append: '/v1556126204/MANUFAKTUR_wdr5cr.png' }}"
-                         alt="{{ banner.alt }}">
+                    <br/>
+                    <img class="tns-lazy-img"
+                         src="{{ site.cloudinary_url | append: '/c_pad,h_80,q_auto' | append: page.content_image }}"
+                         alt="Inhaltsstoffe">
                 </div>
             </div>
             <div class="col-3">
                 <div class="row gtr-50 gtr-uniform">
                     <div class="col-12">
-                    <span class="image fit-on-small">
-                        <img class="product-image tns-lazy-img" src="{{  site.cloudinary_url | append: '/c_pad,h_400,q_auto' | append: page.productimage }}"
+                        <span class="image fit-on-small">
+                        <img class="product-image tns-lazy-img"
+                             src="{{  site.cloudinary_url | append: '/c_pad,h_400,q_auto' | append: page.productimage }}"
                              alt="{{ banner.alt }}">
                     </span>
                     </div>
                     <div class="col-4">
-                        <a data-lightbox="{{ page.producttext }}" href="{{ site.cloudinary_url | append: '/c_pad,h_150,q_auto' | append: page.productimage1 }}">
-                        <span class="image fit" ><img src="{{ site.cloudinary_url | append: '/c_pad,h_150,q_auto' | append: page.productimage1 }}"
-                                                                    alt=""></span>
+                        <a data-lightbox="{{ page.producttext }}"
+                           href="{{ site.cloudinary_url | append: '/c_pad,h_150,q_auto' | append: page.productimage1 }}">
+                        <span class="image fit"><img
+                                src="{{ site.cloudinary_url | append: '/c_pad,h_150,q_auto' | append: page.productimage1 }}"
+                                alt=""></span>
                         </a></div>
                     <div class="col-4">
-                        <a data-lightbox="{{ page.producttext }}" href="{{ site.cloudinary_url | append: '/c_pad,h_150,q_auto' | append: page.productimage2 }}">
-                        <span class="image fit"><img src="{{ site.cloudinary_url | append: '/c_pad,h_150,q_auto' | append: page.productimage2 }}"
-                                                                                            alt=""></span></a></div>
+                        <a data-lightbox="{{ page.producttext }}"
+                           href="{{ site.cloudinary_url | append: '/c_pad,h_150,q_auto' | append: page.productimage2 }}">
+                        <span class="image fit"><img
+                                src="{{ site.cloudinary_url | append: '/c_pad,h_150,q_auto' | append: page.productimage2 }}"
+                                alt=""></span></a></div>
                     <div class="col-4">
-                        <a data-lightbox="{{ page.producttext }}" href="{{ site.cloudinary_url | append: '/c_pad,h_150,q_auto' | append: page.productimage3 }}">
-                        <span class="image fit"><img src="{{ site.cloudinary_url | append: '/c_pad,h_150,q_auto' | append: page.productimage3 }}"
-                                                                                            alt=""></span></a></div>
+                        <a data-lightbox="{{ page.producttext }}"
+                           href="{{ site.cloudinary_url | append: '/c_pad,h_150,q_auto' | append: page.productimage3 }}">
+                        <span class="image fit"><img
+                                src="{{ site.cloudinary_url | append: '/c_pad,h_150,q_auto' | append: page.productimage3 }}"
+                                alt=""></span></a></div>
                 </div>
             </div>
         </div>
@@ -67,14 +77,17 @@
             <div class="row gtr-50 gtr-uniform">
                 <div class="col-6">
                     <span class="image fit">
-                        <img class="product-image tns-lazy-img" src="{{ site.cloudinary_url | append: '/c_pad,h_400,q_auto' | append: page.consum1 }}"
+                        <img class="product-image tns-lazy-img"
+                             src="{{ site.cloudinary_url | append: '/c_pad,h_400,q_auto' | append: page.consum1 }}"
                              alt="{{ banner.alt }}">
                     </span>
                 </div>
-                <div class="col-6"><span class="image fit"><img src="{{ site.cloudinary_url | append: '/c_pad,h_400,q_auto' | append: page.consum2 }}"
-                                                                alt=""></span></div>
-                <div class="col-6"><span class="image fit"><img src="{{ site.cloudinary_url | append: '/c_pad,h_400,q_auto' | append: page.consum3 }}"
-                                                                alt=""></span></div>
+                <div class="col-6"><span class="image fit"><img
+                        src="{{ site.cloudinary_url | append: '/c_pad,h_400,q_auto' | append: page.consum2 }}"
+                        alt=""></span></div>
+                <div class="col-6"><span class="image fit"><img
+                        src="{{ site.cloudinary_url | append: '/c_pad,h_400,q_auto' | append: page.consum3 }}"
+                        alt=""></span></div>
             </div>
         </div>
         <br/>
