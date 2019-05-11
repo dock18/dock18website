@@ -56,5 +56,10 @@ fields:
   config:
     required: false
   label: Titel
+- name: description
+  type: text
+  config:
+    required: false
+  label: Beschreibung
 pages:
 - index.md
