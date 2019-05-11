@@ -1,5 +1,5 @@
 ---
-title: Dock 18
+title: NORDISCH.  NATÜRLICH.  COLD BREW.
 layout: home-page
 lang: de-DE
 google_site_verification: 49ATv1MoFQJ-6fKTIyVyHcXhIx2ottnWEwlLnKGAQfU
@@ -48,6 +48,7 @@ hero_button:
   text: ''
   href: ''
 titel: NORDISCH.  NATÜRLICH.  COLD BREW.
+description: NORDISCH.  NATÜRLICH.  COLD BREW.
 menu:
   navigation:
     identifier: _index
