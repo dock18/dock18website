@@ -12,11 +12,11 @@ detailseite_image_headline: "<p><strong>HEIMATHAFEN HAMBURG</strong><br>DER GESC
   UNSERER WACHMACHER AUF DER SPUR</p>"
 
 ---
-**HAMBURG UND DER KAFFEE**
+### **HAMBURG UND DER KAFFEE**
 
 > Kaffee und Tee sind fest in der Hamburger Geschichte verankert wie der Michel. Als die ersten Kaffeesäcke aus den weit entfernten Ländern im 17. Jahrhundert an den Hamburger Hafendocks eintrafen, entstanden die ersten Kaffeehäuser. Hier wurden die ersten Kaffee‘s in geselliger Runde für die gut betuchten Hanseaten aufgegossen. Über die Jahrhunderte war Kaffee und Tee als Nahrungs- und Genussmittel nicht mehr wegzudenken und die Hamburger fingen an mehr aus den natürlichen Produkten zu kreieren.
 
-**WARUM DOCK-18 ?**
+### **WARUM DOCK-18 ?**
 
 > Dock-18 hat seinen Ursprung in Hamburg.
 >
@@ -30,7 +30,7 @@ detailseite_image_headline: "<p><strong>HEIMATHAFEN HAMBURG</strong><br>DER GESC
 
 ![](https://res.cloudinary.com/dock18/image/upload/c_pad,w_960/v1556126201/Bildschirmfoto_2019-04-02_um_17.10.11_mg0dao.png){:class="image fit"}
 
-**DIE GRÜNDER**
+### **DIE GRÜNDER**
 
 > Ein einmaliger Kaffee Genuss unabhängig von Ort und Zeit, das muss doch gehen, sagten sich die beiden Gründer – Basti und Hendrik – vor zwei Jahren und fingen an, ihre Idee vom unverwechselbaren Kaffee Genuss in die Tat umzusetzen.
 >
@@ -44,4 +44,4 @@ detailseite_image_headline: "<p><strong>HEIMATHAFEN HAMBURG</strong><br>DER GESC
 
 ![](https://res.cloudinary.com/dock18/image/upload/c_pad,w_960/v1556126215/Bildschirmfoto_2019-03-19_um_11.48.18_zsjztu.png){:class="image fit"}
 
-**DOCK-18 IN DER PRESSE**
+### **DOCK-18 IN DER PRESSE**
