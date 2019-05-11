@@ -17,7 +17,7 @@ events:
 - _events/test2.md
 instagram:
 - _instagram/Post1.md
-intro_text: NORDISCH.  NATÜRLICH.  COLD BREW. BASED IN HAMBURG.
+intro_text: NORDISCH.  NATÜRLICH.  COLD BREW.
 more_button: MEHR ERFAHREN
 logo: "/v1556126308/2019/04/23/Dock18Drinks_Logo_Black_mpbiay.png"
 claim: "/v1556171583/COFFEE_BUTTON-01.png"
