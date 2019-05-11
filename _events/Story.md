@@ -20,7 +20,7 @@ detailseite_image_headline: "<p><strong>HEIMATHAFEN HAMBURG</strong><br>DER GESC
 
 > Dock-18 hat seinen Ursprung in Hamburg.
 >
-> Nicht nur, weil die drei Gründer hier ihren Heimathafen haben, sondern weil Hamburg auch wie keine andere Stadt für den Handel und das Wissen rund um Kaffee steht.
+> Nicht nur, weil die beiden Gründer hier ihren Heimathafen haben, sondern weil Hamburg auch wie keine andere Stadt für den Handel und das Wissen rund um Kaffee steht.
 >
 > Hier ist die perfekte Basis, um neue Rezepte zu entwickeln, Kaffee-Experten zu Rate zu ziehen oder zu Verkostungen einzuladen oder im Hafen die besten Bohnen, die aus der ganzen Welt angeliefert werden, für neue Kreationen zu finden.
 >
