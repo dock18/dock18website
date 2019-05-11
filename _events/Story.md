@@ -18,30 +18,29 @@ detailseite_image_headline: "<p><strong>HEIMATHAFEN HAMBURG</strong><br>DER GESC
 
 ### **WARUM DOCK-18 ?**
 
-> Dock-18 hat seinen Ursprung in Hamburg.
->
-> Nicht nur, weil die beiden Gründer hier ihren Heimathafen haben, sondern weil Hamburg auch wie keine andere Stadt für den Handel und das Wissen rund um Kaffee steht.
->
-> Hier ist die perfekte Basis, um neue Rezepte zu entwickeln, Kaffee-Experten zu Rate zu ziehen oder zu Verkostungen einzuladen oder im Hafen die besten Bohnen, die aus der ganzen Welt angeliefert werden, für neue Kreationen zu finden.
->
-> Und der Hamburger Hafen war auch der Ursprung für den Namen Dock 18. Denn im Hamburger Hafen gibt es unzählige Docks in denen die Schiffe gebaut, überholt oder repariert werden, Arbeiter stundenlange Schichten schieben, um die Pötte auf Hochglanz zu bringen und zurück in die Elbe zu schicken.
->
-> Und vor zwei Jahren - an einem sonnigen Nachmittag - saßen die beiden Gründer gegenüber von Dock 17 und tüftelten wieder an Ihrer Idee, jedem einen Kaffee Kick anbieten zu können, unabhängig von Ort und Zeit, eben wie diesen Arbeitern im Dock 17 gegenüber. Und so kam es zum Namen Dock 18.
+Dock-18 hat seinen Ursprung in Hamburg.
+
+Nicht nur, weil die beiden Gründer hier ihren Heimathafen haben, sondern weil Hamburg auch wie keine andere Stadt für den Handel und das Wissen rund um Kaffee steht.
+
+Hier ist die perfekte Basis, um neue Rezepte zu entwickeln, Kaffee-Experten zu Rate zu ziehen oder zu Verkostungen einzuladen oder im Hafen die besten Bohnen, die aus der ganzen Welt angeliefert werden, für neue Kreationen zu finden.
+
+Und der Hamburger Hafen war auch der Ursprung für den Namen Dock 18. Denn im Hamburger Hafen gibt es unzählige Docks in denen die Schiffe gebaut, überholt oder repariert werden, Arbeiter stundenlange Schichten schieben, um die Pötte auf Hochglanz zu bringen und zurück in die Elbe zu schicken.
+
+Und vor zwei Jahren - an einem sonnigen Nachmittag - saßen die beiden Gründer gegenüber von Dock 17 und tüftelten wieder an Ihrer Idee, jedem einen Kaffee Kick anbieten zu können, unabhängig von Ort und Zeit, eben wie diesen Arbeitern im Dock 17 gegenüber. Und so kam es zum Namen Dock 18.
 
 ![](https://res.cloudinary.com/dock18/image/upload/c_pad,w_960/v1556126201/Bildschirmfoto_2019-04-02_um_17.10.11_mg0dao.png){:class="image fit"}
 
 ### **DIE GRÜNDER**
 
-> Ein einmaliger Kaffee Genuss unabhängig von Ort und Zeit, das muss doch gehen, sagten sich die beiden Gründer – Basti und Hendrik – vor zwei Jahren und fingen an, ihre Idee vom unverwechselbaren Kaffee Genuss in die Tat umzusetzen.
->
-> Es wurde viel gebrüht, gekostet, verworfen, immer wieder neu gebrüht, der Kick gesucht und am Ende gefunden.
->
-> Es entstanden schließlich unterschiedliche Rezepte für leckere Kaffee und auch Tee Varianten in einer ganz modernen Form.
->
-> Mit diesen Rezepten in der Tasche gründeten die beiden die Marke „Dock 18“.
->
->   
-> Dock 18 steht für unabhängigen, unverwechselbaren Kaffee und Tee-Genuss, der Dir den Kick für den Tag gibt, Energie nach der Party oder Arbeit bringt, Dich im Nachmittagstief aufbaut oder Dir Deinen Kaffee und Tee Moment schenkt, wo auch immer Du gerade bist und das völlig natürlich hergestellt.
+Ein einmaliger Kaffee Genuss unabhängig von Ort und Zeit, das muss doch gehen, sagten sich die beiden Gründer – Basti und Hendrik – vor zwei Jahren und fingen an, ihre Idee vom unverwechselbaren Kaffee Genuss in die Tat umzusetzen.
+
+Es wurde viel gebrüht, gekostet, verworfen, immer wieder neu gebrüht, der Kick gesucht und am Ende gefunden.
+
+Es entstanden schließlich unterschiedliche Rezepte für leckere Kaffee und auch Tee Varianten in einer ganz modernen Form.
+
+Mit diesen Rezepten in der Tasche gründeten die beiden die Marke „Dock 18“.
+
+Dock 18 steht für unabhängigen, unverwechselbaren Kaffee und Tee-Genuss, der Dir den Kick für den Tag gibt, Energie nach der Party oder Arbeit bringt, Dich im Nachmittagstief aufbaut oder Dir Deinen Kaffee und Tee Moment schenkt, wo auch immer Du gerade bist und das völlig natürlich hergestellt.
 
 ![](/v1557599374/Bildschirmfoto%202019-05-11%20um%2020.28.54.png)
 
