@@ -46,5 +46,3 @@ detailseite_image_headline: "<p><strong>HEIMATHAFEN HAMBURG</strong><br>DER GESC
 ![](/v1557599374/Bildschirmfoto%202019-05-11%20um%2020.28.54.png)
 
 {:class="image fit"}
-
-### **DOCK-18 IN DER PRESSE**
