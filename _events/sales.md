@@ -55,7 +55,7 @@ detailseite_image_headline: "<p>VERTRIEBSPARTNER WERDEN</p><p>DU BRAUCHST DEN HA
   NATÜRLICHEN KICK IN DEINEM LADEN?</p>"
 
 ---
-Sie haben eine/n Shop, Supermarkt, Tankstelle, Sportgeschäft, Fitnessstudio, Beachclub, Bar/Restaurant?
+### Sie haben eine/n Shop, Supermarkt, Tankstelle, Sportgeschäft, Fitnessstudio, Beachclub, Bar/Restaurant?
 
 Möchten Sie natürlich erfrischende Energie Ihren Kunden anbieten?
 
