@@ -25,9 +25,9 @@ Es ist ein „Trend“ mit einer sehr langen Geschichte – zurückzuführen bis
 • Keine Säuren und Bitterstoffe zu entwickeln
 
 **_–> Und das völlig ohne Zucker und weiteren Zusatzstoffen.  
-**[**_![](/v1556171583/COFFEE_BUTTON-01.png)_**](https://dock-18.de/products/BlackCoffee/){:class="image fit"}
+**[**_![](https://res.cloudinary.com/dock18/image/upload/v1556171583/COFFEE_BUTTON-01.png)_**](https://dock-18.de/products/BlackCoffee/){:class="image fit"}
 
-![](/v1556171583/TEA_BUTTON-01.png){:class="image fit"}
+![](https://res.cloudinary.com/dock18/image/upload/v1556171583/TEA_BUTTON-01.png){:class="image fit"}
 
 _Erfahre mehr über_ [_Cold Brew Coffee_](https://en.wikipedia.org/wiki/List_of_coffee_drinks#Cold_brew "Wikipedia: Cold Brew Coffee") _&_ [_Cold Brew Tea_](https://en.wikipedia.org/wiki/Cold_brew_tea "Wikipedia: Cold Brew Tea") _in der Wikipedia._
 

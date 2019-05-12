@@ -30,7 +30,7 @@ Und der Hamburger Hafen war auch der Ursprung für den Namen Dock 18. Denn im Ha
 
 Und vor zwei Jahren - an einem sonnigen Nachmittag - saßen die beiden Gründer gegenüber von Dock 17 und tüftelten wieder an Ihrer Idee, jedem einen Kaffee Kick anbieten zu können, unabhängig von Ort und Zeit, eben wie diesen Arbeitern im Dock 17 gegenüber. Und so kam es zum Namen Dock 18.
 
-![](/v1557604330/Bildschirmfoto%202019-05-11%20um%2021.51.41.png){:class="image fit"}
+![](https://res.cloudinary.com/dock18/image/upload/v1557604330/Bildschirmfoto%202019-05-11%20um%2021.51.41.png){:class="image fit"}
 
 ![Cold Brew Coffee Nitro Hamburg Black Coffee Kaffee](https://res.cloudinary.com/dock18/image/upload/c_pad,w_960/v1556126201/Bildschirmfoto_2019-04-02_um_17.10.11_mg0dao.png "Cold Brew Nitro"){:class="image fit"}
 
