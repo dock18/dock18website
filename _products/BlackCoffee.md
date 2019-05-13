@@ -19,8 +19,8 @@ text: Klassisch Schwarz ohne Zusatz von Zucker oder Zusatzstoffe.  Der Cold Brew
   mit einem Hauch von Stickstoff entfaltet dieser nach dem öffnen eine einzigartige
   Textur mit einer angenehmen Cremigkeit.
 productimage1: "/v1556126186/Produktgruppe_NITRO_Coffee_Website_nki0rx.png"
-productimage2: "/v1556126189/Produktgruppe_NITRO_Coffee_Back_Website_kgyeof.png"
-productimage3: "/v1556126197/Produktgruppe_NITRO_Coffee_Back_2_Website_p5snm5.png"
+productimage2: "/v1557739550/Dock18_Coffee_Black_Website_Back_1.png"
+productimage3: "/v1557739966/Dock18_Coffee_Black_Website_Back_2.png"
 consum1: "/v1557737824/Bildschirmfoto%202019-05-06%20um%2009.23.17.png"
 consum2: "/v1556126224/IMG_8145_njfrmd.jpg"
 consum3: "/v1557738083/Bildschirmfoto%202019-05-13%20um%2011.01.01.png"
