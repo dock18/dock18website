@@ -51,7 +51,7 @@ form:
       name: message
       label: Nachricht
 Position: 6
-detailseite_image_headline: "<h3>VERTRIEBSPARTNER WERDEN</h3><p>DU BRAUCHST DEN HANSEATISCH
+detailseite_image_headline: "<p>VERTRIEBSPARTNER WERDEN</p><p>DU BRAUCHST DEN HANSEATISCH
   NATÜRLICHEN KICK IN DEINEM LADEN?</p>"
 
 ---
