@@ -23,7 +23,7 @@ productimage2: "/v1556126189/Produktgruppe_NITRO_Coffee_Back_Website_kgyeof.png"
 productimage3: "/v1556126197/Produktgruppe_NITRO_Coffee_Back_2_Website_p5snm5.png"
 consum1: "/v1557737824/Bildschirmfoto%202019-05-06%20um%2009.23.17.png"
 consum2: "/v1556126224/IMG_8145_njfrmd.jpg"
-consum3: "/v1556126226/IMG_3389_wdo6j7.jpg"
+consum3: "/v1557738083/Bildschirmfoto%202019-05-13%20um%2011.01.01.png"
 type: Coffee
 position: 1
 deactivated: false
