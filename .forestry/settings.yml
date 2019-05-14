@@ -63,10 +63,6 @@ sections:
   new_doc_ext: md
   templates:
   - events
-- type: document
-  path: _data/*.yml
-  label: Data
-  read_only: true
 upload_dir: ''
 public_path: https://res.cloudinary.com/dock18/image/upload
 front_matter_path: ''
