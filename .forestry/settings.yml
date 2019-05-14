@@ -4,15 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: _data/socialmedia.yml
-  label: Social Media
-- type: document
-  path: _data/footer.yml
-  label: Footer
-- type: document
-  path: _data/header.yml
-  label: Header
 - type: directory
   path: ''
   label: Einstiegsseiten
@@ -50,12 +41,15 @@ sections:
   - events
 - type: heading
   label: Daten
-- type: directory
-  path: _data
+- type: document
+  path: _data/header.yml
+  label: Header
+- type: document
+  path: _data/footer.yml
   label: Footer
-  create: documents
-  match: "*.yml"
-  new_doc_ext: yml
+- type: document
+  path: _data/socialmedia.yml
+  label: Social Media
 upload_dir: ''
 public_path: https://res.cloudinary.com/dock18/image/upload
 front_matter_path: ''
