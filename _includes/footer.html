@@ -2,11 +2,11 @@
     <div class="row gtr-50 gtr-uniform">
         <div class="col-3 col-6-small">
             <strong class="footer-headline">{{ site.data.footer.addressHeadline }}</strong><br/>
-            <p>{{ site.data.footer.addressContent }}</p>
+            <p>{{ site.data.footer.addressContent | newline_to_br  }}</p>
         </div>
         <div class="col-3 col-6-small">
             <strong class="footer-headline">{{ site.data.footer.contactHeadline }}</strong><br/>
-            <p>{{ site.data.footer.contactContent }}</p>
+            <p>{{ site.data.footer.contactContent | newline_to_br  }}</p>
         </div>
         <div class="col-3 col-6-small">
             <strong class="footer-headline">{{ site.data.footer.socialHeadline }}</strong><br/>
