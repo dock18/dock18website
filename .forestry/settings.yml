@@ -47,6 +47,8 @@ sections:
   new_doc_ext: md
   templates:
   - events
+- type: heading
+  label: Daten
 upload_dir: ''
 public_path: https://res.cloudinary.com/dock18/image/upload
 front_matter_path: ''
