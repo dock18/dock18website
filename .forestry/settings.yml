@@ -53,8 +53,8 @@ sections:
   path: _data
   label: Footer
   create: documents
-  match: "**/*.yml"
-  new_doc_ext: yml
+  match: "*.yml"
+  new_doc_ext: ".yml"
 upload_dir: ''
 public_path: https://res.cloudinary.com/dock18/image/upload
 front_matter_path: ''
