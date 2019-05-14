@@ -64,7 +64,7 @@ sections:
   templates:
   - events
 - type: document
-  path: _data/*.yaml
+  path: _data/*.yml
   label: Data
   read_only: true
 upload_dir: ''
