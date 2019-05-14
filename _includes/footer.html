@@ -1,8 +1,27 @@
 <footer id="footer">
-    <ul class="privacy">
-        <li><a href="/datenschutz"><span class="label">Datenschutz</span></a></li>
-        <li><a href="/impressum"><span class="label">Impressum</span></a></li>
-    </ul>
+    <div class="row gtr-50 gtr-uniform">
+        <div class="col-3 col-6-small">
+            <strong class="footer-headline">{{ site.data.footer.addressHeadline }}</strong><br/>
+            <p>{{ site.data.footer.addressContent }}</p>
+        </div>
+        <div class="col-3 col-6-small">
+            <strong class="footer-headline">{{ site.data.footer.contactHeadline }}</strong><br/>
+            <p>{{ site.data.footer.contactContent }}</p>
+        </div>
+        <div class="col-3 col-6-small">
+            <strong class="footer-headline">{{ site.data.footer.socialHeadline }}</strong><br/>
+
+            <a href="{{ site.data.socialmedia.facebookLink }}"><img class="facebook-logo" src="{{  site.cloudinary_url | append: '/c_pad,h_40,q_auto' | append: site.data.socialmedia.facebookImage }}"
+                                                                            alt="Facebook Logo"></a>
+            <a href="{{ site.data.socialmedia.instagramLink }}"><img class="instagram-logo" src="{{  site.cloudinary_url | append: '/c_pad,h_38,q_auto' | append: site.data.socialmedia.instagramImage }}"
+                                                                              alt="Instagram Logo"></a>
+        </div>
+        <div class="col-3 col-6-small">
+            <strong class="footer-headline">{{ site.data.footer.privacyHeadline }}</strong><br/>
+            <a href="/datenschutz"><span class="label">Datenschutz</span></a>
+            <a href="/impressum"><span class="label">Impressum</span></a>
+        </div>
+    </div>
     <ul class="copyright">
         <li>&copy; Rapide Food GmbH</li>
     </ul>
