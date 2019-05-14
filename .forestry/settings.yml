@@ -16,14 +16,6 @@ sections:
   - html-content
   - startpage
 - type: directory
-  path: _banners
-  label: Banner
-  create: all
-  match: "*.md"
-  new_doc_ext: md
-  templates:
-  - fullsize-banner
-- type: directory
   path: _products
   label: Produkte
   create: all
@@ -54,7 +46,7 @@ sections:
   label: Footer
   create: documents
   match: "*.yml"
-  new_doc_ext: ".yml"
+  new_doc_ext: yml
 upload_dir: ''
 public_path: https://res.cloudinary.com/dock18/image/upload
 front_matter_path: ''

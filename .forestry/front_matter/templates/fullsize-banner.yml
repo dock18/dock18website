@@ -11,7 +11,3 @@ fields:
 - type: text
   name: alt
   label: Alt
-pages:
-- _banners/Events.md
-- _banners/test2.md
-- _banners/test.md
