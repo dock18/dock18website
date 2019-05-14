@@ -7,15 +7,12 @@ sections:
 - type: document
   path: _data/socialmedia.yml
   label: Social Media
-  match: "**/*"
 - type: document
   path: _data/footer.yml
   label: Footer
-  match: "**/*"
 - type: document
   path: _data/header.yml
   label: Header
-  match: "**/*"
 - type: directory
   path: ''
   label: Einstiegsseiten
