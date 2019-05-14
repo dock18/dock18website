@@ -4,11 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: data
-  label: Data
-  match: "**/*"
-  read_only: true
 - type: directory
   path: ''
   label: Einstiegsseiten
@@ -68,6 +63,10 @@ sections:
   new_doc_ext: md
   templates:
   - events
+- type: document
+  path: _data/*.yaml
+  label: Data
+  read_only: true
 upload_dir: ''
 public_path: https://res.cloudinary.com/dock18/image/upload
 front_matter_path: ''
