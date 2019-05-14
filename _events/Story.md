@@ -32,8 +32,6 @@ Und vor zwei Jahren - an einem sonnigen Nachmittag - saßen die beiden Gründer 
 
 ![](https://res.cloudinary.com/dock18/image/upload/v1557604330/Bildschirmfoto%202019-05-11%20um%2021.51.41.png){:class="image fit"}
 
-![Cold Brew Coffee Nitro Hamburg Black Coffee Kaffee](https://res.cloudinary.com/dock18/image/upload/c_pad,w_960/v1556126201/Bildschirmfoto_2019-04-02_um_17.10.11_mg0dao.png "Cold Brew Nitro"){:class="image fit"}
-
 ### **DIE GRÜNDER**
 
 Ein einmaliger Kaffee Genuss unabhängig von Ort und Zeit, das muss doch gehen, sagten sich die beiden Gründer – Basti und Hendrik – vor zwei Jahren und fingen an, ihre Idee vom unverwechselbaren Kaffee Genuss in die Tat umzusetzen.
