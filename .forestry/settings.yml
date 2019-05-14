@@ -32,22 +32,6 @@ sections:
   templates:
   - produkt
 - type: directory
-  path: _textbanner
-  label: Textbanner
-  create: all
-  match: "*.md"
-  new_doc_ext: md
-  templates:
-  - text-banner
-- type: directory
-  path: _creation
-  label: Erstellung
-  create: documents
-  match: "*.md"
-  new_doc_ext: md
-  templates:
-  - creation
-- type: directory
   path: _instagram
   label: Instagram
   create: documents
