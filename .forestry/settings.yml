@@ -49,6 +49,12 @@ sections:
   - events
 - type: heading
   label: Daten
+- type: directory
+  path: _data
+  label: Footer
+  create: documents
+  match: "**/*.yml"
+  new_doc_ext: ".yml"
 upload_dir: ''
 public_path: https://res.cloudinary.com/dock18/image/upload
 front_matter_path: ''
