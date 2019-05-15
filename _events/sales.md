@@ -51,8 +51,8 @@ form:
       name: message
       label: Nachricht
 Position: "6"
-detailseite_image_headline: "<h1>VERTRIEBSPARTNER WERDEN</h1><h1>DU BRAUCHST DEN HANSEATISCH
-  NATÜRLICHEN KICK IN DEINEM LADEN?</h1>"
+detailseite_image_headline: "<h6>VERTRIEBSPARTNER WERDEN</h6><h6>DU BRAUCHST DEN HANSEATISCH
+  NATÜRLICHEN KICK IN DEINEM LADEN?</h6>"
 
 ---
 ### Sie haben eine/n Shop, Supermarkt, Tankstelle, Sportgeschäft, Fitnessstudio, Beachclub, Bar/Restaurant?
