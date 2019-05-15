@@ -5,11 +5,10 @@ link: "/herkunft"
 linktext: Mehr Erfahren
 imagealt: Herkunft
 image: "/v1557054591/Bildschirmfoto%202019-05-05%20um%2013.09.29.png"
-position: 1
-Position: 1
-detailseite_image_headline: "<h3><strong>DER TREND AUS DEN USA – WAS IST COLD BREW
-  NITRO?</strong></h3><p><strong>WIE EIN BARISTA IN DEN USA AUS DER NOT EINE TUGEND
-  MACHTE</strong></p><p></p>"
+position: "1"
+Position: "1"
+detailseite_image_headline: "<h1>DER TREND AUS DEN USA – WAS IST COLD BREW NITRO?</h1><h3>WIE
+  EIN BARISTA IN DEN USA AUS DER NOT EINE TUGEND MACHTE</h3><p></p>"
 
 ---
 ### **_KALTER KAFFEE, KALTER TEE? VON WEGEN!_**
