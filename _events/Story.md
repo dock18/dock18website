@@ -8,8 +8,8 @@ imagealt: Story & Presse
 image: "/v1556126202/Bildschirmfoto_2019-04-02_um_12.54.16_jghkjh.png"
 position: "2"
 Position: "2"
-detailseite_image_headline: "<h1>HEIMATHAFEN HAMBURG</h1><h3>DER GESCHICHTE UNSERER
-  WACHMACHER AUF DER SPUR</h3>"
+detailseite_image_headline: "<h6><strong>HEIMATHAFEN HAMBURG</strong></h6><h6>DER
+  GESCHICHTE UNSERER WACHMACHER AUF DER SPUR</h6>"
 
 ---
 ### **HAMBURG UND DER KAFFEE**
