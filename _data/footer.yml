@@ -1,8 +1,8 @@
 ---
-addressHeadline: 'ADDRESSE'
-privacyHeadline: 'RECHTLICHES'
-socialHeadline: 'SOCIAL'
-contactHeadline: 'KONTAKT'
+addressHeadline: ADRESSE
+privacyHeadline: RECHTLICHES
+socialHeadline: SOCIAL
+contactHeadline: KONTAKT
 addressContent: |-
   DOCK-18®
   Rapide Food GmbH
@@ -11,5 +11,5 @@ addressContent: |-
 contactContent: |-
   040 / 319 754 97
   info@dock-18.de
-copyright: '© Rapide Food GmbH'
-trademark: 'Eine eingetragene Marke der Rapide Food GmbH'
+copyright: "© Rapide Food GmbH"
+trademark: Eine eingetragene Marke der Rapide Food GmbH
