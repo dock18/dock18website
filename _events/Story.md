@@ -6,10 +6,10 @@ link: "/story_press"
 linktext: Mehr Erfahren
 imagealt: Story & Presse
 image: "/v1556126202/Bildschirmfoto_2019-04-02_um_12.54.16_jghkjh.png"
-position: 2
-Position: 2
-detailseite_image_headline: "<h3><strong>HEIMATHAFEN HAMBURG</strong></h3><p>DER GESCHICHTE
-  UNSERER WACHMACHER AUF DER SPUR</p>"
+position: "2"
+Position: "2"
+detailseite_image_headline: "<h1>HEIMATHAFEN HAMBURG</h1><h3>DER GESCHICHTE UNSERER
+  WACHMACHER AUF DER SPUR</h3>"
 
 ---
 ### **HAMBURG UND DER KAFFEE**
