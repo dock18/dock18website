@@ -6,7 +6,7 @@ linktext: Mehr Erfahren
 imagealt: VERTRIEBSPARTNER
 image: "/v1557472949/Bildschirmfoto%202019-05-10%20um%2009.12.46.png"
 title: ''
-position: "6"
+position: 6
 form:
   recipient: info@dock-18.de
   submit_text: Abschicken
@@ -50,7 +50,7 @@ form:
       type: textarea
       name: message
       label: Nachricht
-Position: "6"
+Position: 6
 detailseite_image_headline: "<h6>VERTRIEBSPARTNER WERDEN</h6><h6>DU BRAUCHST DEN HANSEATISCH
   NATÜRLICHEN KICK IN DEINEM LADEN?</h6>"
 
