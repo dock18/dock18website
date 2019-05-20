@@ -13,10 +13,6 @@ form:
   sections:
   - title: Sende uns Deine Anfrage
     fields:
-    - template: text-field
-      type: text
-      name: company
-      label: Firma/Organisation
     - template: select
       type: select
       name: salutation
@@ -30,10 +26,6 @@ form:
       type: text
       name: name
       label: Vorname/Nachname
-    - template: textarea
-      type: textarea
-      name: street
-      label: Straße + Hausnummer
     - template: text-field
       type: text
       name: street
@@ -42,10 +34,6 @@ form:
       type: text
       name: mail
       label: Mail
-    - template: text-field
-      type: text
-      name: website
-      label: Webseite
     - template: textarea
       type: textarea
       name: message
