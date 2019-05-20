@@ -11,7 +11,7 @@ form:
   recipient: info@dock-18.de
   submit_text: Abschicken
   sections:
-  - title: Sende uns Deine Anfrage
+  - title: Wir freuen uns über deine Nachricht
     fields:
     - template: select
       type: select
