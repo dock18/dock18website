@@ -1,8 +1,8 @@
 ---
 title: Rhabarber Grapefruit
-date: 2018-11-05T19:25:04.000+00:00
+date: '2018-11-05T19:25:04.000+00:00'
 productimage: "/v1557402302/DOCK18_Rhabarber_Grape_verpixelt.png"
-producttext: Rhabarber Grapefruit
+producttext: Available Soon
 productlink: "/home"
 productlinktext: Mehr
 productcolor: "#258942"
@@ -11,8 +11,8 @@ name: ''
 label: ''
 backgroundGradient: 'background-color: rgb(109,114,120)'
 fontColor: "#fff"
-sweetLevel: 4
-strongLevel: 2
+sweetLevel: "4"
+strongLevel: "2"
 claim: Der erfrischende
 text: Rhabarber wird immer beliebter. Besonders im Sommer überzeugt diese in Kombination
   mit Grapefruit ein erfrischendes und fruchtiges Geschmackserlebnis und das ohne
