@@ -26,6 +26,7 @@ products:
 - _products/BlackCoffee.md
 - _products/LatteMacchiato.md
 elements:
+- _events/file.md
 - _events/Herkunft.md
 - _events/Story.md
 - _events/Dock-18 at Night.md
