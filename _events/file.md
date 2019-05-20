@@ -4,7 +4,7 @@ text: DU WILLST EINER DER ERSTEN DOCK18 PRODUKTE PROBIEREN?
 link: "/sales"
 linktext: Mehr Erfahren
 imagealt: FIRSTONE
-image: "/v1557472949/Bildschirmfoto%202019-05-10%20um%2009.12.46.png"
+image: "/v1558351999/05_Can%20Mock-up%203.jpg"
 title: ''
 position: 6
 form:
@@ -50,16 +50,16 @@ form:
       type: textarea
       name: message
       label: Nachricht
-Position: 6
+Position: 1
 detailseite_image_headline: "<h6>BE THE FIRST!</h6><h6>DU WILLST EINER DER ERSTEN
   DOCK18 PRODUKTE PROBIEREN?</h6>"
 published: false
 
 ---
-### Sie haben eine/n Shop, Supermarkt, Tankstelle, Sportgeschäft, Fitnessstudio, Beachclub, Bar/Restaurant?
+### Probiere als einer der ersten die DOCK-18 Produkte.
 
-Möchten Sie natürlich erfrischende Energie Ihren Kunden anbieten?
+Melde Dich unter dem Formular an und du erfährst als einer der ersten alles über: Marktlaunch, Gewinnspiele, Probierpakete, weitere Produkte etc.
 
-Dann werden Sie Vertriebspartner der DOCK-18 Produkte, wir finden ein maßgeschneidertes Angebot für Ihren Shop.
+Werde Teil der Dock18Crew unter dem Hashtag #dock18coldbrew 
 
-![Cold Brew Coffee Nitro Kaffee Latte Macchiato Hamburg Dock18 Cafe ](https://res.cloudinary.com/dock18/image/upload/v1557472949/Bildschirmfoto%202019-05-10%20um%2009.12.46.png){:class="image fit"}
+![](https://res.cloudinary.com/dock18/image/upload/v1556126243/Events_Platzhalter_qfubgn.png){:class="image fit"}
