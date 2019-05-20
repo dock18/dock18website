@@ -11,8 +11,8 @@ name: ''
 label: ''
 backgroundGradient: 'background-color: #447291'
 fontColor: "#fff"
-sweetLevel: 2
-strongLevel: 4
+sweetLevel: "2"
+strongLevel: "4"
 claim: Der Klassiker
 text: Klassisch Schwarz ohne Zusatz von Zucker oder Zusatzstoffe.  Der Cold Brew Nitro
   begeistert mit seiner erfrischend natürlichen und süßen Aromenvielfalt. Versetzt
@@ -57,3 +57,5 @@ Die besonders intensive Herstellung des Cold Brew macht ihn zu etwas ganz Besond
 > • Eiweiß // 0,3g
 >
 > • Salz // 0,0g
+
+Interesse? Schicke uns eine Mail: info@dock-18.de
