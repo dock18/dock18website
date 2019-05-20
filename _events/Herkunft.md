@@ -4,9 +4,9 @@ text: ENTDECKE DAS NATÜRLICH NEUE GESCHMACKSERLEBNIS FÜR UNTERWEGS.
 link: "/herkunft"
 linktext: Mehr Erfahren
 imagealt: Herkunft
-image: "/v1557054591/Bildschirmfoto%202019-05-05%20um%2013.09.29.png"
-position: "1"
-Position: "1"
+image: "/v1558343423/Bildschirmfoto%202019-05-20%20um%2011.09.46.png"
+position: 1
+Position: 1
 detailseite_image_headline: "<h6>DER TREND AUS DEN USA – WAS IST COLD BREW NITRO?</h6><h6>WIE
   EIN BARISTA IN DEN USA AUS DER NOT EINE TUGEND MACHTE</h6><h6></h6>"
 
