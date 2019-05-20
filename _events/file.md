@@ -1,9 +1,9 @@
 ---
-headline: VERTRIEBSPARTNER WERDEN
-text: DU BRAUCHST DEN HANSEATISCHEN KICK AM MORGEN IN DEINEM LADEN?
+headline: BE THE FIRST!
+text: DU WILLST EINER DER ERSTEN DOCK18 PRODUKTE PROBIEREN?
 link: "/sales"
 linktext: Mehr Erfahren
-imagealt: VERTRIEBSPARTNER
+imagealt: FIRSTONE
 image: "/v1557472949/Bildschirmfoto%202019-05-10%20um%2009.12.46.png"
 title: ''
 position: 6
@@ -51,8 +51,8 @@ form:
       name: message
       label: Nachricht
 Position: 6
-detailseite_image_headline: "<h6>VERTRIEBSPARTNER WERDEN</h6><h6>DU BRAUCHST DEN HANSEATISCH
-  NATÜRLICHEN KICK IN DEINEM LADEN?</h6>"
+detailseite_image_headline: "<h6>BE THE FIRST!</h6><h6>DU WILLST EINER DER ERSTEN
+  DOCK18 PRODUKTE PROBIEREN?</h6>"
 published: false
 
 ---
