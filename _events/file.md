@@ -41,7 +41,6 @@ form:
 Position: 1
 detailseite_image_headline: "<h6>BE THE FIRST!</h6><h6>DU WILLST EINER DER ERSTEN
   DOCK18 PRODUKTE PROBIEREN?</h6>"
-published: false
 
 ---
 ### Probiere als einer der ersten die DOCK-18 Produkte.
