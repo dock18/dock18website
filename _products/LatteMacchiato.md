@@ -2,7 +2,7 @@
 title: Cold Brew Latte
 date: '2018-11-05T19:25:04.000+00:00'
 productimage: "/v1557487934/Produktgruppe_NITRO_Latte_Website1.png"
-producttext: Available Soon
+producttext: Available Soon!
 productlink: "/home"
 productlinktext: Mehr
 productcolor: "#447290"
