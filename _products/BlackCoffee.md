@@ -1,7 +1,7 @@
 ---
 title: Cold Brew Black
 date: '2018-11-05T19:25:04.000+00:00'
-productimage: "/v1556126186/Produktgruppe_NITRO_Coffee_Website_nki0rx.png"
+productimage: "/v1558425431/Coffee_MockUp_1_Lay_Website_front.png"
 producttext: Black Coffee
 productlink: "/home"
 productlinktext: Mehr
@@ -18,9 +18,9 @@ text: Klassisch Schwarz ohne Zusatz von Zucker oder Zusatzstoffe.  Der Cold Brew
   begeistert mit seiner erfrischend natürlichen und süßen Aromenvielfalt. Versetzt
   mit einem Hauch von Stickstoff entfaltet dieser nach dem öffnen eine einzigartige
   Textur mit einer angenehmen Cremigkeit.
-productimage1: "/v1556126186/Produktgruppe_NITRO_Coffee_Website_nki0rx.png"
-productimage2: "/v1557739550/Dock18_Coffee_Black_Website_Back_1.png"
-productimage3: "/v1557739966/Dock18_Coffee_Black_Website_Back_2.png"
+productimage1: "/v1558425431/Coffee_MockUp_1_Lay_Website_front.png"
+productimage2: "/v1558425504/Coffee_MockUp_1_Lay_Website_left.png"
+productimage3: "/v1558425564/Coffee_MockUp_1_Lay_Website_right.png"
 consum1: "/v1557737824/Bildschirmfoto%202019-05-06%20um%2009.23.17.png"
 consum2: "/v1556126224/IMG_8145_njfrmd.jpg"
 consum3: "/v1557738083/Bildschirmfoto%202019-05-13%20um%2011.01.01.png"
