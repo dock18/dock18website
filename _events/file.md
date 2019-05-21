@@ -1,7 +1,7 @@
 ---
 headline: BE THE FIRST!
 text: DU WILLST EINER DER ERSTEN DOCK18 PRODUKTE PROBIEREN?
-link: "/sales"
+link: "/kontakt"
 linktext: Mehr Erfahren
 imagealt: FIRSTONE
 image: "/v1558351999/05_Can%20Mock-up%203.jpg"
