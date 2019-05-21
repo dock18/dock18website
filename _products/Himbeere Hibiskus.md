@@ -2,7 +2,7 @@
 title: Himbeere Hibiskus
 date: '2018-11-05T19:25:04.000+00:00'
 productimage: "/v1557403804/DOCK18_Rhabarber_hibi_verpixelt.png"
-producttext: Available Soon
+producttext: Available Soon!
 productlink: "/home"
 productlinktext: Mehr
 productcolor: "#258942"
