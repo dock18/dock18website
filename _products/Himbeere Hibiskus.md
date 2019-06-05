@@ -11,7 +11,7 @@ name: ''
 label: ''
 backgroundGradient: 'background-color: rgb(109,114,120)'
 fontColor: "#fff"
-sweetLevel: "3"
+sweetLevel: "4"
 strongLevel: "2"
 claim: Das dynamische Duo
 text: 'Die Himbeere ist für Ihre leckere und gesunde Frucht bekannt. Wir nutzen aber
