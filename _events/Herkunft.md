@@ -5,8 +5,8 @@ link: "/herkunft"
 linktext: Mehr Erfahren
 imagealt: Herkunft
 image: "/v1558343423/Bildschirmfoto%202019-05-20%20um%2011.09.46.png"
-position: 1
-Position: 1
+position: 3
+Position: 3
 detailseite_image_headline: "<h6>DER TREND AUS DEN USA – WAS IST COLD BREW NITRO?</h6><h6>WIE
   EIN BARISTA IN DEN USA AUS DER NOT EINE TUGEND MACHTE</h6><h6></h6>"
 

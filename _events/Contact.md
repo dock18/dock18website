@@ -6,7 +6,7 @@ linktext: Mehr Erfahren
 imagealt: FIRSTONE
 image: "/v1558351999/05_Can%20Mock-up%203.jpg"
 title: ''
-position: 6
+position: 1
 form:
   recipient: info@dock-18.de
   submit_text: Abschicken
