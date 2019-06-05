@@ -14,7 +14,7 @@ fontColor: "#fff"
 sweetLevel: "2"
 strongLevel: "4"
 claim: Der Klassiker
-text: Klassisch Schwarz ohne Zusatz von Zucker oder Zusatzstoffe.  Der Cold Brew Nitro
+text: Klassisch Schwarz ohne Zusatz von Zucker oder Zusatzstoffe. Der Cold Brew Nitro
   begeistert mit seiner erfrischend natürlichen und süßen Aromenvielfalt. Versetzt
   mit einem Hauch von Stickstoff entfaltet dieser nach dem öffnen eine einzigartige
   Textur mit einer angenehmen Cremigkeit.
