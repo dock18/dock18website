@@ -47,6 +47,6 @@ detailseite_image_headline: "<h6>BE THE FIRST!</h6><h6>DU WILLST EINER DER ERSTE
 
 Melde Dich unter dem Formular an und du erfährst als einer der ersten alles über: Marktlaunch, Gewinnspiele, Probierpakete, weitere Produkte etc.
 
-Werde Teil der Dock18Crew unter dem Hashtag #dock18coldbrew 
+Werde Teil der Dock18Crew unter dem Hashtag [#dock18drinks](www.instagram.com/dock18drinks)
 
 ![](https://res.cloudinary.com/dock18/image/upload/v1556126243/Events_Platzhalter_qfubgn.png){:class="image fit"}
