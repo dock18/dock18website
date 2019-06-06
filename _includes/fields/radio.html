@@ -1,7 +1,7 @@
 <div class="control">
-    {{ range .options }}
+    {% for option in field.options %}
     <label class="radio">
-        <input type="radio" name="{{ $.name }}" /> {{ . }}
+        <input type="radio" name="{{ field.name }}" /> {{ option.name }}
     </label>
-    {{ end }}
+    {% endfor %}
 </div>
