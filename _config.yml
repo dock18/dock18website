@@ -32,7 +32,7 @@ collections:
     output: false
   events:
     output: true
-    permalink: /:name
+    permalink: /:name/
   stores:
     output: false
   creation:
