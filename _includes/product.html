@@ -1,7 +1,6 @@
-<div style="padding: 1em 2em;background: {{ page.backgroundGradient }};background: linear-gradient(175deg, {{ page.backgroundGradient }} 0%, {{ page.backgroundGradient }} 30%, rgba(74,118,148,0) 30%, rgba(255,255,255,0) 100%)">
+<div style="padding: 1em 2em;background: {{ page.backgroundGradient }};background: linear-gradient(175deg, {{ page.backgroundGradient }} 0%, {{ page.backgroundGradient }} 35%, rgba(74,118,148,0) 35%, rgba(255,255,255,0) 100%)">
     <div id="page-wrapper" class="single_product_section wrapper">
-        <div class="inner"
-             style="padding: 1em 2em;">
+        <div class="inner">
             <div class="row gtr-25 gtr-uniform">
                 <div class="col-3 col-12-small">
                     <div class="product_images" id="slick-product">
@@ -32,7 +31,7 @@
 
                     <div>
                         <br/>
-                        <img style="height:80px;" class="tns-lazy-img"
+                        <img style="width: 240px; object-fit: contain;" class="tns-lazy-img"
                              src="{{ site.cloudinary_url | append: '/c_pad,h_200,q_auto' | append: page.content_image }}"
                              alt="Inhaltsstoffe">
                     </div>
