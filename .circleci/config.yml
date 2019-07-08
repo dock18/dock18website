@@ -15,9 +15,6 @@ jobs:
             - rubygems-v1-{% raw %}{{ checksum "Gemfile.lock" }}{% endraw %}
             - rubygems-v1-fallback
       - run:
-          name: Bundle update
-          command: bundle update --bundler
-      - run:
           name: Gem Update
           command: gem install bundler:2.0.2
       - run:
