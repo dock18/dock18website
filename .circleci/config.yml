@@ -5,9 +5,10 @@ jobs:
   build:
     <<: *defaults
     docker:
-      - image: starefossen/ruby-node:2-10
+      - image: circleci/ruby:2.6.0-node
     environment:
       BUNDLE_PATH: ~/repo/vendor/bundle
+      BUNDLER_VERSION: 2.0.1
     steps:
       - checkout
       - restore_cache:
