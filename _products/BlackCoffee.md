@@ -9,7 +9,7 @@ productcolor: "#447291"
 produktlinktext: ''
 name: ''
 label: ''
-backgroundGradient: 'background-color: #447291'
+backgroundGradient: '#447291'
 fontColor: "#fff"
 sweetLevel: "2"
 strongLevel: "4"

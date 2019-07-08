@@ -4,7 +4,9 @@
 @import 'libs/vendor';
 @import 'libs/breakpoints';
 @import 'libs/html-grid';
-@import "~lightbox2/dist/css/lightbox.min.css";
+@import '~slick-carousel/slick/slick.css';
+@import "~slick-carousel/slick/slick-theme.css";
+@import "~slick-lightbox/dist/slick-lightbox.css";
 
 
 //@import "~font-awesome/css/font-awesome.css";
@@ -647,9 +649,13 @@ input[type="radio"] {
     display: block;
     margin: 0 0 _size(element-margin) 0;
     width: 100%;
+    height: 100%;
+    object-fit: cover;
 
     img {
       width: 100%;
+      height: 100%;
+      object-fit: cover;
     }
   }
 }
@@ -2060,7 +2066,7 @@ body.is-mobile {
 
   .product-list-wrapper {
     display: grid;
-    margin-top: 15vh;
+    margin-top: 5vh;
 
     padding-left: 10vw;
     padding-right: 10vw;
@@ -2469,7 +2475,7 @@ body.is-mobile {
 
 .single_product_section {
 
-  margin-top: 4em;
+  margin-top: 3em;
 
   @include breakpoint('>small') {
     padding-left: 4em;
