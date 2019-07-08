@@ -23,14 +23,14 @@ Es ist ein „Trend“ mit einer sehr langen Geschichte – zurückzuführen bis
 • Die natürliche Süße erhalten bleibt  
 • Keine Säuren und Bitterstoffe zu entwickeln
 
-\**_–> Und das völlig ohne Zucker und weiteren Zusatzstoffen.  
-\**[**_![](https://res.cloudinary.com/dock18/image/upload/v1556171583/COFFEE_BUTTON-01.png)_**](https://dock-18.de/products/BlackCoffee/){:class="image fit"}
+\*__–> Und das völlig ohne Zucker und weiteren Zusatzstoffen.  
+\*_[**_![](https://res.cloudinary.com/dock18/image/upload/v1556171583/COFFEE_BUTTON-01.png)_**](https://dock-18.de/products/BlackCoffee/){:class="image fit"}
 
 ![](https://res.cloudinary.com/dock18/image/upload/v1556171583/TEA_BUTTON-01.png){:class="image fit"}
 
 _Erfahre mehr über_ [_Cold Brew Coffee_](https://en.wikipedia.org/wiki/List_of_coffee_drinks#Cold_brew "Wikipedia: Cold Brew Coffee") _&_ [_Cold Brew Tea_](https://en.wikipedia.org/wiki/Cold_brew_tea "Wikipedia: Cold Brew Tea") _in der Wikipedia._
 
-![ColdBrew Cold Brew Process Hamburg Nitro Coffee Nitro Kaffee Tea Dock18 Kaffeebohnen ](https://res.cloudinary.com/dock18/image/upload/v1558344078/AdobeStock_246753642_web_1.png "Cold Brew Process"){:class="image fit"}
+![](https://res.cloudinary.com/dock18/image/upload/v1562596115/AdobeStock_246753642_web_2.png){:class="image fit"}
 
 ***
 

@@ -98,5 +98,5 @@ fields:
     maxSize: 250
   label: Inhaltsbild
 pages:
-- _products/BlackCoffee.md
 - _products/LatteMacchiato.md
+- _products/BlackCoffee.md
