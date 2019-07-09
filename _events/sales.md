@@ -17,6 +17,7 @@ form:
       type: text
       name: company
       label: Firma/Organisation
+      required: true
     - template: select
       type: select
       name: salutation
@@ -30,18 +31,22 @@ form:
       type: text
       name: name
       label: Vorname/Nachname
+      required: true
     - template: textarea
       type: textarea
       name: street
       label: Straße + Hausnummer
+      required: false
     - template: text-field
       type: text
       name: street
       label: 'PLZ Ort '
+      required: false
     - template: text-field
       type: text
       name: mail
       label: Mail
+      required: true
     - template: text-field
       type: text
       name: website
@@ -50,6 +55,7 @@ form:
       type: textarea
       name: message
       label: Nachricht
+      required: true
 Position: 6
 detailseite_image_headline: "<h6>VERTRIEBSPARTNER WERDEN</h6><h6>DU BRAUCHST DEN HANSEATISCH
   NATÜRLICHEN KICK IN DEINEM LADEN?</h6>"
