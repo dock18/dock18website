@@ -1,6 +1,6 @@
 <div class="control">
     <div class="select">
-        <select name="{{ field.name }}">
+        <select {% if field.required %} required="required" {% endif %} name="{{ field.name }}">
             {% for option in field.options %}
             <option>{{ option }}</option>
             {% endfor %}

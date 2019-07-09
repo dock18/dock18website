@@ -27,3 +27,6 @@ fields:
   name: description
   label: Description
   description: Help text to display beneath field. Optional.
+- name: required
+  type: boolean
+  label: Required

@@ -1,7 +1,7 @@
 <div class="control">
     {% for option in field.options %}
     <label class="radio">
-        <input type="radio" name="{{ field.name }}" /> {{ option.name }}
+        <input {% if field.required %} required="required" {% endif %} type="radio" name="{{ field.name }}" /> {{ option.name }}
     </label>
     {% endfor %}
 </div>

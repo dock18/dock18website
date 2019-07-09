@@ -34,10 +34,12 @@ form:
       type: text
       name: mail
       label: Mail
+      required: true
     - template: textarea
       type: textarea
       name: message
       label: Nachricht
+      required: true
 Position: 1
 detailseite_image_headline: "<h6>BE THE FIRST!</h6><h6>DU WILLST EINER DER ERSTEN
   DOCK18 PRODUKTE PROBIEREN?</h6>"

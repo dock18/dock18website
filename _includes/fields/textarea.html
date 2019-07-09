@@ -1,1 +1,1 @@
-<textarea class="textarea" name="{{ field.name }}"></textarea>
+<textarea {% if field.required %} required="required" {% endif %} class="textarea" name="{{ field.name }}"></textarea>
