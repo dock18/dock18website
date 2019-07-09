@@ -30,3 +30,6 @@ fields:
 - type: list
   name: options
   label: Options
+- name: required
+  type: boolean
+  label: Required
