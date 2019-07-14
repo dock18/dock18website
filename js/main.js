@@ -41,10 +41,22 @@ import 'slick-lightbox/dist/slick-lightbox.min';
         $body.removeClass('is-preload');
         AOS.init();
 
-        $('#slick-product').slick();
+        $('#slick-product').slick({
+            dots: false,
+            infinite: true,
+            speed: 300,
+            slidesToScroll: 1,
+            arrows: true,
+            prevArrow: '<div class="slick-prev"><i class="fa fa-angle-left" aria-hidden="true"></i></div>',
+            nextArrow: '<div class="slick-next"><i class="fa fa-angle-right" aria-hidden="true"></i></div>'
+        });
         $('#slick-product').slickLightbox({
             src: 'src',
             itemSelector: '.item img'
+        });
+
+        $('.headline-arrow').click(function() {
+           $(this).toggleClass('is-open');
         });
     });
 

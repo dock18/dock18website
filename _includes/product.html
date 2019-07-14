@@ -1,4 +1,4 @@
-<div style="padding: 1em 2em;background: {{ page.backgroundGradient }};background: linear-gradient(175deg, {{ page.backgroundGradient }} 0%, {{ page.backgroundGradient }} 35%, rgba(74,118,148,0) 35%, rgba(255,255,255,0) 100%)">
+<div style="padding: 1em 2em;background: {{ page.backgroundGradient }};background: linear-gradient(175deg, {{ page.backgroundGradient }} 0%, {{ page.backgroundGradient }} 40%, rgba(74,118,148,0) 40%, rgba(255,255,255,0) 100%)">
     <div id="page-wrapper" class="single_product_section wrapper">
         <div class="inner">
             <div class="row gtr-25 gtr-uniform">
@@ -28,7 +28,14 @@
                     <h1 class="single_product_headline">{{ page.producttext }}</h1>
                     <h2 style="color: {{ page.fontColor }}">{{ page.claim }}</h2>
                     <p>{{ page.text }}</p>
-
+                    <p>
+                        <h3 class="headline-arrow"> Zutaten</h3>
+                        <span>{{ page.ingridients | markdownify }}</span>
+                    </p>
+                    <p>
+                        <h3 class="headline-arrow"> NÄHRWERTTABELLE (pro 100ml)</h3>
+                        <span>{{ page.nutrition | markdownify }}</span>
+                    </p>
                     <div>
                         <br/>
                         <img style="width: 240px; object-fit: contain;" class="tns-lazy-img"

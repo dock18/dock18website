@@ -50,24 +50,4 @@ Die besonders intensive Herstellung des Cold Brew macht ihn zu etwas ganz Besond
 
 ***
 
-**ZUTATEN:** gefiltertes Wasser, Röstkaffee
-
-> **NÄHRWERTTABELLE (pro 100ml)**
->
-> • Nährwerte pro 100 ml
->
-> • Brennwert / Energy // 31 KJ / 7 KCAL
->
-> • Fett // 0,0 g
->
-> • davon gesättigte Fettsäuren // 0,0 g
->
-> • Kohlenhydrate // 0,5 g
->
-> • davon Zucker // 0,0 g
->
-> • Eiweiß // 0,3 g
->
-> • Salz // 0,0 g
-
 [Interesse? Schicke uns eine Mail: info@dock-18.de]()

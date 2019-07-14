@@ -7,8 +7,6 @@
 @import '~slick-carousel/slick/slick.css';
 @import "~slick-carousel/slick/slick-theme.css";
 @import "~slick-lightbox/dist/slick-lightbox.css";
-
-
 //@import "~font-awesome/css/font-awesome.css";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic');
 
@@ -2400,6 +2398,7 @@ body.is-mobile {
 
 
 }
+
 .claim {
   width: 80vw;
   @include breakpoint('>=medium') {
@@ -2518,7 +2517,7 @@ img.badge {
 .event-header {
 
   h2, h3, h4, h5, h6, p, strong {
-    color:white;
+    color: white;
   }
 
   h1 {
@@ -2556,4 +2555,40 @@ img.badge {
 .footer-headline {
   color: white;
   text-align: left;
+}
+
+.slick-next {
+  right: 25px !important;
+}
+
+.slick-prev {
+  left: 25px !important;
+}
+
+.headline-arrow {
+
+  cursor: pointer;
+  & + span {
+    display: none;
+    font-size: smaller;
+  }
+  &.is-open {
+    margin-bottom: 0;
+    &:before {
+      transform: rotate(90deg);
+      -webkit-transform: rotate(90deg);
+      -moz-transform: rotate(90deg);
+      -o-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+    }
+
+    & + span {
+      display: block;
+    }
+  }
+
+  &:before {
+    content: "\203A ";
+    display: inline-block;
+  }
 }
