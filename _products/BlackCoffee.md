@@ -28,16 +28,18 @@ type: Coffee
 position: 1
 deactivated: false
 content_image: "/v1557576067/Black_Inhalt.png"
-ingridients: Gefiltertes Wasser, Röstkaffee
+ingridients: |-
+  * Gefiltertes Wasser
+  * Röstkaffee
 nutrition: |-
-  • Nährwerte pro 100 ml
-  • Brennwert / Energy // 31 KJ / 7 KCAL
-  • Fett // 0,0 g
-  • davon gesättigte Fettsäuren // 0,0 g
-  • Kohlenhydrate // 0,5 g
-  • davon Zucker // 0,0 g
-  • Eiweiß // 0,3 g
-  • Salz // 0,0 g
+  * Nährwerte pro 100 ml
+  * Brennwert / Energy // 31 KJ / 7 KCAL
+  * Fett // 0,0 g
+  * davon gesättigte Fettsäuren // 0,0 g
+  * Kohlenhydrate // 0,5 g
+  * davon Zucker // 0,0 g
+  * Eiweiß // 0,3 g
+  * Salz // 0,0 g
 
 ---
 **WAS IST COLD BREW NITRO?**
