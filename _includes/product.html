@@ -1,7 +1,7 @@
-<div style="padding: 1em 2em;background: {{ page.backgroundGradient }};background: linear-gradient(175deg, {{ page.backgroundGradient }} 0%, {{ page.backgroundGradient }} 40%, rgba(74,118,148,0) 40%, rgba(255,255,255,0) 100%)">
+<div>
     <div id="page-wrapper" class="single_product_section wrapper">
         <div class="inner">
-            <div class="row gtr-25 gtr-uniform">
+            <div class="row gtr-25 gtr-uniform"  style="background: {{ page.backgroundGradient }};">
                 <div class="col-3 col-12-small">
                     <div class="product_images" id="slick-product">
                         <div class="item">
@@ -37,17 +37,14 @@
                         <span>{{ page.nutrition | markdownify }}</span>
                     </p>
                     <div>
-                        <br/>
                         <img style="width: 240px; object-fit: contain;" class="tns-lazy-img"
                              src="{{ site.cloudinary_url | append: '/c_pad,h_200,q_auto' | append: page.content_image }}"
                              alt="Inhaltsstoffe">
                     </div>
+                    <br />
                 </div>
-
             </div>
-            <br/>
-            <br/>
-            <br/>
+            <br />
             <div>
                 <h2>Konsumgelegenheiten</h2>
                 <div class="row gtr-50 gtr-uniform">
