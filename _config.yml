@@ -26,6 +26,7 @@ collections:
     output: false
   products:
     output: true
+    permalink: /:name/
   textbanner:
     output: false
   fullsizetextbanner:

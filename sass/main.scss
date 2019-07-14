@@ -2595,3 +2595,13 @@ img.badge {
     display: inline-block;
   }
 }
+
+@include breakpoint('<medium') {
+  .padding-on-small {
+    padding: 1em!important;
+
+    &.col-9.col-12-small {
+      padding: 1em!important;
+    }
+  }
+}
