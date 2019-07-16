@@ -24,7 +24,7 @@ _Vertreten durch die Geschäftsführer:_ Hendrik Lepping, Sebastian Lepping
 
 ## Kontakt
 
-Telefon: +49 40 / 319 754 97
+Telefon: +49 40 / 359 87 17 7
 E-Mail: info@rapidefood.com
 
 ## Umsatzsteuer
