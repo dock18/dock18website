@@ -18,7 +18,7 @@ text: Klassisch Schwarz ohne Zusatz von Zucker oder Zusatzstoffe. Der Cold Brew 
   begeistert mit seiner erfrischend natürlichen und süßen Aromenvielfalt. Versetzt
   mit einem Hauch von Stickstoff entfaltet dieser nach dem öffnen eine einzigartige
   Textur mit einer angenehmen Cremigkeit.
-productimage1: "/v1558425431/Coffee_MockUp_1_Lay_Website_front.png"
+productimage1: ''
 productimage2: "/v1558425504/Coffee_MockUp_1_Lay_Website_left.png"
 productimage3: "/v1558425564/Coffee_MockUp_1_Lay_Website_right.png"
 consum1: "/v1557737824/Bildschirmfoto%202019-05-06%20um%2009.23.17.png"
