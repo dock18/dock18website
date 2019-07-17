@@ -25,16 +25,16 @@
                 </div>
                 <div class="col-9 col-12-small padding-on-small">
                     <br/>
-                    <h1 class="single_product_headline">{{ page.producttext }}</h1>
+                    <h1 style="color: {{ page.fontColor }}" class="single_product_headline">{{ page.producttext }}</h1>
                     <h2 style="color: {{ page.fontColor }}">{{ page.claim }}</h2>
-                    <p>{{ page.text }}</p>
+                    <p style="color: {{ page.fontColor }}">{{ page.text }}</p>
                     <p>
-                        <h3 class="headline-arrow"> Zutaten</h3>
-                        <span>{{ page.ingridients | markdownify }}</span>
+                        <h3 style="color: {{ page.fontColor }}" class="headline-arrow"> Zutaten</h3>
+                        <span style="color: {{ page.fontColor }}">{{ page.ingridients | markdownify }}</span>
                     </p>
                     <p>
-                        <h3 class="headline-arrow"> NÄHRWERTTABELLE (pro 100ml)</h3>
-                        <span>{{ page.nutrition | markdownify }}</span>
+                        <h3 style="color: {{ page.fontColor }}" class="headline-arrow"> NÄHRWERTTABELLE (pro 100ml)</h3>
+                        <span style="color: {{ page.fontColor }}">{{ page.nutrition | markdownify }}</span>
                     </p>
                     <div>
                         <img style="width: 240px; object-fit: contain;" class="tns-lazy-img"
