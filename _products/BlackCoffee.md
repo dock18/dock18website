@@ -23,7 +23,7 @@ productimage2: "/v1558425504/Coffee_MockUp_1_Lay_Website_left.png"
 productimage3: "/v1558425564/Coffee_MockUp_1_Lay_Website_right.png"
 consum1: "/v1557737824/Bildschirmfoto%202019-05-06%20um%2009.23.17.png"
 consum2: "/v1556126224/IMG_8145_njfrmd.jpg"
-consum3: "/v1557738083/Bildschirmfoto%202019-05-13%20um%2011.01.01.png"
+consum3: "/v1565018180/Bildschirmfoto_2019-08-05_um_17.14.30_rutgb1.png"
 type: Coffee
 position: 1
 deactivated: false
