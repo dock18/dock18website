@@ -4,7 +4,7 @@ text: DU WILLST EINER DER ERSTEN DOCK18 PRODUKTE PROBIEREN?
 link: "/kontakt"
 linktext: Mehr Erfahren
 imagealt: FIRSTONE
-image: "/v1558351999/05_Can%20Mock-up%203.jpg"
+image: "/v1565018180/Bildschirmfoto_2019-08-05_um_17.14.30_rutgb1.png"
 title: ''
 position: 1
 form:
