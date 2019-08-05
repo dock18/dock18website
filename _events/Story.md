@@ -5,7 +5,7 @@ title: DIE STORY HINTER DOCK-18
 link: "/story_press"
 linktext: Mehr Erfahren
 imagealt: Story & Presse
-image: "/v1556126202/Bildschirmfoto_2019-04-02_um_12.54.16_jghkjh.png"
+image: "/v1564668738/DSC_5086_beschn_bc29eh.jpg"
 position: 2
 Position: 2
 detailseite_image_headline: "<h6><strong>HEIMATHAFEN HAMBURG</strong></h6><h6>DER
