@@ -11,34 +11,16 @@ detailseite_image_headline: "<h6>DER TREND AUS DEN USA – WAS IST COLD BREW NIT
   EIN BARISTA IN DEN USA AUS DER NOT EINE TUGEND MACHTE</h6><h6></h6>"
 
 ---
-### **_KALTER KAFFEE, KALTER TEE? VON WEGEN!_**
+### **_WAS IST COLD BREW?_**
 
-Ich lasse meinen heißen Kaffee stehen und habe kalten Kaffee ... glauben viele!
+**COLD BREW** – enthält im Vergleich zur Kaffeeherstellung mit Heißwasser nur 15 Prozent der Säuren eines normalen Kaffees, ist deshalb milder und damit auch magenfreundlicher. Zum Hintergrund: Je heißer das Wasser, umso mehr Bitterstoffe werden gelöst. Bei der langsamen, bis zu 20 Stunden dauernden Zubereitungsmethode eines Cold Brews passiert genau das Gegenteil: Je länger der Kaffee im kalten Wasser extrahiert, desto mehr Aromen entfalten sich. Das Ergebnis ist ein köstliches Getränk mit einem lieblichen Geschmack. Zusätzlicher Zucker ist da völlig überflüssig.
 
-Doch was hat es wirklich mit COLD BREW auf sich?  
-Es ist ein „Trend“ mit einer sehr langen Geschichte – zurückzuführen bis in’s 17. Jahrhundert aus Japan, aber wir sind hier nicht im Geschichtsunterricht.
-
-**COLD BREW** – wie im Namen schon erwärmt, sprechen wir hier von „kalt gebrüht – bzw. „kalt extrahiert“. Hier geht es um Zeit, sehr viel Zeit. In unserer hauseigenen Brauerei geben wir unserem gemahlenen Kaffeebohnen (20 Stunden) und Teeblättern (6 Stunden) genau die richtige Zeit um in besonders aufbereitetem Wasser:  
-• Ihre volle Aromenvielfalt zu entwickeln  
-• Die natürliche Süße erhalten bleibt  
-• Keine Säuren und Bitterstoffe zu entwickeln
-
-\*__–> Und das völlig ohne Zucker und weiteren Zusatzstoffen.  
-\*_[**_![](https://res.cloudinary.com/dock18/image/upload/v1556171583/COFFEE_BUTTON-01.png)_**](https://dock-18.de/products/BlackCoffee/){:class="image fit"}
-
-![](https://res.cloudinary.com/dock18/image/upload/v1556171583/TEA_BUTTON-01.png){:class="image fit"}
-
-_Erfahre mehr über_ [_Cold Brew Coffee_](https://en.wikipedia.org/wiki/List_of_coffee_drinks#Cold_brew "Wikipedia: Cold Brew Coffee") _&_ [_Cold Brew Tea_](https://en.wikipedia.org/wiki/Cold_brew_tea "Wikipedia: Cold Brew Tea") _in der Wikipedia._
+### **_UNSER PROZESS_**
 
 ![](https://res.cloudinary.com/dock18/image/upload/v1562596115/AdobeStock_246753642_web_2.png){:class="image fit"}
 
 ***
 
-**DER SCHAUMIG ERFRISCHENDE NITRO EFFEKT!**  
-_Aus einer Not entstanden, da ein Barista den hauseigenen Cold Brew effizienter kühlen und dem Gast servieren wollte._  
-So nahm er eine klassische Zapfanlage, füllte Cold Brew im Fass ab und schloss die Stickstoffanlage an. So entstand Cold Brew Nitro, unspektakulär aus der Not eine Tugend gemacht und somit DAS Trend Erfrischungsgetränk aus den USA erfunden.
+### **Der Nitro Effekt: Ein echtes Erlebnis für Gaumen und Auge**
 
-**COLD BREW NITRO**  
-Diesen Effekt machen wir uns zu nutzen und entwickeln einzigartige Coffee und Tea Spezialitäten, kalt gebrüht mit dem Nitro-Effekt in der Dose, für ein neues, natürliches, vollmundiges Geschmackserlebnis für Unterwegs.
-
-Erfahre mehr über [Cold Brew Nitro](https://en.wikipedia.org/wiki/Nitro_cold_brew_coffee) bzw. [Nitro Coffee](https://en.wikipedia.org/wiki/Nitro_cold_brew_coffee) in der Wikipedia
+Für ein besonderes Geschmackserlebnis sorgt zusätzlich der „Nitro-Effekt“. Nitro steht für Nitrogen und bedeutet, dass beim Öffnen der Dose der Cold Brew frisch mit Stickstoff durchzogen und damit nicht nur optisch zu einem Hingucker wird. Bekannt ist dieser Effekt bereits aus der weltweit erhältlichen Guinness Dose und basiert auf einer Kunststoffkapsel, in der Stickstoffgas enthalten ist. Beim Öffnen der Dose wird dieses freigesetzt und aufsteigende Gasbläschen werden erzeugt. Beim Eingießen in das Glas sinken diese Gasbläschen nach unten. Dadurch bekommt der Nitro Cold Brew jederzeit eine perfekte Crema wie beim Italiener und einen angenehm erfrischenden, leicht süßlichen Geschmack.
