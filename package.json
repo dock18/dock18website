@@ -41,7 +41,7 @@
   "dependencies": {
     "aos": "^3.0.0-beta.6",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery.scrollex": "^0.2.1",
     "jquery.scrolly": "0.0.1",
     "lightbox2": "^2.11.0",
